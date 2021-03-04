@@ -1,0 +1,58 @@
+# ignore everything
+*
+
+# except...
+# this file
+!.gitignore
+
+# github files
+!.github
+!.github/**
+
+# selected configs
+!config
+!config/defaultoptions
+!config/defaultoptions/*
+!config/defaultworldtype
+!config/defaultworldtype/client-config.toml
+!config/fancymenu
+!config/fancymenu/*
+!config/ftbquests
+!config/ftbquests/*
+!config/botanicalmachinery-client.toml
+!config/sidebar_buttons.json
+!config/theoneprobe-*.toml
+!config/ftbultimine.json5 # need to configure
+!config/lootr-common.toml # still need to add
+
+# kubejs
+!kubejs
+!kubejs/assets
+!kubejs/assets/**
+!kubejs/config
+!kubejs/config/client.properties
+!kubejs/startup_scripts
+!kubejs/startup_scripts/*
+
+# readme
+!README.md
+
+# modlist
+!modlist.md
+
+# changelogs
+!changelogs
+!changelogs/*.md
+
+# server utilities
+!clientmods.txt
+!create_current_manifest.py
+!manifest.json
+!modcache.json
+!overrides.txt
+!pack.json
+!serverdata
+!serverdata/**
+!scripts
+!scripts/*
+!tokens-example.json
