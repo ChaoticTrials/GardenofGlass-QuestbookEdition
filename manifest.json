@@ -14,7 +14,7 @@
     "version": "4.2.0",
     "author": "MelanX",
     "projectID": 275351,
-    "name": "Garden of Glass (Questbook Edition)",
+    "name": "Garden of Glass (Questbook Edition)\n",
     "files": [
         {
             "_displayName": "A Block of Charcoal",
@@ -24,7 +24,7 @@
         {
             "_displayName": "AIOT Botania",
             "projectID": 294815,
-            "fileID": 3171597
+            "fileID": 3224181
         },
         {
             "_displayName": "AppleSkin",
@@ -34,12 +34,12 @@
         {
             "_displayName": "Architectury API (Forge)",
             "projectID": 419699,
-            "fileID": 3167262
+            "fileID": 3222916
         },
         {
             "_displayName": "Automatic Tool Swap",
             "projectID": 361977,
-            "fileID": 3172338
+            "fileID": 3180564
         },
         {
             "_displayName": "Better Advancements",
@@ -49,7 +49,7 @@
         {
             "_displayName": "Botania",
             "projectID": 225643,
-            "fileID": 3134409
+            "fileID": 3175663
         },
         {
             "_displayName": "Botania: Garden of Glass",
@@ -64,7 +64,12 @@
         {
             "_displayName": "Carry On",
             "projectID": 274259,
-            "fileID": 3079317
+            "fileID": 3206755
+        },
+        {
+            "_displayName": "Cloth Config API (Forge)",
+            "projectID": 348521,
+            "fileID": 3210411
         },
         {
             "_displayName": "Construction Wand",
@@ -74,12 +79,12 @@
         {
             "_displayName": "Controlling",
             "projectID": 250398,
-            "fileID": 3169795
+            "fileID": 3223560
         },
         {
             "_displayName": "Curios API (Forge)",
             "projectID": 309927,
-            "fileID": 3168960
+            "fileID": 3186427
         },
         {
             "_displayName": "Default Options",
@@ -89,12 +94,12 @@
         {
             "_displayName": "Default World Type (Forge)",
             "projectID": 373014,
-            "fileID": 3101063
+            "fileID": 3222954
         },
         {
             "_displayName": "Ding",
             "projectID": 231275,
-            "fileID": 3062074
+            "fileID": 3222705
         },
         {
             "_displayName": "FTB Backups",
@@ -104,32 +109,32 @@
         {
             "_displayName": "FTB Chunks",
             "projectID": 314906,
-            "fileID": 3162790
+            "fileID": 3189022
         },
         {
             "_displayName": "FTB GUI Library",
             "projectID": 404465,
-            "fileID": 3133000
+            "fileID": 3214262
         },
         {
             "_displayName": "FTB Quests",
             "projectID": 289412,
-            "fileID": 3154827
+            "fileID": 3217206
         },
         {
             "_displayName": "FTB Teams",
             "projectID": 404468,
-            "fileID": 3132239
+            "fileID": 3182798
         },
         {
             "_displayName": "FTB Ultimine",
             "projectID": 386134,
-            "fileID": 3118088
+            "fileID": 3226218
         },
         {
             "_displayName": "FancyMenu",
             "projectID": 367706,
-            "fileID": 3127591
+            "fileID": 3190780
         },
         {
             "_displayName": "Fast Leaf Decay",
@@ -139,7 +144,7 @@
         {
             "_displayName": "FastFurnace",
             "projectID": 299540,
-            "fileID": 3069048
+            "fileID": 3172796
         },
         {
             "_displayName": "FastWorkbench",
@@ -154,7 +159,7 @@
         {
             "_displayName": "GraveStone Mod",
             "projectID": 238551,
-            "fileID": 3169778
+            "fileID": 3195857
         },
         {
             "_displayName": "Harvest",
@@ -184,7 +189,7 @@
         {
             "_displayName": "Item Filters",
             "projectID": 309674,
-            "fileID": 3132233
+            "fileID": 3206607
         },
         {
             "_displayName": "Just Enough Items (JEI)",
@@ -199,12 +204,12 @@
         {
             "_displayName": "Konkrete",
             "projectID": 410295,
-            "fileID": 3154318
+            "fileID": 3190770
         },
         {
             "_displayName": "KubeJS",
             "projectID": 238086,
-            "fileID": 3172039
+            "fileID": 3222777
         },
         {
             "_displayName": "LibX",
@@ -219,17 +224,17 @@
         {
             "_displayName": "Morpheus",
             "projectID": 69118,
-            "fileID": 3114135
+            "fileID": 3215383
         },
         {
             "_displayName": "Mouse Tweaks",
             "projectID": 60089,
-            "fileID": 3035780
+            "fileID": 3202662
         },
         {
             "_displayName": "MythicBotany",
             "projectID": 400058,
-            "fileID": 3135507
+            "fileID": 3200393
         },
         {
             "_displayName": "No Default Auto-Jump",
@@ -239,17 +244,17 @@
         {
             "_displayName": "Patchouli",
             "projectID": 306770,
-            "fileID": 3126931
+            "fileID": 3204037
         },
         {
             "_displayName": "Placebo",
             "projectID": 283644,
-            "fileID": 3171214
+            "fileID": 3172794
         },
         {
             "_displayName": "RandomPatches (Forge)",
             "projectID": 285612,
-            "fileID": 3158999
+            "fileID": 3211323
         },
         {
             "_displayName": "ReAuth",
@@ -259,7 +264,7 @@
         {
             "_displayName": "Rhino",
             "projectID": 416294,
-            "fileID": 3162251
+            "fileID": 3187177
         },
         {
             "_displayName": "The One Probe",
@@ -269,12 +274,12 @@
         {
             "_displayName": "Toast Control",
             "projectID": 271740,
-            "fileID": 3069051
+            "fileID": 3172881
         },
         {
             "_displayName": "TwerkItMeal - Twerk To Grow All The Things",
             "projectID": 414640,
-            "fileID": 3163570
+            "fileID": 3223367
         }
     ]
 }

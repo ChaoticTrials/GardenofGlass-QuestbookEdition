@@ -10,12 +10,12 @@ from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 owner = "MelanX"
-repo = "castBINGO"
+repo = "GardenofGlass-QuestbookEdition"
 
 
 def getCurrentManifest():
     print("Get current manifest...")
-    response = urlopen("https://raw.githubusercontent.com/MelanX/castBINGO/master/manifest.json")
+    response = urlopen("https://raw.githubusercontent.com/MelanX/GardenofGlass-QuestbookEdition/master/manifest.json")
     return json.loads(response.read())
 
 
@@ -82,7 +82,7 @@ def githubChanges(manifest_data: dict, file_name: str):
         commits.append([message, url])
 
     with open(file_name, "a", encoding="utf-8") as f:
-        appendFile(f, "# Changelog for castBINGO! " + manifest_data['version'])
+        appendFile(f, "# Changelog for Garden of Glass (Questbook Edition) " + manifest_data['version'])
         appendFile(f, "## Internal changes")
         for commit in commits:
             appendFile(f, f"- [{commit[0]}]({commit[1]})")

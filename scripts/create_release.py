@@ -130,7 +130,7 @@ def createServerZip(manifest, gitignore):
             'allow-flight=true\n',
             'enable-command-block=true\n',
             'max-players=32\n',
-            f'motd=§4CastBingo {manifest["version"]}§r\\nHosted by Syncopsta\n',
+            f'motd=§4Garden of Glass (Questbook Edition)\\nv{manifest["version"]}§r',
             'online-mode=true\n',
             'spawn-protection=0\n',
             'view-distance=8\n'
@@ -161,7 +161,8 @@ def uploadToGithub(token, manifest):
     commit = subprocess.check_output(['git', 'rev-parse', 'HEAD']).decode('utf-8').strip()
 
     print(f'Create release on newer commit {commit}')
-    create_release = Request('https://api.github.com/repos/MelanX/castBINGO/releases', method='POST')
+    create_release = Request('https://api.github.com/repos/MelanX/GardenofGlass-QuestbookEdition/releases',
+                             method='POST')
     create_release.add_header('Authorization', f'token {token}')
     create_release.add_header('Accept', 'application/vnd.github.v3+json')
     create_release.add_header('Content-Type', 'application/json')
@@ -187,7 +188,7 @@ def uploadToGithub(token, manifest):
 
 def uploadFileToRelease(token, release_id, manifest, mime, basename, suffix, path):
     request = Request(
-        f'https://uploads.github.com/repos/MelanX/castBINGO/releases/{release_id}/assets?name={basename}-{manifest["version"]}.{suffix}',
+        f'https://uploads.github.com/repos/MelanX/GardenofGlass-QuestbookEdition/releases/{release_id}/assets?name={basename}-{manifest["version"]}.{suffix}',
         method='POST')
     request.add_header('Authorization', f'token {token}')
     request.add_header('Content-Type', mime)
