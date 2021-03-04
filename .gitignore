@@ -19,10 +19,10 @@
 !config/fancymenu/*
 !config/ftbquests
 !config/ftbquests/*
+!config/ftbultimine.json5
 !config/botanicalmachinery-client.toml
 !config/sidebar_buttons.json
 !config/theoneprobe-*.toml
-!config/ftbultimine.json5 # need to configure
 !config/lootr-common.toml # still need to add
 
 # kubejs
