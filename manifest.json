@@ -1,0 +1,280 @@
+{
+    "minecraft": {
+        "version": "1.16.5",
+        "modLoaders": [
+            {
+                "id": "forge-36.0.42",
+                "primary": true
+            }
+        ]
+    },
+    "manifestType": "minecraftModpack",
+    "overrides": "overrides",
+    "manifestVersion": 1,
+    "version": "4.2.0",
+    "author": "MelanX",
+    "projectID": 275351,
+    "name": "Garden of Glass (Questbook Edition)\n",
+    "files": [
+        {
+            "_displayName": "A Block of Charcoal",
+            "projectID": 251079,
+            "fileID": 3086486
+        },
+        {
+            "_displayName": "AIOT Botania",
+            "projectID": 294815,
+            "fileID": 3171597
+        },
+        {
+            "_displayName": "AppleSkin",
+            "projectID": 248787,
+            "fileID": 3035787
+        },
+        {
+            "_displayName": "Architectury API (Forge)",
+            "projectID": 419699,
+            "fileID": 3167262
+        },
+        {
+            "_displayName": "Automatic Tool Swap",
+            "projectID": 361977,
+            "fileID": 3172338
+        },
+        {
+            "_displayName": "Better Advancements",
+            "projectID": 272515,
+            "fileID": 3166504
+        },
+        {
+            "_displayName": "Botania",
+            "projectID": 225643,
+            "fileID": 3134409
+        },
+        {
+            "_displayName": "Botania: Garden of Glass",
+            "projectID": 232502,
+            "fileID": 3134410
+        },
+        {
+            "_displayName": "Botanical Machinery",
+            "projectID": 395617,
+            "fileID": 3164866
+        },
+        {
+            "_displayName": "Carry On",
+            "projectID": 274259,
+            "fileID": 3079317
+        },
+        {
+            "_displayName": "Construction Wand",
+            "projectID": 399558,
+            "fileID": 3132410
+        },
+        {
+            "_displayName": "Controlling",
+            "projectID": 250398,
+            "fileID": 3169795
+        },
+        {
+            "_displayName": "Curios API (Forge)",
+            "projectID": 309927,
+            "fileID": 3168960
+        },
+        {
+            "_displayName": "Default Options",
+            "projectID": 232131,
+            "fileID": 3066044
+        },
+        {
+            "_displayName": "Default World Type (Forge)",
+            "projectID": 373014,
+            "fileID": 3101063
+        },
+        {
+            "_displayName": "Ding",
+            "projectID": 231275,
+            "fileID": 3062074
+        },
+        {
+            "_displayName": "FTB Backups",
+            "projectID": 314904,
+            "fileID": 3038811
+        },
+        {
+            "_displayName": "FTB Chunks",
+            "projectID": 314906,
+            "fileID": 3162790
+        },
+        {
+            "_displayName": "FTB GUI Library",
+            "projectID": 404465,
+            "fileID": 3133000
+        },
+        {
+            "_displayName": "FTB Quests",
+            "projectID": 289412,
+            "fileID": 3154827
+        },
+        {
+            "_displayName": "FTB Teams",
+            "projectID": 404468,
+            "fileID": 3132239
+        },
+        {
+            "_displayName": "FTB Ultimine",
+            "projectID": 386134,
+            "fileID": 3118088
+        },
+        {
+            "_displayName": "FancyMenu",
+            "projectID": 367706,
+            "fileID": 3127591
+        },
+        {
+            "_displayName": "Fast Leaf Decay",
+            "projectID": 230976,
+            "fileID": 3052146
+        },
+        {
+            "_displayName": "FastFurnace",
+            "projectID": 299540,
+            "fileID": 3069048
+        },
+        {
+            "_displayName": "FastWorkbench",
+            "projectID": 288885,
+            "fileID": 3171218
+        },
+        {
+            "_displayName": "Forgiving Void",
+            "projectID": 271009,
+            "fileID": 3066090
+        },
+        {
+            "_displayName": "GraveStone Mod",
+            "projectID": 238551,
+            "fileID": 3169778
+        },
+        {
+            "_displayName": "Harvest",
+            "projectID": 355542,
+            "fileID": 3087381
+        },
+        {
+            "_displayName": "Inventory Sorter",
+            "projectID": 240633,
+            "fileID": 3077903
+        },
+        {
+            "_displayName": "Inventory Tweaks Renewed",
+            "projectID": 383070,
+            "fileID": 3102237
+        },
+        {
+            "_displayName": "Iron Chests",
+            "projectID": 228756,
+            "fileID": 3105315
+        },
+        {
+            "_displayName": "Iron Shulker Boxes",
+            "projectID": 314911,
+            "fileID": 3164598
+        },
+        {
+            "_displayName": "Item Filters",
+            "projectID": 309674,
+            "fileID": 3132233
+        },
+        {
+            "_displayName": "Just Enough Items (JEI)",
+            "projectID": 238222,
+            "fileID": 3157864
+        },
+        {
+            "_displayName": "Just Enough Resources (JER)",
+            "projectID": 240630,
+            "fileID": 3166519
+        },
+        {
+            "_displayName": "Konkrete",
+            "projectID": 410295,
+            "fileID": 3154318
+        },
+        {
+            "_displayName": "KubeJS",
+            "projectID": 238086,
+            "fileID": 3172039
+        },
+        {
+            "_displayName": "LibX",
+            "projectID": 412525,
+            "fileID": 3159549
+        },
+        {
+            "_displayName": "More Overlays Updated",
+            "projectID": 391382,
+            "fileID": 3102376
+        },
+        {
+            "_displayName": "Morpheus",
+            "projectID": 69118,
+            "fileID": 3114135
+        },
+        {
+            "_displayName": "Mouse Tweaks",
+            "projectID": 60089,
+            "fileID": 3035780
+        },
+        {
+            "_displayName": "MythicBotany",
+            "projectID": 400058,
+            "fileID": 3135507
+        },
+        {
+            "_displayName": "No Default Auto-Jump",
+            "projectID": 341857,
+            "fileID": 3157775
+        },
+        {
+            "_displayName": "Patchouli",
+            "projectID": 306770,
+            "fileID": 3126931
+        },
+        {
+            "_displayName": "Placebo",
+            "projectID": 283644,
+            "fileID": 3171214
+        },
+        {
+            "_displayName": "RandomPatches (Forge)",
+            "projectID": 285612,
+            "fileID": 3158999
+        },
+        {
+            "_displayName": "ReAuth",
+            "projectID": 237701,
+            "fileID": 3105779
+        },
+        {
+            "_displayName": "Rhino",
+            "projectID": 416294,
+            "fileID": 3162251
+        },
+        {
+            "_displayName": "The One Probe",
+            "projectID": 245211,
+            "fileID": 3157997
+        },
+        {
+            "_displayName": "Toast Control",
+            "projectID": 271740,
+            "fileID": 3069051
+        },
+        {
+            "_displayName": "TwerkItMeal - Twerk To Grow All The Things",
+            "projectID": 414640,
+            "fileID": 3163570
+        }
+    ]
+}

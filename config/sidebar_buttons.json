@@ -1,0 +1,14 @@
+{
+  "ftbquests": {
+    "quests": true
+  },
+  "ftbguilibrary": {
+    "toggle.gamemode": false,
+    "toggle.rain": false,
+    "toggle.day": false,
+    "toggle.night": false
+  },
+  "ftbchunks": {
+    "chunks": true
+  }
+}

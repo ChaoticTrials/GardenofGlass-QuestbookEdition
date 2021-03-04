@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.0.42",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "4.2.0",
+  "author": "MelanX",
+  "projectID": 275351,
+  "name": "Garden of Glass (Questbook Edition)\n"
+}
