@@ -18,7 +18,7 @@
 !config/fancymenu
 !config/fancymenu/*
 !config/ftbquests
-!config/ftbquests/*
+!config/ftbquests/**
 !config/ftbultimine.json5
 !config/botanicalmachinery-client.toml
 !config/sidebar_buttons.json

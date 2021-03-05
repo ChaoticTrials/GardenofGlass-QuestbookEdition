@@ -1,0 +1,34 @@
+{
+	id: 202,
+	title: "Pendants",
+	loot_size: 1,
+	rewards: [
+		{
+			item: {
+				id: "botania:blood_pendant",
+				Count: true,
+				tag: {
+					brewKey: "botania:speed"
+				}
+			}
+		},
+		{
+			item: {
+				id: "botania:blood_pendant",
+				Count: true,
+				tag: {
+					brewKey: "botania:strength"
+				}
+			}
+		},
+		{
+			item: {
+				id: "botania:blood_pendant",
+				Count: true,
+				tag: {
+					brewKey: "botania:regen"
+				}
+			}
+		}
+	]
+}

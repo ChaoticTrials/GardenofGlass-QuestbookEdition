@@ -1,0 +1,351 @@
+{
+	id: 23,
+	filename: "questsline4title",
+	order_index: 5,
+	title: "{quests.line4.title}",
+	icon: "botania:dandelifeon",
+	subtitle: ["{quests.line4.desc}"],
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "{quests.id28.title}",
+			x: -4.0d,
+			y: -2.5d,
+			subtitle: "{quests.id28.desc}",
+			id: 222,
+			tasks: [{
+				id: 223,
+				type: "item",
+				item: "botania:munchdew"
+			}],
+			rewards: [
+				{
+					id: 240,
+					type: "item",
+					item: "minecraft:oak_leaves",
+					count: 64
+				},
+				{
+					id: 241,
+					type: "item",
+					item: "minecraft:spruce_leaves",
+					count: 64
+				},
+				{
+					id: 242,
+					type: "item",
+					item: "minecraft:birch_leaves",
+					count: 32
+				},
+				{
+					id: 243,
+					type: "item",
+					item: "minecraft:jungle_leaves",
+					count: 64
+				},
+				{
+					id: 244,
+					type: "item",
+					item: "minecraft:acacia_leaves",
+					count: 64
+				},
+				{
+					id: 245,
+					type: "item",
+					item: "minecraft:dark_oak_leaves",
+					count: 64
+				}
+			]
+		},
+		{
+			title: "{quests.id29.title}",
+			x: -2.0d,
+			y: -2.5d,
+			subtitle: "{quests.id29.desc}",
+			id: 224,
+			tasks: [{
+				id: 225,
+				type: "item",
+				item: "botania:agricarnation"
+			}],
+			rewards: [
+				{
+					id: 246,
+					type: "item",
+					item: "minecraft:wheat_seeds",
+					count: 4
+				},
+				{
+					id: 247,
+					type: "item",
+					item: "minecraft:pumpkin_seeds",
+					count: 4
+				},
+				{
+					id: 248,
+					type: "item",
+					item: "minecraft:melon_seeds",
+					count: 4
+				},
+				{
+					id: 249,
+					type: "item",
+					item: "minecraft:beetroot_seeds",
+					count: 4
+				}
+			]
+		},
+		{
+			title: "{quests.id30.title}",
+			x: 0.0d,
+			y: -2.5d,
+			subtitle: "{quests.id30.desc}",
+			id: 226,
+			tasks: [{
+				id: 227,
+				type: "item",
+				item: "botania:entropinnyum"
+			}],
+			rewards: [
+				{
+					id: 250,
+					type: "item",
+					item: "minecraft:gunpowder",
+					count: 20
+				},
+				{
+					id: 251,
+					type: "item",
+					item: "minecraft:sand",
+					count: 16
+				}
+			]
+		},
+		{
+			title: "{quests.id35.title}",
+			x: -4.0d,
+			y: -0.5d,
+			subtitle: "{quests.id35.desc}",
+			id: 228,
+			tasks: [{
+				id: 229,
+				type: "item",
+				item: "botania:tigerseye"
+			}],
+			rewards: [{
+				id: 264,
+				type: "item",
+				item: "botania:cosmetic_cat_ears"
+			}]
+		},
+		{
+			title: "{quests.id34.title}",
+			x: -4.0d,
+			y: 1.5d,
+			subtitle: "{quests.id34.desc}",
+			id: 230,
+			tasks: [{
+				id: 231,
+				type: "item",
+				item: "botania:rosa_arcana"
+			}],
+			rewards: [{
+				id: 263,
+				type: "xp_levels",
+				xp_levels: 20
+			}]
+		},
+		{
+			title: "{quests.id33.title}",
+			x: -2.0d,
+			y: 1.5d,
+			subtitle: "{quests.id33.desc}",
+			id: 232,
+			tasks: [{
+				id: 233,
+				type: "item",
+				item: "botania:hopperhock"
+			}],
+			rewards: [
+				{
+					id: 261,
+					type: "item",
+					item: "minecraft:item_frame"
+				},
+				{
+					id: 262,
+					type: "item",
+					item: "ironchest:obsidian_chest"
+				}
+			]
+		},
+		{
+			title: "{quests.id32.title}",
+			x: 0.0d,
+			y: 1.5d,
+			subtitle: "{quests.id32.desc}",
+			id: 234,
+			tasks: [{
+				id: 235,
+				type: "item",
+				item: "botania:kekimurus"
+			}],
+			rewards: [
+				{
+					id: 253,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 254,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 255,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 256,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 257,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 258,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 259,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				},
+				{
+					id: 260,
+					type: "item",
+					item: {
+						id: "minecraft:cake",
+						Count: true,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: '{"text":"Lie"}'
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			title: "{quests.id31.title}",
+			x: 0.0d,
+			y: -0.5d,
+			subtitle: "{quests.id31.desc}",
+			id: 236,
+			tasks: [{
+				id: 237,
+				type: "item",
+				item: "botania:bellethorn"
+			}],
+			rewards: [{
+				id: 252,
+				type: "item",
+				item: "botania:teru_teru_bozu"
+			}]
+		},
+		{
+			title: "{quests.id36.title}",
+			icon: "minecraft:barrier",
+			x: -2.0d,
+			y: -0.5d,
+			description: ["{quests.id36.desc}"],
+			dependencies: [I;
+				224,
+				236,
+				226,
+				232,
+				234,
+				222,
+				230,
+				228
+			],
+			hide: true,
+			size: 2.5d,
+			id: 238,
+			tasks: [{
+				id: 239,
+				type: "item",
+				item: "minecraft:dandelion"
+			}]
+		}
+	]
+}

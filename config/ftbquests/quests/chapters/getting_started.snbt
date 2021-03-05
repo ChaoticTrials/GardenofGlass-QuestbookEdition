@@ -1,0 +1,466 @@
+{
+	id: 10,
+	filename: "getting_started",
+	order_index: 1,
+	title: "{quests.line0.title}",
+	icon: "minecraft:cobblestone",
+	subtitle: ["{quests.line0.desc}"],
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "{quests.id0.title}",
+			icon: "minecraft:cobblestone",
+			x: -7.0d,
+			y: -4.0d,
+			subtitle: "{quests.id0.desc}",
+			id: 41,
+			tasks: [{
+				id: 42,
+				type: "item",
+				icon: "minecraft:cobblestone",
+				item: "minecraft:cobblestone",
+				count: 64L
+			}],
+			rewards: [{
+				id: 59,
+				type: "item",
+				item: "minecraft:cobblestone",
+				count: 64
+			}]
+		},
+		{
+			title: "{quests.id1.title}",
+			icon: "botania:living_root",
+			x: 2.5d,
+			y: -4.0d,
+			subtitle: "{quests.id1.desc}",
+			id: 43,
+			tasks: [
+				{
+					id: 44,
+					type: "item",
+					item: "botania:living_root",
+					count: 6L
+				},
+				{
+					id: 60,
+					type: "item",
+					item: "minecraft:oak_sapling",
+					only_from_crafting: true
+				},
+				{
+					id: 61,
+					type: "item",
+					item: "botania:fertilizer",
+					count: 4L
+				}
+			],
+			rewards: [{
+				id: 66,
+				type: "choice",
+				table: 0
+			}]
+		},
+		{
+			title: "{quests.id2.title}",
+			icon: "minecraft:oak_sapling",
+			x: -3.0d,
+			y: -2.5d,
+			subtitle: "{quests.id2.desc}",
+			dependencies: [I;
+				41,
+				43
+			],
+			id: 45,
+			tasks: [
+				{
+					id: 46,
+					type: "item",
+					item: "minecraft:crafting_table"
+				},
+				{
+					id: 64,
+					type: "item",
+					item: "minecraft:stick",
+					count: 4L
+				}
+			],
+			rewards: [{
+				id: 65,
+				type: "choice",
+				table: 11
+			}]
+		},
+		{
+			title: "{quests.id3.title}",
+			icon: "botania:apothecary_default",
+			x: -5.071428571428569d,
+			y: 0.8392857142857153d,
+			subtitle: "{quests.id3.desc}",
+			dependencies: [I;
+				41,
+				45
+			],
+			id: 47,
+			tasks: [
+				{
+					id: 48,
+					type: "item",
+					item: "botania:apothecary_default"
+				},
+				{
+					id: 67,
+					type: "item",
+					item: "minecraft:furnace"
+				}
+			],
+			rewards: [
+				{
+					id: 68,
+					type: "item",
+					item: "botania:livingrock",
+					count: 8
+				},
+				{
+					id: 69,
+					type: "item",
+					item: "botania:livingwood",
+					count: 8
+				},
+				{
+					id: 70,
+					type: "item",
+					item: "botania:endoflame"
+				}
+			]
+		},
+		{
+			title: "{quests.id4.title}",
+			icon: "botania:white_mystical_flower",
+			x: 0.7142857142857082d,
+			y: -1.482142857142854d,
+			subtitle: "{quests.id4.desc}",
+			dependencies: [I;43],
+			id: 49,
+			tasks: [
+				{
+					id: 50,
+					type: "item",
+					item: "botania:white_mystical_flower"
+				},
+				{
+					id: 79,
+					type: "item",
+					item: "botania:orange_mystical_flower"
+				},
+				{
+					id: 80,
+					type: "item",
+					item: "botania:magenta_mystical_flower"
+				},
+				{
+					id: 81,
+					type: "item",
+					item: "botania:light_blue_mystical_flower"
+				},
+				{
+					id: 82,
+					type: "item",
+					item: "botania:yellow_mystical_flower"
+				},
+				{
+					id: 83,
+					type: "item",
+					item: "botania:lime_mystical_flower"
+				},
+				{
+					id: 84,
+					type: "item",
+					item: "botania:pink_mystical_flower"
+				},
+				{
+					id: 85,
+					type: "item",
+					item: "botania:gray_mystical_flower"
+				},
+				{
+					id: 86,
+					type: "item",
+					item: "botania:light_gray_mystical_flower"
+				},
+				{
+					id: 87,
+					type: "item",
+					item: "botania:cyan_mystical_flower"
+				},
+				{
+					id: 88,
+					type: "item",
+					item: "botania:purple_mystical_flower"
+				},
+				{
+					id: 89,
+					type: "item",
+					item: "botania:blue_mystical_flower"
+				},
+				{
+					id: 90,
+					type: "item",
+					item: "botania:brown_mystical_flower"
+				},
+				{
+					id: 91,
+					type: "item",
+					item: "botania:green_mystical_flower"
+				},
+				{
+					id: 92,
+					type: "item",
+					item: "botania:red_mystical_flower"
+				},
+				{
+					id: 93,
+					type: "item",
+					item: "botania:black_mystical_flower"
+				}
+			],
+			rewards: [{
+				id: 78,
+				type: "choice",
+				table: 12
+			}]
+		},
+		{
+			icon: "minecraft:zombie_head",
+			x: -2.0d,
+			y: -1.0d,
+			subtitle: "{quests.id5.desc}",
+			dependencies: [I;45],
+			id: 53,
+			tasks: [
+				{
+					id: 54,
+					type: "kill",
+					title: "{quests.id5.title}",
+					entity: "minecraft:zombie",
+					value: 5L
+				},
+				{
+					id: 71,
+					type: "kill",
+					entity: "minecraft:creeper",
+					value: 5L
+				},
+				{
+					id: 72,
+					type: "kill",
+					entity: "minecraft:skeleton",
+					value: 5L
+				},
+				{
+					id: 73,
+					type: "kill",
+					entity: "minecraft:enderman",
+					value: 1L
+				},
+				{
+					id: 74,
+					type: "kill",
+					entity: "minecraft:witch",
+					value: 1L
+				}
+			],
+			rewards: [{
+				id: 75,
+				type: "item",
+				item: "minecraft:slime_ball"
+			}]
+		},
+		{
+			title: "{quests.id6.title}",
+			icon: "botania:orechid",
+			x: -1.0d,
+			y: 1.0d,
+			subtitle: "{quests.id6.desc}",
+			dependencies: [I;49],
+			id: 55,
+			tasks: [
+				{
+					id: 56,
+					type: "item",
+					item: "botania:orechid"
+				},
+				{
+					id: 94,
+					type: "item",
+					item: "minecraft:redstone",
+					count: 25L
+				},
+				{
+					id: 95,
+					type: "item",
+					item: "minecraft:gold_ore",
+					count: 5L
+				},
+				{
+					id: 96,
+					type: "item",
+					item: "minecraft:iron_ore",
+					count: 10L
+				},
+				{
+					id: 97,
+					type: "item",
+					item: "minecraft:coal",
+					count: 10L
+				},
+				{
+					id: 98,
+					type: "item",
+					item: "minecraft:lapis_lazuli",
+					count: 10L
+				},
+				{
+					id: 99,
+					type: "item",
+					item: "minecraft:diamond",
+					count: 3L
+				},
+				{
+					id: 100,
+					type: "item",
+					item: "minecraft:emerald"
+				}
+			],
+			rewards: [
+				{
+					id: 104,
+					type: "xp_levels",
+					xp_levels: 10
+				},
+				{
+					id: 105,
+					type: "choice",
+					icon: "minecraft:pumpkin_seeds",
+					table: 3
+				}
+			]
+		},
+		{
+			title: "{quests.id7.title}",
+			icon: {
+				id: "aiotbotania:manasteel_aiot",
+				Count: true,
+				tag: {
+					Damage: 0
+				}
+			},
+			x: -2.4285714285714306d,
+			y: 3.0d,
+			subtitle: "{quests.id7.desc}",
+			dependencies: [I;55],
+			id: 57,
+			tasks: [
+				{
+					id: 58,
+					type: "item",
+					item: {
+						id: "botania:manasteel_helmet",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 106,
+					type: "item",
+					item: {
+						id: "botania:manasteel_chestplate",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 107,
+					type: "item",
+					item: {
+						id: "botania:manasteel_leggings",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 108,
+					type: "item",
+					item: {
+						id: "botania:manasteel_boots",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 109,
+					type: "item",
+					item: {
+						id: "botania:manasteel_pick",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 110,
+					type: "item",
+					item: {
+						id: "botania:manasteel_shovel",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 111,
+					type: "item",
+					item: {
+						id: "botania:manasteel_axe",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 112,
+					type: "item",
+					item: {
+						id: "botania:manasteel_sword",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			],
+			rewards: [{
+				id: 114,
+				type: "item",
+				item: {
+					id: "aiotbotania:manasteel_aiot",
+					Count: true,
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

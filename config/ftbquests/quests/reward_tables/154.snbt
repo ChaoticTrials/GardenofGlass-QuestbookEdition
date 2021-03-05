@@ -1,0 +1,13 @@
+{
+	id: 154,
+	title: "Nether Table",
+	loot_size: 1,
+	rewards: [
+		{
+			item: "botania:alchemy_catalyst"
+		},
+		{
+			item: "botania:gourmaryllis"
+		}
+	]
+}

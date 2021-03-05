@@ -1,0 +1,25 @@
+{
+	id: 76,
+	title: "Flower Reward",
+	loot_size: 1,
+	rewards: [
+		{
+			item: "botania:fertilizer",
+			count: 16
+		},
+		{
+			item: "minecraft:wheat_seeds",
+			count: 16
+		},
+		{
+			item: {
+				id: "botania:twig_wand",
+				Count: true,
+				tag: {
+					color1: 6,
+					color2: 10
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,5441 @@
+{
+	id: 268,
+	title: "Loot Chest",
+	loot_size: 1,
+	rewards: [
+		{
+			item: "aiotbotania:elementium_aiot"
+		},
+		{
+			item: "aiotbotania:elementium_hoe"
+		},
+		{
+			item: "aiotbotania:livingrock_aiot"
+		},
+		{
+			item: "aiotbotania:livingrock_axe"
+		},
+		{
+			item: "aiotbotania:livingrock_hoe"
+		},
+		{
+			item: "aiotbotania:livingrock_pickaxe"
+		},
+		{
+			item: "aiotbotania:livingrock_shears"
+		},
+		{
+			item: "aiotbotania:livingrock_shovel"
+		},
+		{
+			item: "aiotbotania:livingrock_sword"
+		},
+		{
+			item: "aiotbotania:livingwood_aiot"
+		},
+		{
+			item: "aiotbotania:livingwood_axe"
+		},
+		{
+			item: "aiotbotania:livingwood_hoe"
+		},
+		{
+			item: "aiotbotania:livingwood_pickaxe"
+		},
+		{
+			item: "aiotbotania:livingwood_shears"
+		},
+		{
+			item: "aiotbotania:livingwood_shovel"
+		},
+		{
+			item: "aiotbotania:livingwood_sword"
+		},
+		{
+			item: "aiotbotania:manasteel_aiot"
+		},
+		{
+			item: "aiotbotania:manasteel_hoe"
+		},
+		{
+			item: "aiotbotania:terra_aiot"
+		},
+		{
+			item: "aiotbotania:terra_hoe"
+		},
+		{
+			item: "aiotbotania:terra_shovel"
+		},
+		{
+			item: "botania:abstruse_platform"
+		},
+		{
+			item: "botania:agricarnation"
+		},
+		{
+			item: "botania:agricarnation_chibi"
+		},
+		{
+			item: "botania:alchemy_catalyst"
+		},
+		{
+			item: "botania:alfheim_portal"
+		},
+		{
+			item: "botania:ancient_will_ahrim"
+		},
+		{
+			item: "botania:ancient_will_dharok"
+		},
+		{
+			item: "botania:ancient_will_guthan"
+		},
+		{
+			item: "botania:ancient_will_karil"
+		},
+		{
+			item: "botania:ancient_will_torag"
+		},
+		{
+			item: "botania:ancient_will_verac"
+		},
+		{
+			item: "botania:animated_torch"
+		},
+		{
+			item: "botania:apothecary_default"
+		},
+		{
+			item: "botania:apothecary_desert"
+		},
+		{
+			item: "botania:apothecary_forest"
+		},
+		{
+			item: "botania:apothecary_fungal"
+		},
+		{
+			item: "botania:apothecary_mesa"
+		},
+		{
+			item: "botania:apothecary_mossy"
+		},
+		{
+			item: "botania:apothecary_mountain"
+		},
+		{
+			item: "botania:apothecary_plains"
+		},
+		{
+			item: "botania:apothecary_swamp"
+		},
+		{
+			item: "botania:apothecary_taiga"
+		},
+		{
+			item: "botania:astrolabe"
+		},
+		{
+			item: "botania:aura_ring"
+		},
+		{
+			item: "botania:aura_ring_greater"
+		},
+		{
+			item: "botania:auto_crafting_halo"
+		},
+		{
+			item: "botania:avatar"
+		},
+		{
+			item: "botania:azulejo_0"
+		},
+		{
+			item: "botania:azulejo_1"
+		},
+		{
+			item: "botania:azulejo_10"
+		},
+		{
+			item: "botania:azulejo_11"
+		},
+		{
+			item: "botania:azulejo_12"
+		},
+		{
+			item: "botania:azulejo_13"
+		},
+		{
+			item: "botania:azulejo_14"
+		},
+		{
+			item: "botania:azulejo_15"
+		},
+		{
+			item: "botania:azulejo_2"
+		},
+		{
+			item: "botania:azulejo_3"
+		},
+		{
+			item: "botania:azulejo_4"
+		},
+		{
+			item: "botania:azulejo_5"
+		},
+		{
+			item: "botania:azulejo_6"
+		},
+		{
+			item: "botania:azulejo_7"
+		},
+		{
+			item: "botania:azulejo_8"
+		},
+		{
+			item: "botania:azulejo_9"
+		},
+		{
+			item: "botania:balance_cloak"
+		},
+		{
+			item: "botania:bauble_box"
+		},
+		{
+			item: "botania:bellethorn"
+		},
+		{
+			item: "botania:bellethorn_chibi"
+		},
+		{
+			item: "botania:bellows"
+		},
+		{
+			item: "botania:bergamute"
+		},
+		{
+			item: "botania:bifrost_pane"
+		},
+		{
+			item: "botania:bifrost_perm"
+		},
+		{
+			item: "botania:black_double_flower"
+		},
+		{
+			item: "botania:black_floating_flower"
+		},
+		{
+			item: "botania:black_hole_talisman"
+		},
+		{
+			item: "botania:black_lotus"
+		},
+		{
+			item: "botania:black_mushroom"
+		},
+		{
+			item: "botania:black_mystical_flower"
+		},
+		{
+			item: "botania:black_pavement"
+		},
+		{
+			item: "botania:black_pavement_slab"
+		},
+		{
+			item: "botania:black_pavement_stairs"
+		},
+		{
+			item: "botania:black_petal"
+		},
+		{
+			item: "botania:black_petal_block"
+		},
+		{
+			item: "botania:black_shiny_flower"
+		},
+		{
+			item: "botania:blacker_lotus"
+		},
+		{
+			item: "botania:blaze_block"
+		},
+		{
+			item: "botania:blaze_quartz"
+		},
+		{
+			item: "botania:blaze_quartz_pillar"
+		},
+		{
+			item: "botania:blaze_quartz_slab"
+		},
+		{
+			item: "botania:blaze_quartz_stairs"
+		},
+		{
+			item: "botania:blood_pendant"
+		},
+		{
+			item: "botania:blue_double_flower"
+		},
+		{
+			item: "botania:blue_floating_flower"
+		},
+		{
+			item: "botania:blue_mushroom"
+		},
+		{
+			item: "botania:blue_mystical_flower"
+		},
+		{
+			item: "botania:blue_pavement"
+		},
+		{
+			item: "botania:blue_pavement_slab"
+		},
+		{
+			item: "botania:blue_pavement_stairs"
+		},
+		{
+			item: "botania:blue_petal"
+		},
+		{
+			item: "botania:blue_petal_block"
+		},
+		{
+			item: "botania:blue_shiny_flower"
+		},
+		{
+			item: "botania:brew_flask"
+		},
+		{
+			item: "botania:brew_vial"
+		},
+		{
+			item: "botania:brewery"
+		},
+		{
+			item: "botania:brown_double_flower"
+		},
+		{
+			item: "botania:brown_floating_flower"
+		},
+		{
+			item: "botania:brown_mushroom"
+		},
+		{
+			item: "botania:brown_mystical_flower"
+		},
+		{
+			item: "botania:brown_petal"
+		},
+		{
+			item: "botania:brown_petal_block"
+		},
+		{
+			item: "botania:brown_shiny_flower"
+		},
+		{
+			item: "botania:bubbell"
+		},
+		{
+			item: "botania:bubbell_chibi"
+		},
+		{
+			item: "botania:cacophonium"
+		},
+		{
+			item: "botania:cacophonium_block"
+		},
+		{
+			item: "botania:cell_block"
+		},
+		{
+			item: "botania:chiseled_blaze_quartz"
+		},
+		{
+			item: "botania:chiseled_dark_quartz"
+		},
+		{
+			item: "botania:chiseled_elf_quartz"
+		},
+		{
+			item: "botania:chiseled_lavender_quartz"
+		},
+		{
+			item: "botania:chiseled_livingrock_bricks"
+		},
+		{
+			item: "botania:chiseled_mana_quartz"
+		},
+		{
+			item: "botania:chiseled_metamorphic_desert_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_forest_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_fungal_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_mesa_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_mountain_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_plains_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_swamp_bricks"
+		},
+		{
+			item: "botania:chiseled_metamorphic_taiga_bricks"
+		},
+		{
+			item: "botania:chiseled_red_quartz"
+		},
+		{
+			item: "botania:chiseled_sunny_quartz"
+		},
+		{
+			item: "botania:clayconia"
+		},
+		{
+			item: "botania:clayconia_chibi"
+		},
+		{
+			item: "botania:clip"
+		},
+		{
+			item: "botania:cloud_pendant"
+		},
+		{
+			item: "botania:cobble_rod"
+		},
+		{
+			item: "botania:cocoon"
+		},
+		{
+			item: "botania:conjuration_catalyst"
+		},
+		{
+			item: "botania:corporea_block"
+		},
+		{
+			item: "botania:corporea_brick"
+		},
+		{
+			item: "botania:corporea_crystal_cube"
+		},
+		{
+			item: "botania:corporea_funnel"
+		},
+		{
+			item: "botania:corporea_index"
+		},
+		{
+			item: "botania:corporea_interceptor"
+		},
+		{
+			item: "botania:corporea_retainer"
+		},
+		{
+			item: "botania:corporea_slab"
+		},
+		{
+			item: "botania:corporea_spark"
+		},
+		{
+			item: "botania:corporea_spark_master"
+		},
+		{
+			item: "botania:cosmetic_alien_antenna"
+		},
+		{
+			item: "botania:cosmetic_anaglyph_glasses"
+		},
+		{
+			item: "botania:cosmetic_ancient_mask"
+		},
+		{
+			item: "botania:cosmetic_black_bowtie"
+		},
+		{
+			item: "botania:cosmetic_black_tie"
+		},
+		{
+			item: "botania:cosmetic_blue_butterfly"
+		},
+		{
+			item: "botania:cosmetic_botanist_emblem"
+		},
+		{
+			item: "botania:cosmetic_cat_ears"
+		},
+		{
+			item: "botania:cosmetic_clock_eye"
+		},
+		{
+			item: "botania:cosmetic_devil_horns"
+		},
+		{
+			item: "botania:cosmetic_devil_tail"
+		},
+		{
+			item: "botania:cosmetic_eerie_mask"
+		},
+		{
+			item: "botania:cosmetic_engineer_goggles"
+		},
+		{
+			item: "botania:cosmetic_eyepatch"
+		},
+		{
+			item: "botania:cosmetic_four_leaf_clover"
+		},
+		{
+			item: "botania:cosmetic_googly_eyes"
+		},
+		{
+			item: "botania:cosmetic_groucho_glasses"
+		},
+		{
+			item: "botania:cosmetic_hyper_plus"
+		},
+		{
+			item: "botania:cosmetic_kamui_eye"
+		},
+		{
+			item: "botania:cosmetic_lusitanic_shield"
+		},
+		{
+			item: "botania:cosmetic_orange_shades"
+		},
+		{
+			item: "botania:cosmetic_pink_flower_bud"
+		},
+		{
+			item: "botania:cosmetic_polka_dotted_bows"
+		},
+		{
+			item: "botania:cosmetic_puffy_scarf"
+		},
+		{
+			item: "botania:cosmetic_questgiver_mark"
+		},
+		{
+			item: "botania:cosmetic_red_glasses"
+		},
+		{
+			item: "botania:cosmetic_red_ribbons"
+		},
+		{
+			item: "botania:cosmetic_thick_eyebrows"
+		},
+		{
+			item: "botania:cosmetic_thinking_hand"
+		},
+		{
+			item: "botania:cosmetic_tiny_potato_mask"
+		},
+		{
+			item: "botania:cosmetic_unicorn_horn"
+		},
+		{
+			item: "botania:cosmetic_wicked_eyepatch"
+		},
+		{
+			item: "botania:cosmetic_witch_pin"
+		},
+		{
+			item: "botania:cracked_livingrock_bricks"
+		},
+		{
+			item: "botania:crafting_halo"
+		},
+		{
+			item: "botania:crafty_crate"
+		},
+		{
+			item: "botania:creative_pool"
+		},
+		{
+			item: "botania:crystal_bow"
+		},
+		{
+			item: "botania:cyan_double_flower"
+		},
+		{
+			item: "botania:cyan_floating_flower"
+		},
+		{
+			item: "botania:cyan_mushroom"
+		},
+		{
+			item: "botania:cyan_mystical_flower"
+		},
+		{
+			item: "botania:cyan_petal"
+		},
+		{
+			item: "botania:cyan_petal_block"
+		},
+		{
+			item: "botania:cyan_shiny_flower"
+		},
+		{
+			item: "botania:daffomill"
+		},
+		{
+			item: "botania:dandelifeon"
+		},
+		{
+			item: "botania:dark_quartz"
+		},
+		{
+			item: "botania:dark_quartz_pillar"
+		},
+		{
+			item: "botania:dark_quartz_slab"
+		},
+		{
+			item: "botania:dark_quartz_stairs"
+		},
+		{
+			item: "botania:daybloom_motif"
+		},
+		{
+			item: "botania:detector_light_relay"
+		},
+		{
+			item: "botania:dice"
+		},
+		{
+			item: "botania:diluted_pool"
+		},
+		{
+			item: "botania:dirt_rod"
+		},
+		{
+			item: "botania:diva_charm"
+		},
+		{
+			item: "botania:divining_rod"
+		},
+		{
+			item: "botania:dodge_ring"
+		},
+		{
+			item: "botania:dragonstone"
+		},
+		{
+			item: "botania:dragonstone_block"
+		},
+		{
+			item: "botania:dreadthorn"
+		},
+		{
+			item: "botania:dreamwood"
+		},
+		{
+			item: "botania:dreamwood_fence"
+		},
+		{
+			item: "botania:dreamwood_fence_gate"
+		},
+		{
+			item: "botania:dreamwood_planks"
+		},
+		{
+			item: "botania:dreamwood_planks_slab"
+		},
+		{
+			item: "botania:dreamwood_planks_stairs"
+		},
+		{
+			item: "botania:dreamwood_slab"
+		},
+		{
+			item: "botania:dreamwood_stairs"
+		},
+		{
+			item: "botania:dreamwood_twig"
+		},
+		{
+			item: "botania:dreamwood_wall"
+		},
+		{
+			item: "botania:drum_canopy"
+		},
+		{
+			item: "botania:drum_gathering"
+		},
+		{
+			item: "botania:drum_wild"
+		},
+		{
+			item: "botania:dry_grass"
+		},
+		{
+			item: "botania:dry_seeds"
+		},
+		{
+			item: "botania:elementium_axe"
+		},
+		{
+			item: "botania:elementium_block"
+		},
+		{
+			item: "botania:elementium_boots"
+		},
+		{
+			item: "botania:elementium_chestplate"
+		},
+		{
+			item: "botania:elementium_helmet"
+		},
+		{
+			item: "botania:elementium_ingot"
+		},
+		{
+			item: "botania:elementium_leggings"
+		},
+		{
+			item: "botania:elementium_nugget"
+		},
+		{
+			item: "botania:elementium_pickaxe"
+		},
+		{
+			item: "botania:elementium_shears"
+		},
+		{
+			item: "botania:elementium_shovel"
+		},
+		{
+			item: "botania:elementium_sword"
+		},
+		{
+			item: "botania:elf_glass"
+		},
+		{
+			item: "botania:elf_glass_pane"
+		},
+		{
+			item: "botania:elf_quartz"
+		},
+		{
+			item: "botania:elf_quartz_pillar"
+		},
+		{
+			item: "botania:elf_quartz_slab"
+		},
+		{
+			item: "botania:elf_quartz_stairs"
+		},
+		{
+			item: "botania:elven_spreader"
+		},
+		{
+			item: "botania:enchanted_soil"
+		},
+		{
+			item: "botania:enchanter"
+		},
+		{
+			item: "botania:ender_air_bottle"
+		},
+		{
+			item: "botania:ender_dagger"
+		},
+		{
+			item: "botania:ender_eye_block"
+		},
+		{
+			item: "botania:ender_hand"
+		},
+		{
+			item: "botania:endoflame"
+		},
+		{
+			item: "botania:entropinnyum"
+		},
+		{
+			item: "botania:exchange_rod"
+		},
+		{
+			item: "botania:exoflame"
+		},
+		{
+			item: "botania:fabulous_pool"
+		},
+		{
+			item: "botania:fallen_kanade"
+		},
+		{
+			item: "botania:fel_pumpkin"
+		},
+		{
+			item: "botania:fertilizer"
+		},
+		{
+			item: "botania:fire_rod"
+		},
+		{
+			item: "botania:flare_chakram"
+		},
+		{
+			item: "botania:flask"
+		},
+		{
+			item: "botania:flight_tiara"
+		},
+		{
+			item: "botania:floating_agricarnation"
+		},
+		{
+			item: "botania:floating_agricarnation_chibi"
+		},
+		{
+			item: "botania:floating_bellethorn"
+		},
+		{
+			item: "botania:floating_bellethorn_chibi"
+		},
+		{
+			item: "botania:floating_bergamute"
+		},
+		{
+			item: "botania:floating_bubbell"
+		},
+		{
+			item: "botania:floating_bubbell_chibi"
+		},
+		{
+			item: "botania:floating_clayconia"
+		},
+		{
+			item: "botania:floating_clayconia_chibi"
+		},
+		{
+			item: "botania:floating_daffomill"
+		},
+		{
+			item: "botania:floating_dandelifeon"
+		},
+		{
+			item: "botania:floating_dreadthorn"
+		},
+		{
+			item: "botania:floating_endoflame"
+		},
+		{
+			item: "botania:floating_entropinnyum"
+		},
+		{
+			item: "botania:floating_exoflame"
+		},
+		{
+			item: "botania:floating_fallen_kanade"
+		},
+		{
+			item: "botania:floating_gourmaryllis"
+		},
+		{
+			item: "botania:floating_heisei_dream"
+		},
+		{
+			item: "botania:floating_hopperhock"
+		},
+		{
+			item: "botania:floating_hopperhock_chibi"
+		},
+		{
+			item: "botania:floating_hyacidus"
+		},
+		{
+			item: "botania:floating_hydroangeas"
+		},
+		{
+			item: "botania:floating_jaded_amaranthus"
+		},
+		{
+			item: "botania:floating_jiyuulia"
+		},
+		{
+			item: "botania:floating_kekimurus"
+		},
+		{
+			item: "botania:floating_loonium"
+		},
+		{
+			item: "botania:floating_manastar"
+		},
+		{
+			item: "botania:floating_marimorphosis"
+		},
+		{
+			item: "botania:floating_marimorphosis_chibi"
+		},
+		{
+			item: "botania:floating_medumone"
+		},
+		{
+			item: "botania:floating_munchdew"
+		},
+		{
+			item: "botania:floating_narslimmus"
+		},
+		{
+			item: "botania:floating_orechid"
+		},
+		{
+			item: "botania:floating_orechid_ignem"
+		},
+		{
+			item: "botania:floating_pollidisiac"
+		},
+		{
+			item: "botania:floating_pure_daisy"
+		},
+		{
+			item: "botania:floating_rafflowsia"
+		},
+		{
+			item: "botania:floating_rannuncarpus"
+		},
+		{
+			item: "botania:floating_rannuncarpus_chibi"
+		},
+		{
+			item: "botania:floating_rosa_arcana"
+		},
+		{
+			item: "botania:floating_shulk_me_not"
+		},
+		{
+			item: "botania:floating_solegnolia"
+		},
+		{
+			item: "botania:floating_solegnolia_chibi"
+		},
+		{
+			item: "botania:floating_spectranthemum"
+		},
+		{
+			item: "botania:floating_spectrolus"
+		},
+		{
+			item: "botania:floating_tangleberrie"
+		},
+		{
+			item: "botania:floating_thermalily"
+		},
+		{
+			item: "botania:floating_tigerseye"
+		},
+		{
+			item: "botania:floating_vinculotus"
+		},
+		{
+			item: "botania:flower_bag"
+		},
+		{
+			item: "botania:flugel_eye"
+		},
+		{
+			item: "botania:forest_eye"
+		},
+		{
+			item: "botania:fork_light_relay"
+		},
+		{
+			item: "botania:framed_dreamwood"
+		},
+		{
+			item: "botania:framed_livingwood"
+		},
+		{
+			item: "botania:gaia_head"
+		},
+		{
+			item: "botania:gaia_ingot"
+		},
+		{
+			item: "botania:gaia_pylon"
+		},
+		{
+			item: "botania:gaia_spreader"
+		},
+		{
+			item: "botania:ghost_rail"
+		},
+		{
+			item: "botania:glass_pickaxe"
+		},
+		{
+			item: "botania:glimmering_dreamwood"
+		},
+		{
+			item: "botania:glimmering_livingwood"
+		},
+		{
+			item: "botania:goddess_charm"
+		},
+		{
+			item: "botania:golden_grass"
+		},
+		{
+			item: "botania:golden_seeds"
+		},
+		{
+			item: "botania:gourmaryllis"
+		},
+		{
+			item: "botania:grass_seeds"
+		},
+		{
+			item: "botania:gravity_rod"
+		},
+		{
+			item: "botania:gray_double_flower"
+		},
+		{
+			item: "botania:gray_floating_flower"
+		},
+		{
+			item: "botania:gray_mushroom"
+		},
+		{
+			item: "botania:gray_mystical_flower"
+		},
+		{
+			item: "botania:gray_petal"
+		},
+		{
+			item: "botania:gray_petal_block"
+		},
+		{
+			item: "botania:gray_shiny_flower"
+		},
+		{
+			item: "botania:green_double_flower"
+		},
+		{
+			item: "botania:green_floating_flower"
+		},
+		{
+			item: "botania:green_mushroom"
+		},
+		{
+			item: "botania:green_mystical_flower"
+		},
+		{
+			item: "botania:green_pavement"
+		},
+		{
+			item: "botania:green_pavement_slab"
+		},
+		{
+			item: "botania:green_pavement_stairs"
+		},
+		{
+			item: "botania:green_petal"
+		},
+		{
+			item: "botania:green_petal_block"
+		},
+		{
+			item: "botania:green_shiny_flower"
+		},
+		{
+			item: "botania:heisei_dream"
+		},
+		{
+			item: "botania:holy_cloak"
+		},
+		{
+			item: "botania:hopperhock"
+		},
+		{
+			item: "botania:hopperhock_chibi"
+		},
+		{
+			item: "botania:horn_grass"
+		},
+		{
+			item: "botania:horn_leaves"
+		},
+		{
+			item: "botania:horn_snow"
+		},
+		{
+			item: "botania:hourglass"
+		},
+		{
+			item: "botania:hyacidus"
+		},
+		{
+			item: "botania:hydroangeas"
+		},
+		{
+			item: "botania:hydroangeas_motif"
+		},
+		{
+			item: "botania:ice_pendant"
+		},
+		{
+			item: "botania:incense_plate"
+		},
+		{
+			item: "botania:incense_stick"
+		},
+		{
+			item: "botania:infinite_fruit"
+		},
+		{
+			item: "botania:infrangible_platform"
+		},
+		{
+			item: "botania:infused_grass"
+		},
+		{
+			item: "botania:infused_seeds"
+		},
+		{
+			item: "botania:invisibility_cloak"
+		},
+		{
+			item: "botania:itemfinder"
+		},
+		{
+			item: "botania:jaded_amaranthus"
+		},
+		{
+			item: "botania:jiyuulia"
+		},
+		{
+			item: "botania:keep_ivy"
+		},
+		{
+			item: "botania:kekimurus"
+		},
+		{
+			item: "botania:king_key"
+		},
+		{
+			item: "botania:knockback_belt"
+		},
+		{
+			item: "botania:laputa_shard"
+		},
+		{
+			item: "botania:lava_pendant"
+		},
+		{
+			item: "botania:lavender_quartz"
+		},
+		{
+			item: "botania:lavender_quartz_pillar"
+		},
+		{
+			item: "botania:lavender_quartz_slab"
+		},
+		{
+			item: "botania:lavender_quartz_stairs"
+		},
+		{
+			item: "botania:lens_bounce"
+		},
+		{
+			item: "botania:lens_damage"
+		},
+		{
+			item: "botania:lens_efficiency"
+		},
+		{
+			item: "botania:lens_explosive"
+		},
+		{
+			item: "botania:lens_fire"
+		},
+		{
+			item: "botania:lens_firework"
+		},
+		{
+			item: "botania:lens_flare"
+		},
+		{
+			item: "botania:lens_gravity"
+		},
+		{
+			item: "botania:lens_influence"
+		},
+		{
+			item: "botania:lens_light"
+		},
+		{
+			item: "botania:lens_magnet"
+		},
+		{
+			item: "botania:lens_messenger"
+		},
+		{
+			item: "botania:lens_mine"
+		},
+		{
+			item: "botania:lens_normal"
+		},
+		{
+			item: "botania:lens_paint"
+		},
+		{
+			item: "botania:lens_phantom"
+		},
+		{
+			item: "botania:lens_piston"
+		},
+		{
+			item: "botania:lens_power"
+		},
+		{
+			item: "botania:lens_redirect"
+		},
+		{
+			item: "botania:lens_speed"
+		},
+		{
+			item: "botania:lens_storm"
+		},
+		{
+			item: "botania:lens_time"
+		},
+		{
+			item: "botania:lens_tripwire"
+		},
+		{
+			item: "botania:lens_warp"
+		},
+		{
+			item: "botania:lens_weight"
+		},
+		{
+			item: "botania:lexicon"
+		},
+		{
+			item: "botania:life_essence"
+		},
+		{
+			item: "botania:light_blue_double_flower"
+		},
+		{
+			item: "botania:light_blue_floating_flower"
+		},
+		{
+			item: "botania:light_blue_mushroom"
+		},
+		{
+			item: "botania:light_blue_mystical_flower"
+		},
+		{
+			item: "botania:light_blue_petal"
+		},
+		{
+			item: "botania:light_blue_petal_block"
+		},
+		{
+			item: "botania:light_blue_shiny_flower"
+		},
+		{
+			item: "botania:light_gray_double_flower"
+		},
+		{
+			item: "botania:light_gray_floating_flower"
+		},
+		{
+			item: "botania:light_gray_mushroom"
+		},
+		{
+			item: "botania:light_gray_mystical_flower"
+		},
+		{
+			item: "botania:light_gray_petal"
+		},
+		{
+			item: "botania:light_gray_petal_block"
+		},
+		{
+			item: "botania:light_gray_shiny_flower"
+		},
+		{
+			item: "botania:light_launcher"
+		},
+		{
+			item: "botania:light_relay"
+		},
+		{
+			item: "botania:lime_double_flower"
+		},
+		{
+			item: "botania:lime_floating_flower"
+		},
+		{
+			item: "botania:lime_mushroom"
+		},
+		{
+			item: "botania:lime_mystical_flower"
+		},
+		{
+			item: "botania:lime_petal"
+		},
+		{
+			item: "botania:lime_petal_block"
+		},
+		{
+			item: "botania:lime_shiny_flower"
+		},
+		{
+			item: "botania:living_root"
+		},
+		{
+			item: "botania:livingrock"
+		},
+		{
+			item: "botania:livingrock_bricks"
+		},
+		{
+			item: "botania:livingrock_bricks_slab"
+		},
+		{
+			item: "botania:livingrock_bricks_stairs"
+		},
+		{
+			item: "botania:livingrock_slab"
+		},
+		{
+			item: "botania:livingrock_stairs"
+		},
+		{
+			item: "botania:livingrock_wall"
+		},
+		{
+			item: "botania:livingwood"
+		},
+		{
+			item: "botania:livingwood_bow"
+		},
+		{
+			item: "botania:livingwood_fence"
+		},
+		{
+			item: "botania:livingwood_fence_gate"
+		},
+		{
+			item: "botania:livingwood_planks"
+		},
+		{
+			item: "botania:livingwood_planks_slab"
+		},
+		{
+			item: "botania:livingwood_planks_stairs"
+		},
+		{
+			item: "botania:livingwood_slab"
+		},
+		{
+			item: "botania:livingwood_stairs"
+		},
+		{
+			item: "botania:livingwood_twig"
+		},
+		{
+			item: "botania:livingwood_wall"
+		},
+		{
+			item: "botania:loki_ring"
+		},
+		{
+			item: "botania:loonium"
+		},
+		{
+			item: "botania:magenta_double_flower"
+		},
+		{
+			item: "botania:magenta_floating_flower"
+		},
+		{
+			item: "botania:magenta_mushroom"
+		},
+		{
+			item: "botania:magenta_mystical_flower"
+		},
+		{
+			item: "botania:magenta_petal"
+		},
+		{
+			item: "botania:magenta_petal_block"
+		},
+		{
+			item: "botania:magenta_shiny_flower"
+		},
+		{
+			item: "botania:magnet_ring"
+		},
+		{
+			item: "botania:magnet_ring_greater"
+		},
+		{
+			item: "botania:mana_bomb"
+		},
+		{
+			item: "botania:mana_bottle"
+		},
+		{
+			item: "botania:mana_cookie"
+		},
+		{
+			item: "botania:mana_detector"
+		},
+		{
+			item: "botania:mana_diamond"
+		},
+		{
+			item: "botania:mana_diamond_block"
+		},
+		{
+			item: "botania:mana_distributor"
+		},
+		{
+			item: "botania:mana_fluxfield"
+		},
+		{
+			item: "botania:mana_glass"
+		},
+		{
+			item: "botania:mana_glass_pane"
+		},
+		{
+			item: "botania:mana_gun"
+		},
+		{
+			item: "botania:mana_mirror"
+		},
+		{
+			item: "botania:mana_pearl"
+		},
+		{
+			item: "botania:mana_pool"
+		},
+		{
+			item: "botania:mana_powder"
+		},
+		{
+			item: "botania:mana_pylon"
+		},
+		{
+			item: "botania:mana_quartz"
+		},
+		{
+			item: "botania:mana_quartz_pillar"
+		},
+		{
+			item: "botania:mana_quartz_slab"
+		},
+		{
+			item: "botania:mana_quartz_stairs"
+		},
+		{
+			item: "botania:mana_ring"
+		},
+		{
+			item: "botania:mana_ring_greater"
+		},
+		{
+			item: "botania:mana_spreader"
+		},
+		{
+			item: "botania:mana_string"
+		},
+		{
+			item: "botania:mana_tablet"
+		},
+		{
+			item: "botania:mana_void"
+		},
+		{
+			item: "botania:manastar"
+		},
+		{
+			item: "botania:manasteel_axe"
+		},
+		{
+			item: "botania:manasteel_block"
+		},
+		{
+			item: "botania:manasteel_boots"
+		},
+		{
+			item: "botania:manasteel_chestplate"
+		},
+		{
+			item: "botania:manasteel_helmet"
+		},
+		{
+			item: "botania:manasteel_ingot"
+		},
+		{
+			item: "botania:manasteel_leggings"
+		},
+		{
+			item: "botania:manasteel_nugget"
+		},
+		{
+			item: "botania:manasteel_pick"
+		},
+		{
+			item: "botania:manasteel_shears"
+		},
+		{
+			item: "botania:manasteel_shovel"
+		},
+		{
+			item: "botania:manasteel_sword"
+		},
+		{
+			item: "botania:manaweave_boots"
+		},
+		{
+			item: "botania:manaweave_chestplate"
+		},
+		{
+			item: "botania:manaweave_cloth"
+		},
+		{
+			item: "botania:manaweave_helmet"
+		},
+		{
+			item: "botania:manaweave_leggings"
+		},
+		{
+			item: "botania:marimorphosis"
+		},
+		{
+			item: "botania:marimorphosis_chibi"
+		},
+		{
+			item: "botania:medumone"
+		},
+		{
+			item: "botania:metamorphic_desert_bricks"
+		},
+		{
+			item: "botania:metamorphic_desert_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_desert_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_desert_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_desert_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_desert_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_desert_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_desert_stone"
+		},
+		{
+			item: "botania:metamorphic_desert_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_desert_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_forest_bricks"
+		},
+		{
+			item: "botania:metamorphic_forest_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_forest_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_forest_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_forest_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_forest_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_forest_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_forest_stone"
+		},
+		{
+			item: "botania:metamorphic_forest_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_forest_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_fungal_bricks"
+		},
+		{
+			item: "botania:metamorphic_fungal_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_fungal_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_fungal_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_fungal_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_fungal_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_fungal_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_fungal_stone"
+		},
+		{
+			item: "botania:metamorphic_fungal_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_fungal_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_mesa_bricks"
+		},
+		{
+			item: "botania:metamorphic_mesa_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_mesa_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_mesa_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_mesa_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_mesa_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_mesa_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_mesa_stone"
+		},
+		{
+			item: "botania:metamorphic_mesa_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_mesa_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_mountain_bricks"
+		},
+		{
+			item: "botania:metamorphic_mountain_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_mountain_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_mountain_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_mountain_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_mountain_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_mountain_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_mountain_stone"
+		},
+		{
+			item: "botania:metamorphic_mountain_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_mountain_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_plains_bricks"
+		},
+		{
+			item: "botania:metamorphic_plains_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_plains_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_plains_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_plains_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_plains_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_plains_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_plains_stone"
+		},
+		{
+			item: "botania:metamorphic_plains_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_plains_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_swamp_bricks"
+		},
+		{
+			item: "botania:metamorphic_swamp_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_swamp_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_swamp_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_swamp_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_swamp_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_swamp_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_swamp_stone"
+		},
+		{
+			item: "botania:metamorphic_swamp_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_swamp_stone_stairs"
+		},
+		{
+			item: "botania:metamorphic_taiga_bricks"
+		},
+		{
+			item: "botania:metamorphic_taiga_bricks_slab"
+		},
+		{
+			item: "botania:metamorphic_taiga_bricks_stairs"
+		},
+		{
+			item: "botania:metamorphic_taiga_cobblestone"
+		},
+		{
+			item: "botania:metamorphic_taiga_cobblestone_slab"
+		},
+		{
+			item: "botania:metamorphic_taiga_cobblestone_stairs"
+		},
+		{
+			item: "botania:metamorphic_taiga_cobblestone_wall"
+		},
+		{
+			item: "botania:metamorphic_taiga_stone"
+		},
+		{
+			item: "botania:metamorphic_taiga_stone_slab"
+		},
+		{
+			item: "botania:metamorphic_taiga_stone_stairs"
+		},
+		{
+			item: "botania:mining_ring"
+		},
+		{
+			item: "botania:missile_rod"
+		},
+		{
+			item: "botania:monocle"
+		},
+		{
+			item: "botania:mossy_dreamwood_planks"
+		},
+		{
+			item: "botania:mossy_livingrock_bricks"
+		},
+		{
+			item: "botania:mossy_livingwood_planks"
+		},
+		{
+			item: "botania:munchdew"
+		},
+		{
+			item: "botania:mutated_grass"
+		},
+		{
+			item: "botania:mutated_seeds"
+		},
+		{
+			item: "botania:mycelium_seeds"
+		},
+		{
+			item: "botania:narslimmus"
+		},
+		{
+			item: "botania:natura_pylon"
+		},
+		{
+			item: "botania:nightshade_motif"
+		},
+		{
+			item: "botania:obedience_stick"
+		},
+		{
+			item: "botania:odin_ring"
+		},
+		{
+			item: "botania:open_bucket"
+		},
+		{
+			item: "botania:open_crate"
+		},
+		{
+			item: "botania:orange_double_flower"
+		},
+		{
+			item: "botania:orange_floating_flower"
+		},
+		{
+			item: "botania:orange_mushroom"
+		},
+		{
+			item: "botania:orange_mystical_flower"
+		},
+		{
+			item: "botania:orange_petal"
+		},
+		{
+			item: "botania:orange_petal_block"
+		},
+		{
+			item: "botania:orange_shiny_flower"
+		},
+		{
+			item: "botania:orechid"
+		},
+		{
+			item: "botania:orechid_ignem"
+		},
+		{
+			item: "botania:overgrowth_seed"
+		},
+		{
+			item: "botania:pattern_1_1"
+		},
+		{
+			item: "botania:pattern_1_2"
+		},
+		{
+			item: "botania:pattern_1_3"
+		},
+		{
+			item: "botania:pattern_2_1"
+		},
+		{
+			item: "botania:pattern_2_2"
+		},
+		{
+			item: "botania:pattern_2_3"
+		},
+		{
+			item: "botania:pattern_3_1"
+		},
+		{
+			item: "botania:pattern_3_2"
+		},
+		{
+			item: "botania:pattern_donut"
+		},
+		{
+			item: "botania:pattern_framed_dreamwood"
+		},
+		{
+			item: "botania:pattern_framed_livingwood"
+		},
+		{
+			item: "botania:pebble"
+		},
+		{
+			item: "botania:pestle_and_mortar"
+		},
+		{
+			item: "botania:phantom_ink"
+		},
+		{
+			item: "botania:pink_double_flower"
+		},
+		{
+			item: "botania:pink_floating_flower"
+		},
+		{
+			item: "botania:pink_mushroom"
+		},
+		{
+			item: "botania:pink_mystical_flower"
+		},
+		{
+			item: "botania:pink_petal"
+		},
+		{
+			item: "botania:pink_petal_block"
+		},
+		{
+			item: "botania:pink_shiny_flower"
+		},
+		{
+			item: "botania:pinkinator"
+		},
+		{
+			item: "botania:piston_relay"
+		},
+		{
+			item: "botania:pixie_dust"
+		},
+		{
+			item: "botania:pixie_ring"
+		},
+		{
+			item: "botania:placeholder"
+		},
+		{
+			item: "botania:podzol_seeds"
+		},
+		{
+			item: "botania:pollidisiac"
+		},
+		{
+			item: "botania:pool_minecart"
+		},
+		{
+			item: "botania:prism"
+		},
+		{
+			item: "botania:pump"
+		},
+		{
+			item: "botania:pure_daisy"
+		},
+		{
+			item: "botania:purple_double_flower"
+		},
+		{
+			item: "botania:purple_floating_flower"
+		},
+		{
+			item: "botania:purple_mushroom"
+		},
+		{
+			item: "botania:purple_mystical_flower"
+		},
+		{
+			item: "botania:purple_petal"
+		},
+		{
+			item: "botania:purple_petal_block"
+		},
+		{
+			item: "botania:purple_shiny_flower"
+		},
+		{
+			item: "botania:quartz_blaze"
+		},
+		{
+			item: "botania:quartz_dark"
+		},
+		{
+			item: "botania:quartz_elven"
+		},
+		{
+			item: "botania:quartz_lavender"
+		},
+		{
+			item: "botania:quartz_mana"
+		},
+		{
+			item: "botania:quartz_red"
+		},
+		{
+			item: "botania:quartz_sunny"
+		},
+		{
+			item: "botania:rafflowsia"
+		},
+		{
+			item: "botania:rainbow_rod"
+		},
+		{
+			item: "botania:rannuncarpus"
+		},
+		{
+			item: "botania:rannuncarpus_chibi"
+		},
+		{
+			item: "botania:reach_ring"
+		},
+		{
+			item: "botania:record_gaia_1"
+		},
+		{
+			item: "botania:record_gaia_2"
+		},
+		{
+			item: "botania:red_double_flower"
+		},
+		{
+			item: "botania:red_floating_flower"
+		},
+		{
+			item: "botania:red_mushroom"
+		},
+		{
+			item: "botania:red_mystical_flower"
+		},
+		{
+			item: "botania:red_pavement"
+		},
+		{
+			item: "botania:red_pavement_slab"
+		},
+		{
+			item: "botania:red_pavement_stairs"
+		},
+		{
+			item: "botania:red_petal"
+		},
+		{
+			item: "botania:red_petal_block"
+		},
+		{
+			item: "botania:red_quartz"
+		},
+		{
+			item: "botania:red_quartz_pillar"
+		},
+		{
+			item: "botania:red_quartz_slab"
+		},
+		{
+			item: "botania:red_quartz_stairs"
+		},
+		{
+			item: "botania:red_shiny_flower"
+		},
+		{
+			item: "botania:red_string"
+		},
+		{
+			item: "botania:red_string_comparator"
+		},
+		{
+			item: "botania:red_string_container"
+		},
+		{
+			item: "botania:red_string_dispenser"
+		},
+		{
+			item: "botania:red_string_fertilizer"
+		},
+		{
+			item: "botania:red_string_interceptor"
+		},
+		{
+			item: "botania:red_string_relay"
+		},
+		{
+			item: "botania:redstone_root"
+		},
+		{
+			item: "botania:redstone_spreader"
+		},
+		{
+			item: "botania:root"
+		},
+		{
+			item: "botania:rosa_arcana"
+		},
+		{
+			item: "botania:rune_air"
+		},
+		{
+			item: "botania:rune_autumn"
+		},
+		{
+			item: "botania:rune_earth"
+		},
+		{
+			item: "botania:rune_envy"
+		},
+		{
+			item: "botania:rune_fire"
+		},
+		{
+			item: "botania:rune_gluttony"
+		},
+		{
+			item: "botania:rune_greed"
+		},
+		{
+			item: "botania:rune_lust"
+		},
+		{
+			item: "botania:rune_mana"
+		},
+		{
+			item: "botania:rune_pride"
+		},
+		{
+			item: "botania:rune_sloth"
+		},
+		{
+			item: "botania:rune_spring"
+		},
+		{
+			item: "botania:rune_summer"
+		},
+		{
+			item: "botania:rune_water"
+		},
+		{
+			item: "botania:rune_winter"
+		},
+		{
+			item: "botania:rune_wrath"
+		},
+		{
+			item: "botania:runic_altar"
+		},
+		{
+			item: "botania:scorched_grass"
+		},
+		{
+			item: "botania:scorched_seeds"
+		},
+		{
+			item: "botania:sextant"
+		},
+		{
+			item: "botania:shimmerrock"
+		},
+		{
+			item: "botania:shimmerrock_slab"
+		},
+		{
+			item: "botania:shimmerrock_stairs"
+		},
+		{
+			item: "botania:shimmerwood_planks"
+		},
+		{
+			item: "botania:shimmerwood_planks_slab"
+		},
+		{
+			item: "botania:shimmerwood_planks_stairs"
+		},
+		{
+			item: "botania:shulk_me_not"
+		},
+		{
+			item: "botania:skydirt_rod"
+		},
+		{
+			item: "botania:slime_bottle"
+		},
+		{
+			item: "botania:slingshot"
+		},
+		{
+			item: "botania:smelt_rod"
+		},
+		{
+			item: "botania:solegnolia"
+		},
+		{
+			item: "botania:solegnolia_chibi"
+		},
+		{
+			item: "botania:spark"
+		},
+		{
+			item: "botania:spark_changer"
+		},
+		{
+			item: "botania:spark_upgrade_dispersive"
+		},
+		{
+			item: "botania:spark_upgrade_dominant"
+		},
+		{
+			item: "botania:spark_upgrade_isolated"
+		},
+		{
+			item: "botania:spark_upgrade_recessive"
+		},
+		{
+			item: "botania:spawner_claw"
+		},
+		{
+			item: "botania:spawner_mover"
+		},
+		{
+			item: "botania:spectral_platform"
+		},
+		{
+			item: "botania:spectranthemum"
+		},
+		{
+			item: "botania:spectrolus"
+		},
+		{
+			item: "botania:speed_up_belt"
+		},
+		{
+			item: "botania:spell_cloth"
+		},
+		{
+			item: "botania:star_sword"
+		},
+		{
+			item: "botania:starfield"
+		},
+		{
+			item: "botania:sunny_quartz"
+		},
+		{
+			item: "botania:sunny_quartz_pillar"
+		},
+		{
+			item: "botania:sunny_quartz_slab"
+		},
+		{
+			item: "botania:sunny_quartz_stairs"
+		},
+		{
+			item: "botania:super_cloud_pendant"
+		},
+		{
+			item: "botania:super_lava_pendant"
+		},
+		{
+			item: "botania:super_travel_belt"
+		},
+		{
+			item: "botania:swap_ring"
+		},
+		{
+			item: "botania:tangleberrie"
+		},
+		{
+			item: "botania:temperance_stone"
+		},
+		{
+			item: "botania:terra_axe"
+		},
+		{
+			item: "botania:terra_pick"
+		},
+		{
+			item: "botania:terra_plate"
+		},
+		{
+			item: "botania:terra_sword"
+		},
+		{
+			item: "botania:terraform_rod"
+		},
+		{
+			item: "botania:terrasteel_block"
+		},
+		{
+			item: "botania:terrasteel_boots"
+		},
+		{
+			item: "botania:terrasteel_chestplate"
+		},
+		{
+			item: "botania:terrasteel_helmet"
+		},
+		{
+			item: "botania:terrasteel_ingot"
+		},
+		{
+			item: "botania:terrasteel_leggings"
+		},
+		{
+			item: "botania:terrasteel_nugget"
+		},
+		{
+			item: "botania:teru_teru_bozu"
+		},
+		{
+			item: "botania:thermalily"
+		},
+		{
+			item: "botania:third_eye"
+		},
+		{
+			item: "botania:thor_ring"
+		},
+		{
+			item: "botania:thorn_chakram"
+		},
+		{
+			item: "botania:thunder_sword"
+		},
+		{
+			item: "botania:tigerseye"
+		},
+		{
+			item: "botania:tiny_planet"
+		},
+		{
+			item: "botania:tiny_planet_block"
+		},
+		{
+			item: "botania:tiny_potato"
+		},
+		{
+			item: "botania:toggle_light_relay"
+		},
+		{
+			item: "botania:tornado_rod"
+		},
+		{
+			item: "botania:travel_belt"
+		},
+		{
+			item: "botania:turntable"
+		},
+		{
+			item: "botania:twig_wand"
+		},
+		{
+			item: "botania:unholy_cloak"
+		},
+		{
+			item: "botania:vial"
+		},
+		{
+			item: "botania:vinculotus"
+		},
+		{
+			item: "botania:vine_ball"
+		},
+		{
+			item: "botania:virus_necrodermal"
+		},
+		{
+			item: "botania:virus_nullodermal"
+		},
+		{
+			item: "botania:vivid_grass"
+		},
+		{
+			item: "botania:vivid_seeds"
+		},
+		{
+			item: {
+				id: "botania:water_bowl",
+				Count: true,
+				tag: {
+					Fluid: {
+						FluidName: "minecraft:water",
+						Amount: 1000
+					}
+				}
+			}
+		},
+		{
+			item: "botania:water_ring"
+		},
+		{
+			item: "botania:water_rod"
+		},
+		{
+			item: "botania:white_double_flower"
+		},
+		{
+			item: "botania:white_floating_flower"
+		},
+		{
+			item: "botania:white_mushroom"
+		},
+		{
+			item: "botania:white_mystical_flower"
+		},
+		{
+			item: "botania:white_pavement"
+		},
+		{
+			item: "botania:white_pavement_slab"
+		},
+		{
+			item: "botania:white_pavement_stairs"
+		},
+		{
+			item: "botania:white_petal"
+		},
+		{
+			item: "botania:white_petal_block"
+		},
+		{
+			item: "botania:white_shiny_flower"
+		},
+		{
+			item: "botania:world_seed"
+		},
+		{
+			item: "botania:yellow_double_flower"
+		},
+		{
+			item: "botania:yellow_floating_flower"
+		},
+		{
+			item: "botania:yellow_mushroom"
+		},
+		{
+			item: "botania:yellow_mystical_flower"
+		},
+		{
+			item: "botania:yellow_pavement"
+		},
+		{
+			item: "botania:yellow_pavement_slab"
+		},
+		{
+			item: "botania:yellow_pavement_stairs"
+		},
+		{
+			item: "botania:yellow_petal"
+		},
+		{
+			item: "botania:yellow_petal_block"
+		},
+		{
+			item: "botania:yellow_shiny_flower"
+		},
+		{
+			item: "botanicalmachinery:alfheim_market"
+		},
+		{
+			item: "botanicalmachinery:industrial_agglomeration_factory"
+		},
+		{
+			item: "botanicalmachinery:mana_battery"
+		},
+		{
+			item: "botanicalmachinery:mana_battery_creative"
+		},
+		{
+			item: "botanicalmachinery:mana_emerald"
+		},
+		{
+			item: "botanicalmachinery:mana_emerald_block"
+		},
+		{
+			item: "botanicalmachinery:mechanical_apothecary"
+		},
+		{
+			item: "botanicalmachinery:mechanical_brewery"
+		},
+		{
+			item: "botanicalmachinery:mechanical_daisy"
+		},
+		{
+			item: "botanicalmachinery:mechanical_mana_pool"
+		},
+		{
+			item: "botanicalmachinery:mechanical_runic_altar"
+		},
+		{
+			item: "buildinggadgets:construction_block"
+		},
+		{
+			item: "buildinggadgets:construction_block_dense"
+		},
+		{
+			item: "buildinggadgets:construction_block_powder"
+		},
+		{
+			item: "buildinggadgets:construction_chunk_dense"
+		},
+		{
+			item: "buildinggadgets:construction_paste"
+		},
+		{
+			item: "buildinggadgets:construction_paste_container_creative"
+		},
+		{
+			item: "buildinggadgets:construction_paste_container_t1"
+		},
+		{
+			item: "buildinggadgets:construction_paste_container_t2"
+		},
+		{
+			item: "buildinggadgets:construction_paste_container_t3"
+		},
+		{
+			item: "buildinggadgets:gadget_building"
+		},
+		{
+			item: "buildinggadgets:gadget_copy_paste"
+		},
+		{
+			item: "buildinggadgets:gadget_destruction"
+		},
+		{
+			item: "buildinggadgets:gadget_exchanging"
+		},
+		{
+			item: "buildinggadgets:template"
+		},
+		{
+			item: "buildinggadgets:template_manager"
+		},
+		{
+			item: "carryon:entity_item"
+		},
+		{
+			item: "carryon:tile_item"
+		},
+		{
+			item: "charcoalblock:charcoal_block"
+		},
+		{
+			item: "curios:amulet"
+		},
+		{
+			item: "curios:crown"
+		},
+		{
+			item: "curios:knuckles"
+		},
+		{
+			item: "curios:ring"
+		},
+		{
+			item: "ftbquests:book"
+		},
+		{
+			item: "ftbquests:lootcrate"
+		},
+		{
+			item: "gravestone:gravestone"
+		},
+		{
+			item: "gravestone:obituary"
+		},
+		{
+			item: "ironchest:copper_chest"
+		},
+		{
+			item: "ironchest:copper_to_iron_chest_upgrade"
+		},
+		{
+			item: "ironchest:copper_to_silver_chest_upgrade"
+		},
+		{
+			item: "ironchest:crystal_chest"
+		},
+		{
+			item: "ironchest:diamond_chest"
+		},
+		{
+			item: "ironchest:diamond_to_crystal_chest_upgrade"
+		},
+		{
+			item: "ironchest:diamond_to_obsidian_chest_upgrade"
+		},
+		{
+			item: "ironchest:dirt_chest"
+		},
+		{
+			item: "ironchest:gold_chest"
+		},
+		{
+			item: "ironchest:gold_to_diamond_chest_upgrade"
+		},
+		{
+			item: "ironchest:iron_chest"
+		},
+		{
+			item: "ironchest:iron_to_gold_chest_upgrade"
+		},
+		{
+			item: "ironchest:obsidian_chest"
+		},
+		{
+			item: "ironchest:silver_chest"
+		},
+		{
+			item: "ironchest:silver_to_gold_chest_upgrade"
+		},
+		{
+			item: "ironchest:wood_to_copper_chest_upgrade"
+		},
+		{
+			item: "ironchest:wood_to_iron_chest_upgrade"
+		},
+		{
+			item: "itemfilters:always_false"
+		},
+		{
+			item: "itemfilters:always_true"
+		},
+		{
+			item: "itemfilters:and"
+		},
+		{
+			item: "itemfilters:block"
+		},
+		{
+			item: "itemfilters:damage"
+		},
+		{
+			item: "itemfilters:id_regex"
+		},
+		{
+			item: "itemfilters:item_group"
+		},
+		{
+			item: "itemfilters:max_count"
+		},
+		{
+			item: "itemfilters:mod"
+		},
+		{
+			item: "itemfilters:not"
+		},
+		{
+			item: "itemfilters:or"
+		},
+		{
+			item: "itemfilters:tag"
+		},
+		{
+			item: "itemfilters:xor"
+		},
+		{
+			item: "minecraft:acacia_boat"
+		},
+		{
+			item: "minecraft:acacia_button"
+		},
+		{
+			item: "minecraft:acacia_door"
+		},
+		{
+			item: "minecraft:acacia_fence"
+		},
+		{
+			item: "minecraft:acacia_fence_gate"
+		},
+		{
+			item: "minecraft:acacia_leaves"
+		},
+		{
+			item: "minecraft:acacia_log"
+		},
+		{
+			item: "minecraft:acacia_planks"
+		},
+		{
+			item: "minecraft:acacia_pressure_plate"
+		},
+		{
+			item: "minecraft:acacia_sapling"
+		},
+		{
+			item: "minecraft:acacia_sign"
+		},
+		{
+			item: "minecraft:acacia_slab"
+		},
+		{
+			item: "minecraft:acacia_stairs"
+		},
+		{
+			item: "minecraft:acacia_trapdoor"
+		},
+		{
+			item: "minecraft:acacia_wood"
+		},
+		{
+			item: "minecraft:activator_rail"
+		},
+		{},
+		{
+			item: "minecraft:allium"
+		},
+		{
+			item: "minecraft:ancient_debris"
+		},
+		{
+			item: "minecraft:andesite"
+		},
+		{
+			item: "minecraft:andesite_slab"
+		},
+		{
+			item: "minecraft:andesite_stairs"
+		},
+		{
+			item: "minecraft:andesite_wall"
+		},
+		{
+			item: "minecraft:anvil"
+		},
+		{
+			item: "minecraft:apple"
+		},
+		{
+			item: "minecraft:armor_stand"
+		},
+		{
+			item: "minecraft:arrow"
+		},
+		{
+			item: "minecraft:azure_bluet"
+		},
+		{
+			item: "minecraft:baked_potato"
+		},
+		{
+			item: "minecraft:bamboo"
+		},
+		{
+			item: "minecraft:barrel"
+		},
+		{
+			item: "minecraft:basalt"
+		},
+		{
+			item: "minecraft:beacon"
+		},
+		{
+			item: "minecraft:bee_nest"
+		},
+		{
+			item: "minecraft:beef"
+		},
+		{
+			item: "minecraft:beehive"
+		},
+		{
+			item: "minecraft:beetroot"
+		},
+		{
+			item: "minecraft:beetroot_seeds"
+		},
+		{
+			item: "minecraft:beetroot_soup"
+		},
+		{
+			item: "minecraft:bell"
+		},
+		{
+			item: "minecraft:black_banner"
+		},
+		{
+			item: "minecraft:black_bed"
+		},
+		{
+			item: "minecraft:black_carpet"
+		},
+		{
+			item: "minecraft:black_concrete"
+		},
+		{
+			item: "minecraft:black_concrete_powder"
+		},
+		{
+			item: "minecraft:black_dye"
+		},
+		{
+			item: "minecraft:black_glazed_terracotta"
+		},
+		{
+			item: "minecraft:black_shulker_box"
+		},
+		{
+			item: "minecraft:black_stained_glass"
+		},
+		{
+			item: "minecraft:black_stained_glass_pane"
+		},
+		{
+			item: "minecraft:black_terracotta"
+		},
+		{
+			item: "minecraft:black_wool"
+		},
+		{
+			item: "minecraft:blackstone"
+		},
+		{
+			item: "minecraft:blackstone_slab"
+		},
+		{
+			item: "minecraft:blackstone_stairs"
+		},
+		{
+			item: "minecraft:blackstone_wall"
+		},
+		{
+			item: "minecraft:blast_furnace"
+		},
+		{
+			item: "minecraft:blaze_powder"
+		},
+		{
+			item: "minecraft:blaze_rod"
+		},
+		{
+			item: "minecraft:blue_banner"
+		},
+		{
+			item: "minecraft:blue_bed"
+		},
+		{
+			item: "minecraft:blue_carpet"
+		},
+		{
+			item: "minecraft:blue_concrete"
+		},
+		{
+			item: "minecraft:blue_concrete_powder"
+		},
+		{
+			item: "minecraft:blue_dye"
+		},
+		{
+			item: "minecraft:blue_glazed_terracotta"
+		},
+		{
+			item: "minecraft:blue_ice"
+		},
+		{
+			item: "minecraft:blue_orchid"
+		},
+		{
+			item: "minecraft:blue_shulker_box"
+		},
+		{
+			item: "minecraft:blue_stained_glass"
+		},
+		{
+			item: "minecraft:blue_stained_glass_pane"
+		},
+		{
+			item: "minecraft:blue_terracotta"
+		},
+		{
+			item: "minecraft:blue_wool"
+		},
+		{
+			item: "minecraft:bone"
+		},
+		{
+			item: "minecraft:bone_block"
+		},
+		{
+			item: "minecraft:bone_meal"
+		},
+		{
+			item: "minecraft:book"
+		},
+		{
+			item: "minecraft:bookshelf"
+		},
+		{
+			item: "minecraft:bow"
+		},
+		{
+			item: "minecraft:bowl"
+		},
+		{
+			item: "minecraft:brain_coral"
+		},
+		{
+			item: "minecraft:brain_coral_block"
+		},
+		{
+			item: "minecraft:brain_coral_fan"
+		},
+		{
+			item: "minecraft:bread"
+		},
+		{
+			item: "minecraft:brewing_stand"
+		},
+		{
+			item: "minecraft:brick"
+		},
+		{
+			item: "minecraft:brick_slab"
+		},
+		{
+			item: "minecraft:brick_stairs"
+		},
+		{
+			item: "minecraft:brick_wall"
+		},
+		{
+			item: "minecraft:bricks"
+		},
+		{
+			item: "minecraft:brown_banner"
+		},
+		{
+			item: "minecraft:brown_bed"
+		},
+		{
+			item: "minecraft:brown_carpet"
+		},
+		{
+			item: "minecraft:brown_concrete"
+		},
+		{
+			item: "minecraft:brown_concrete_powder"
+		},
+		{
+			item: "minecraft:brown_dye"
+		},
+		{
+			item: "minecraft:brown_glazed_terracotta"
+		},
+		{
+			item: "minecraft:brown_mushroom"
+		},
+		{
+			item: "minecraft:brown_mushroom_block"
+		},
+		{
+			item: "minecraft:brown_shulker_box"
+		},
+		{
+			item: "minecraft:brown_stained_glass"
+		},
+		{
+			item: "minecraft:brown_stained_glass_pane"
+		},
+		{
+			item: "minecraft:brown_terracotta"
+		},
+		{
+			item: "minecraft:brown_wool"
+		},
+		{
+			item: "minecraft:bubble_coral"
+		},
+		{
+			item: "minecraft:bubble_coral_block"
+		},
+		{
+			item: "minecraft:bubble_coral_fan"
+		},
+		{
+			item: "minecraft:bucket"
+		},
+		{
+			item: "minecraft:cactus"
+		},
+		{
+			item: "minecraft:cake"
+		},
+		{
+			item: "minecraft:campfire"
+		},
+		{
+			item: "minecraft:carrot"
+		},
+		{
+			item: "minecraft:carrot_on_a_stick"
+		},
+		{
+			item: "minecraft:cartography_table"
+		},
+		{
+			item: "minecraft:carved_pumpkin"
+		},
+		{
+			item: "minecraft:cauldron"
+		},
+		{
+			item: "minecraft:chain"
+		},
+		{
+			item: "minecraft:chain_command_block"
+		},
+		{
+			item: "minecraft:chainmail_boots"
+		},
+		{
+			item: "minecraft:chainmail_chestplate"
+		},
+		{
+			item: "minecraft:chainmail_helmet"
+		},
+		{
+			item: "minecraft:chainmail_leggings"
+		},
+		{
+			item: "minecraft:charcoal"
+		},
+		{
+			item: "minecraft:chest"
+		},
+		{
+			item: "minecraft:chest_minecart"
+		},
+		{
+			item: "minecraft:chicken"
+		},
+		{
+			item: "minecraft:chipped_anvil"
+		},
+		{
+			item: "minecraft:chiseled_nether_bricks"
+		},
+		{
+			item: "minecraft:chiseled_polished_blackstone"
+		},
+		{
+			item: "minecraft:chiseled_quartz_block"
+		},
+		{
+			item: "minecraft:chiseled_red_sandstone"
+		},
+		{
+			item: "minecraft:chiseled_sandstone"
+		},
+		{
+			item: "minecraft:chiseled_stone_bricks"
+		},
+		{
+			item: "minecraft:chorus_flower"
+		},
+		{
+			item: "minecraft:chorus_fruit"
+		},
+		{
+			item: "minecraft:chorus_plant"
+		},
+		{
+			item: "minecraft:clay"
+		},
+		{
+			item: "minecraft:clay_ball"
+		},
+		{
+			item: "minecraft:clock"
+		},
+		{
+			item: "minecraft:coal"
+		},
+		{
+			item: "minecraft:coal_block"
+		},
+		{
+			item: "minecraft:coal_ore"
+		},
+		{
+			item: "minecraft:coarse_dirt"
+		},
+		{
+			item: "minecraft:cobblestone"
+		},
+		{
+			item: "minecraft:cobblestone_slab"
+		},
+		{
+			item: "minecraft:cobblestone_stairs"
+		},
+		{
+			item: "minecraft:cobblestone_wall"
+		},
+		{
+			item: "minecraft:cobweb"
+		},
+		{
+			item: "minecraft:cocoa_beans"
+		},
+		{
+			item: "minecraft:cod"
+		},
+		{
+			item: "minecraft:cod_bucket"
+		},
+		{
+			item: "minecraft:comparator"
+		},
+		{
+			item: "minecraft:compass"
+		},
+		{
+			item: "minecraft:composter"
+		},
+		{
+			item: "minecraft:conduit"
+		},
+		{
+			item: "minecraft:cooked_beef"
+		},
+		{
+			item: "minecraft:cooked_chicken"
+		},
+		{
+			item: "minecraft:cooked_cod"
+		},
+		{
+			item: "minecraft:cooked_mutton"
+		},
+		{
+			item: "minecraft:cooked_porkchop"
+		},
+		{
+			item: "minecraft:cooked_rabbit"
+		},
+		{
+			item: "minecraft:cooked_salmon"
+		},
+		{
+			item: "minecraft:cookie"
+		},
+		{
+			item: "minecraft:cornflower"
+		},
+		{
+			item: "minecraft:cracked_nether_bricks"
+		},
+		{
+			item: "minecraft:cracked_polished_blackstone_bricks"
+		},
+		{
+			item: "minecraft:cracked_stone_bricks"
+		},
+		{
+			item: "minecraft:crafting_table"
+		},
+		{
+			item: "minecraft:creeper_banner_pattern"
+		},
+		{
+			item: "minecraft:creeper_head"
+		},
+		{
+			item: "minecraft:crimson_button"
+		},
+		{
+			item: "minecraft:crimson_door"
+		},
+		{
+			item: "minecraft:crimson_fence"
+		},
+		{
+			item: "minecraft:crimson_fence_gate"
+		},
+		{
+			item: "minecraft:crimson_fungus"
+		},
+		{
+			item: "minecraft:crimson_hyphae"
+		},
+		{
+			item: "minecraft:crimson_nylium"
+		},
+		{
+			item: "minecraft:crimson_planks"
+		},
+		{
+			item: "minecraft:crimson_pressure_plate"
+		},
+		{
+			item: "minecraft:crimson_roots"
+		},
+		{
+			item: "minecraft:crimson_sign"
+		},
+		{
+			item: "minecraft:crimson_slab"
+		},
+		{
+			item: "minecraft:crimson_stairs"
+		},
+		{
+			item: "minecraft:crimson_stem"
+		},
+		{
+			item: "minecraft:crimson_trapdoor"
+		},
+		{
+			item: "minecraft:crossbow"
+		},
+		{
+			item: "minecraft:crying_obsidian"
+		},
+		{
+			item: "minecraft:cut_red_sandstone"
+		},
+		{
+			item: "minecraft:cut_red_sandstone_slab"
+		},
+		{
+			item: "minecraft:cut_sandstone"
+		},
+		{
+			item: "minecraft:cut_sandstone_slab"
+		},
+		{
+			item: "minecraft:cyan_banner"
+		},
+		{
+			item: "minecraft:cyan_bed"
+		},
+		{
+			item: "minecraft:cyan_carpet"
+		},
+		{
+			item: "minecraft:cyan_concrete"
+		},
+		{
+			item: "minecraft:cyan_concrete_powder"
+		},
+		{
+			item: "minecraft:cyan_dye"
+		},
+		{
+			item: "minecraft:cyan_glazed_terracotta"
+		},
+		{
+			item: "minecraft:cyan_shulker_box"
+		},
+		{
+			item: "minecraft:cyan_stained_glass"
+		},
+		{
+			item: "minecraft:cyan_stained_glass_pane"
+		},
+		{
+			item: "minecraft:cyan_terracotta"
+		},
+		{
+			item: "minecraft:cyan_wool"
+		},
+		{
+			item: "minecraft:damaged_anvil"
+		},
+		{
+			item: "minecraft:dandelion"
+		},
+		{
+			item: "minecraft:dark_oak_boat"
+		},
+		{
+			item: "minecraft:dark_oak_button"
+		},
+		{
+			item: "minecraft:dark_oak_door"
+		},
+		{
+			item: "minecraft:dark_oak_fence"
+		},
+		{
+			item: "minecraft:dark_oak_fence_gate"
+		},
+		{
+			item: "minecraft:dark_oak_leaves"
+		},
+		{
+			item: "minecraft:dark_oak_log"
+		},
+		{
+			item: "minecraft:dark_oak_planks"
+		},
+		{
+			item: "minecraft:dark_oak_pressure_plate"
+		},
+		{
+			item: "minecraft:dark_oak_sapling"
+		},
+		{
+			item: "minecraft:dark_oak_sign"
+		},
+		{
+			item: "minecraft:dark_oak_slab"
+		},
+		{
+			item: "minecraft:dark_oak_stairs"
+		},
+		{
+			item: "minecraft:dark_oak_trapdoor"
+		},
+		{
+			item: "minecraft:dark_oak_wood"
+		},
+		{
+			item: "minecraft:dark_prismarine"
+		},
+		{
+			item: "minecraft:dark_prismarine_slab"
+		},
+		{
+			item: "minecraft:dark_prismarine_stairs"
+		},
+		{
+			item: "minecraft:daylight_detector"
+		},
+		{
+			item: "minecraft:dead_brain_coral"
+		},
+		{
+			item: "minecraft:dead_brain_coral_block"
+		},
+		{
+			item: "minecraft:dead_brain_coral_fan"
+		},
+		{
+			item: "minecraft:dead_bubble_coral"
+		},
+		{
+			item: "minecraft:dead_bubble_coral_block"
+		},
+		{
+			item: "minecraft:dead_bubble_coral_fan"
+		},
+		{
+			item: "minecraft:dead_bush"
+		},
+		{
+			item: "minecraft:dead_fire_coral"
+		},
+		{
+			item: "minecraft:dead_fire_coral_block"
+		},
+		{
+			item: "minecraft:dead_fire_coral_fan"
+		},
+		{
+			item: "minecraft:dead_horn_coral"
+		},
+		{
+			item: "minecraft:dead_horn_coral_block"
+		},
+		{
+			item: "minecraft:dead_horn_coral_fan"
+		},
+		{
+			item: "minecraft:dead_tube_coral"
+		},
+		{
+			item: "minecraft:dead_tube_coral_block"
+		},
+		{
+			item: "minecraft:dead_tube_coral_fan"
+		},
+		{
+			item: "minecraft:detector_rail"
+		},
+		{
+			item: "minecraft:diamond"
+		},
+		{
+			item: "minecraft:diamond_axe"
+		},
+		{
+			item: "minecraft:diamond_block"
+		},
+		{
+			item: "minecraft:diamond_boots"
+		},
+		{
+			item: "minecraft:diamond_chestplate"
+		},
+		{
+			item: "minecraft:diamond_helmet"
+		},
+		{
+			item: "minecraft:diamond_hoe"
+		},
+		{
+			item: "minecraft:diamond_horse_armor"
+		},
+		{
+			item: "minecraft:diamond_leggings"
+		},
+		{
+			item: "minecraft:diamond_ore"
+		},
+		{
+			item: "minecraft:diamond_pickaxe"
+		},
+		{
+			item: "minecraft:diamond_shovel"
+		},
+		{
+			item: "minecraft:diamond_sword"
+		},
+		{
+			item: "minecraft:diorite"
+		},
+		{
+			item: "minecraft:diorite_slab"
+		},
+		{
+			item: "minecraft:diorite_stairs"
+		},
+		{
+			item: "minecraft:diorite_wall"
+		},
+		{
+			item: "minecraft:dirt"
+		},
+		{
+			item: "minecraft:dispenser"
+		},
+		{
+			item: "minecraft:dragon_breath"
+		},
+		{
+			item: "minecraft:dragon_egg"
+		},
+		{
+			item: "minecraft:dragon_head"
+		},
+		{
+			item: "minecraft:dried_kelp"
+		},
+		{
+			item: "minecraft:dried_kelp_block"
+		},
+		{
+			item: "minecraft:dropper"
+		},
+		{
+			item: "minecraft:egg"
+		},
+		{
+			item: "minecraft:elytra"
+		},
+		{
+			item: "minecraft:emerald"
+		},
+		{
+			item: "minecraft:emerald_block"
+		},
+		{
+			item: "minecraft:emerald_ore"
+		},
+		{
+			item: "minecraft:enchanted_book"
+		},
+		{
+			item: "minecraft:enchanted_golden_apple"
+		},
+		{
+			item: "minecraft:enchanting_table"
+		},
+		{
+			item: "minecraft:end_crystal"
+		},
+		{
+			item: "minecraft:end_portal_frame"
+		},
+		{
+			item: "minecraft:end_rod"
+		},
+		{
+			item: "minecraft:end_stone"
+		},
+		{
+			item: "minecraft:end_stone_brick_slab"
+		},
+		{
+			item: "minecraft:end_stone_brick_stairs"
+		},
+		{
+			item: "minecraft:end_stone_brick_wall"
+		},
+		{
+			item: "minecraft:end_stone_bricks"
+		},
+		{
+			item: "minecraft:ender_chest"
+		},
+		{
+			item: "minecraft:ender_eye"
+		},
+		{
+			item: "minecraft:ender_pearl"
+		},
+		{
+			item: "minecraft:experience_bottle"
+		},
+		{
+			item: "minecraft:farmland"
+		},
+		{
+			item: "minecraft:feather"
+		},
+		{
+			item: "minecraft:fermented_spider_eye"
+		},
+		{
+			item: "minecraft:fern"
+		},
+		{
+			item: "minecraft:filled_map"
+		},
+		{
+			item: "minecraft:fire_charge"
+		},
+		{
+			item: "minecraft:fire_coral"
+		},
+		{
+			item: "minecraft:fire_coral_block"
+		},
+		{
+			item: "minecraft:fire_coral_fan"
+		},
+		{
+			item: "minecraft:firework_rocket"
+		},
+		{
+			item: "minecraft:firework_star"
+		},
+		{
+			item: "minecraft:fishing_rod"
+		},
+		{
+			item: "minecraft:fletching_table"
+		},
+		{
+			item: "minecraft:flint"
+		},
+		{
+			item: "minecraft:flint_and_steel"
+		},
+		{
+			item: "minecraft:flower_banner_pattern"
+		},
+		{
+			item: "minecraft:flower_pot"
+		},
+		{
+			item: "minecraft:furnace"
+		},
+		{
+			item: "minecraft:furnace_minecart"
+		},
+		{
+			item: "minecraft:ghast_tear"
+		},
+		{
+			item: "minecraft:gilded_blackstone"
+		},
+		{
+			item: "minecraft:glass"
+		},
+		{
+			item: "minecraft:glass_bottle"
+		},
+		{
+			item: "minecraft:glass_pane"
+		},
+		{
+			item: "minecraft:glistering_melon_slice"
+		},
+		{
+			item: "minecraft:globe_banner_pattern"
+		},
+		{
+			item: "minecraft:glowstone"
+		},
+		{
+			item: "minecraft:glowstone_dust"
+		},
+		{
+			item: "minecraft:gold_block"
+		},
+		{
+			item: "minecraft:gold_ingot"
+		},
+		{
+			item: "minecraft:gold_nugget"
+		},
+		{
+			item: "minecraft:gold_ore"
+		},
+		{
+			item: "minecraft:golden_apple"
+		},
+		{
+			item: "minecraft:golden_axe"
+		},
+		{
+			item: "minecraft:golden_boots"
+		},
+		{
+			item: "minecraft:golden_carrot"
+		},
+		{
+			item: "minecraft:golden_chestplate"
+		},
+		{
+			item: "minecraft:golden_helmet"
+		},
+		{
+			item: "minecraft:golden_hoe"
+		},
+		{
+			item: "minecraft:golden_horse_armor"
+		},
+		{
+			item: "minecraft:golden_leggings"
+		},
+		{
+			item: "minecraft:golden_pickaxe"
+		},
+		{
+			item: "minecraft:golden_shovel"
+		},
+		{
+			item: "minecraft:golden_sword"
+		},
+		{
+			item: "minecraft:granite"
+		},
+		{
+			item: "minecraft:granite_slab"
+		},
+		{
+			item: "minecraft:granite_stairs"
+		},
+		{
+			item: "minecraft:granite_wall"
+		},
+		{
+			item: "minecraft:grass"
+		},
+		{
+			item: "minecraft:grass_block"
+		},
+		{
+			item: "minecraft:grass_path"
+		},
+		{
+			item: "minecraft:gravel"
+		},
+		{
+			item: "minecraft:gray_banner"
+		},
+		{
+			item: "minecraft:gray_bed"
+		},
+		{
+			item: "minecraft:gray_carpet"
+		},
+		{
+			item: "minecraft:gray_concrete"
+		},
+		{
+			item: "minecraft:gray_concrete_powder"
+		},
+		{
+			item: "minecraft:gray_dye"
+		},
+		{
+			item: "minecraft:gray_glazed_terracotta"
+		},
+		{
+			item: "minecraft:gray_shulker_box"
+		},
+		{
+			item: "minecraft:gray_stained_glass"
+		},
+		{
+			item: "minecraft:gray_stained_glass_pane"
+		},
+		{
+			item: "minecraft:gray_terracotta"
+		},
+		{
+			item: "minecraft:gray_wool"
+		},
+		{
+			item: "minecraft:green_banner"
+		},
+		{
+			item: "minecraft:green_bed"
+		},
+		{
+			item: "minecraft:green_carpet"
+		},
+		{
+			item: "minecraft:green_concrete"
+		},
+		{
+			item: "minecraft:green_concrete_powder"
+		},
+		{
+			item: "minecraft:green_dye"
+		},
+		{
+			item: "minecraft:green_glazed_terracotta"
+		},
+		{
+			item: "minecraft:green_shulker_box"
+		},
+		{
+			item: "minecraft:green_stained_glass"
+		},
+		{
+			item: "minecraft:green_stained_glass_pane"
+		},
+		{
+			item: "minecraft:green_terracotta"
+		},
+		{
+			item: "minecraft:green_wool"
+		},
+		{
+			item: "minecraft:grindstone"
+		},
+		{
+			item: "minecraft:gunpowder"
+		},
+		{
+			item: "minecraft:hay_block"
+		},
+		{
+			item: "minecraft:heart_of_the_sea"
+		},
+		{
+			item: "minecraft:heavy_weighted_pressure_plate"
+		},
+		{
+			item: "minecraft:honey_block"
+		},
+		{
+			item: "minecraft:honey_bottle"
+		},
+		{
+			item: "minecraft:honeycomb"
+		},
+		{
+			item: "minecraft:honeycomb_block"
+		},
+		{
+			item: "minecraft:hopper"
+		},
+		{
+			item: "minecraft:hopper_minecart"
+		},
+		{
+			item: "minecraft:horn_coral"
+		},
+		{
+			item: "minecraft:horn_coral_block"
+		},
+		{
+			item: "minecraft:horn_coral_fan"
+		},
+		{
+			item: "minecraft:ice"
+		},
+		{
+			item: "minecraft:infested_chiseled_stone_bricks"
+		},
+		{
+			item: "minecraft:infested_cobblestone"
+		},
+		{
+			item: "minecraft:infested_cracked_stone_bricks"
+		},
+		{
+			item: "minecraft:infested_mossy_stone_bricks"
+		},
+		{
+			item: "minecraft:infested_stone"
+		},
+		{
+			item: "minecraft:infested_stone_bricks"
+		},
+		{
+			item: "minecraft:ink_sac"
+		},
+		{
+			item: "minecraft:iron_axe"
+		},
+		{
+			item: "minecraft:iron_bars"
+		},
+		{
+			item: "minecraft:iron_block"
+		},
+		{
+			item: "minecraft:iron_boots"
+		},
+		{
+			item: "minecraft:iron_chestplate"
+		},
+		{
+			item: "minecraft:iron_door"
+		},
+		{
+			item: "minecraft:iron_helmet"
+		},
+		{
+			item: "minecraft:iron_hoe"
+		},
+		{
+			item: "minecraft:iron_horse_armor"
+		},
+		{
+			item: "minecraft:iron_ingot"
+		},
+		{
+			item: "minecraft:iron_leggings"
+		},
+		{
+			item: "minecraft:iron_nugget"
+		},
+		{
+			item: "minecraft:iron_ore"
+		},
+		{
+			item: "minecraft:iron_pickaxe"
+		},
+		{
+			item: "minecraft:iron_shovel"
+		},
+		{
+			item: "minecraft:iron_sword"
+		},
+		{
+			item: "minecraft:iron_trapdoor"
+		},
+		{
+			item: "minecraft:item_frame"
+		},
+		{
+			item: "minecraft:jack_o_lantern"
+		},
+		{
+			item: "minecraft:jigsaw"
+		},
+		{
+			item: "minecraft:jukebox"
+		},
+		{
+			item: "minecraft:jungle_boat"
+		},
+		{
+			item: "minecraft:jungle_button"
+		},
+		{
+			item: "minecraft:jungle_door"
+		},
+		{
+			item: "minecraft:jungle_fence"
+		},
+		{
+			item: "minecraft:jungle_fence_gate"
+		},
+		{
+			item: "minecraft:jungle_leaves"
+		},
+		{
+			item: "minecraft:jungle_log"
+		},
+		{
+			item: "minecraft:jungle_planks"
+		},
+		{
+			item: "minecraft:jungle_pressure_plate"
+		},
+		{
+			item: "minecraft:jungle_sapling"
+		},
+		{
+			item: "minecraft:jungle_sign"
+		},
+		{
+			item: "minecraft:jungle_slab"
+		},
+		{
+			item: "minecraft:jungle_stairs"
+		},
+		{
+			item: "minecraft:jungle_trapdoor"
+		},
+		{
+			item: "minecraft:jungle_wood"
+		},
+		{
+			item: "minecraft:kelp"
+		},
+		{
+			item: "minecraft:knowledge_book"
+		},
+		{
+			item: "minecraft:ladder"
+		},
+		{
+			item: "minecraft:lantern"
+		},
+		{
+			item: "minecraft:lapis_block"
+		},
+		{
+			item: "minecraft:lapis_lazuli"
+		},
+		{
+			item: "minecraft:lapis_ore"
+		},
+		{
+			item: "minecraft:large_fern"
+		},
+		{
+			item: "minecraft:lava_bucket"
+		},
+		{
+			item: "minecraft:lead"
+		},
+		{
+			item: "minecraft:leather"
+		},
+		{
+			item: "minecraft:leather_boots"
+		},
+		{
+			item: "minecraft:leather_chestplate"
+		},
+		{
+			item: "minecraft:leather_helmet"
+		},
+		{
+			item: "minecraft:leather_horse_armor"
+		},
+		{
+			item: "minecraft:leather_leggings"
+		},
+		{
+			item: "minecraft:lectern"
+		},
+		{
+			item: "minecraft:lever"
+		},
+		{
+			item: "minecraft:light_blue_banner"
+		},
+		{
+			item: "minecraft:light_blue_bed"
+		},
+		{
+			item: "minecraft:light_blue_carpet"
+		},
+		{
+			item: "minecraft:light_blue_concrete"
+		},
+		{
+			item: "minecraft:light_blue_concrete_powder"
+		},
+		{
+			item: "minecraft:light_blue_dye"
+		},
+		{
+			item: "minecraft:light_blue_glazed_terracotta"
+		},
+		{
+			item: "minecraft:light_blue_shulker_box"
+		},
+		{
+			item: "minecraft:light_blue_stained_glass"
+		},
+		{
+			item: "minecraft:light_blue_stained_glass_pane"
+		},
+		{
+			item: "minecraft:light_blue_terracotta"
+		},
+		{
+			item: "minecraft:light_blue_wool"
+		},
+		{
+			item: "minecraft:light_gray_banner"
+		},
+		{
+			item: "minecraft:light_gray_bed"
+		},
+		{
+			item: "minecraft:light_gray_carpet"
+		},
+		{
+			item: "minecraft:light_gray_concrete"
+		},
+		{
+			item: "minecraft:light_gray_concrete_powder"
+		},
+		{
+			item: "minecraft:light_gray_dye"
+		},
+		{
+			item: "minecraft:light_gray_glazed_terracotta"
+		},
+		{
+			item: "minecraft:light_gray_shulker_box"
+		},
+		{
+			item: "minecraft:light_gray_stained_glass"
+		},
+		{
+			item: "minecraft:light_gray_stained_glass_pane"
+		},
+		{
+			item: "minecraft:light_gray_terracotta"
+		},
+		{
+			item: "minecraft:light_gray_wool"
+		},
+		{
+			item: "minecraft:light_weighted_pressure_plate"
+		},
+		{
+			item: "minecraft:lilac"
+		},
+		{
+			item: "minecraft:lily_of_the_valley"
+		},
+		{
+			item: "minecraft:lily_pad"
+		},
+		{
+			item: "minecraft:lime_banner"
+		},
+		{
+			item: "minecraft:lime_bed"
+		},
+		{
+			item: "minecraft:lime_carpet"
+		},
+		{
+			item: "minecraft:lime_concrete"
+		},
+		{
+			item: "minecraft:lime_concrete_powder"
+		},
+		{
+			item: "minecraft:lime_dye"
+		},
+		{
+			item: "minecraft:lime_glazed_terracotta"
+		},
+		{
+			item: "minecraft:lime_shulker_box"
+		},
+		{
+			item: "minecraft:lime_stained_glass"
+		},
+		{
+			item: "minecraft:lime_stained_glass_pane"
+		},
+		{
+			item: "minecraft:lime_terracotta"
+		},
+		{
+			item: "minecraft:lime_wool"
+		},
+		{
+			item: "minecraft:lingering_potion"
+		},
+		{
+			item: "minecraft:lodestone"
+		},
+		{
+			item: "minecraft:loom"
+		},
+		{
+			item: "minecraft:magenta_banner"
+		},
+		{
+			item: "minecraft:magenta_bed"
+		},
+		{
+			item: "minecraft:magenta_carpet"
+		},
+		{
+			item: "minecraft:magenta_concrete"
+		},
+		{
+			item: "minecraft:magenta_concrete_powder"
+		},
+		{
+			item: "minecraft:magenta_dye"
+		},
+		{
+			item: "minecraft:magenta_glazed_terracotta"
+		},
+		{
+			item: "minecraft:magenta_shulker_box"
+		},
+		{
+			item: "minecraft:magenta_stained_glass"
+		},
+		{
+			item: "minecraft:magenta_stained_glass_pane"
+		},
+		{
+			item: "minecraft:magenta_terracotta"
+		},
+		{
+			item: "minecraft:magenta_wool"
+		},
+		{
+			item: "minecraft:magma_block"
+		},
+		{
+			item: "minecraft:magma_cream"
+		},
+		{
+			item: "minecraft:map"
+		},
+		{
+			item: "minecraft:melon"
+		},
+		{
+			item: "minecraft:melon_seeds"
+		},
+		{
+			item: "minecraft:melon_slice"
+		},
+		{
+			item: "minecraft:milk_bucket"
+		},
+		{
+			item: "minecraft:minecart"
+		},
+		{
+			item: "minecraft:mojang_banner_pattern"
+		},
+		{
+			item: "minecraft:mossy_cobblestone"
+		},
+		{
+			item: "minecraft:mossy_cobblestone_slab"
+		},
+		{
+			item: "minecraft:mossy_cobblestone_stairs"
+		},
+		{
+			item: "minecraft:mossy_cobblestone_wall"
+		},
+		{
+			item: "minecraft:mossy_stone_brick_slab"
+		},
+		{
+			item: "minecraft:mossy_stone_brick_stairs"
+		},
+		{
+			item: "minecraft:mossy_stone_brick_wall"
+		},
+		{
+			item: "minecraft:mossy_stone_bricks"
+		},
+		{
+			item: "minecraft:mushroom_stem"
+		},
+		{
+			item: "minecraft:mushroom_stew"
+		},
+		{
+			item: "minecraft:music_disc_11"
+		},
+		{
+			item: "minecraft:music_disc_13"
+		},
+		{
+			item: "minecraft:music_disc_blocks"
+		},
+		{
+			item: "minecraft:music_disc_cat"
+		},
+		{
+			item: "minecraft:music_disc_chirp"
+		},
+		{
+			item: "minecraft:music_disc_far"
+		},
+		{
+			item: "minecraft:music_disc_mall"
+		},
+		{
+			item: "minecraft:music_disc_mellohi"
+		},
+		{
+			item: "minecraft:music_disc_pigstep"
+		},
+		{
+			item: "minecraft:music_disc_stal"
+		},
+		{
+			item: "minecraft:music_disc_strad"
+		},
+		{
+			item: "minecraft:music_disc_wait"
+		},
+		{
+			item: "minecraft:music_disc_ward"
+		},
+		{
+			item: "minecraft:mutton"
+		},
+		{
+			item: "minecraft:mycelium"
+		},
+		{
+			item: "minecraft:name_tag"
+		},
+		{
+			item: "minecraft:nautilus_shell"
+		},
+		{
+			item: "minecraft:nether_brick"
+		},
+		{
+			item: "minecraft:nether_brick_fence"
+		},
+		{
+			item: "minecraft:nether_brick_slab"
+		},
+		{
+			item: "minecraft:nether_brick_stairs"
+		},
+		{
+			item: "minecraft:nether_brick_wall"
+		},
+		{
+			item: "minecraft:nether_bricks"
+		},
+		{
+			item: "minecraft:nether_gold_ore"
+		},
+		{
+			item: "minecraft:nether_quartz_ore"
+		},
+		{
+			item: "minecraft:nether_sprouts"
+		},
+		{
+			item: "minecraft:nether_star"
+		},
+		{
+			item: "minecraft:nether_wart"
+		},
+		{
+			item: "minecraft:nether_wart_block"
+		},
+		{
+			item: "minecraft:netherite_axe"
+		},
+		{
+			item: "minecraft:netherite_block"
+		},
+		{
+			item: "minecraft:netherite_boots"
+		},
+		{
+			item: "minecraft:netherite_chestplate"
+		},
+		{
+			item: "minecraft:netherite_helmet"
+		},
+		{
+			item: "minecraft:netherite_hoe"
+		},
+		{
+			item: "minecraft:netherite_ingot"
+		},
+		{
+			item: "minecraft:netherite_leggings"
+		},
+		{
+			item: "minecraft:netherite_pickaxe"
+		},
+		{
+			item: "minecraft:netherite_scrap"
+		},
+		{
+			item: "minecraft:netherite_shovel"
+		},
+		{
+			item: "minecraft:netherite_sword"
+		},
+		{
+			item: "minecraft:netherrack"
+		},
+		{
+			item: "minecraft:note_block"
+		},
+		{
+			item: "minecraft:oak_boat"
+		},
+		{
+			item: "minecraft:oak_button"
+		},
+		{
+			item: "minecraft:oak_door"
+		},
+		{
+			item: "minecraft:oak_fence"
+		},
+		{
+			item: "minecraft:oak_fence_gate"
+		},
+		{
+			item: "minecraft:oak_leaves"
+		},
+		{
+			item: "minecraft:oak_log"
+		},
+		{
+			item: "minecraft:oak_planks"
+		},
+		{
+			item: "minecraft:oak_pressure_plate"
+		},
+		{
+			item: "minecraft:oak_sapling"
+		},
+		{
+			item: "minecraft:oak_sign"
+		},
+		{
+			item: "minecraft:oak_slab"
+		},
+		{
+			item: "minecraft:oak_stairs"
+		},
+		{
+			item: "minecraft:oak_trapdoor"
+		},
+		{
+			item: "minecraft:oak_wood"
+		},
+		{
+			item: "minecraft:observer"
+		},
+		{
+			item: "minecraft:obsidian"
+		},
+		{
+			item: "minecraft:orange_banner"
+		},
+		{
+			item: "minecraft:orange_bed"
+		},
+		{
+			item: "minecraft:orange_carpet"
+		},
+		{
+			item: "minecraft:orange_concrete"
+		},
+		{
+			item: "minecraft:orange_concrete_powder"
+		},
+		{
+			item: "minecraft:orange_dye"
+		},
+		{
+			item: "minecraft:orange_glazed_terracotta"
+		},
+		{
+			item: "minecraft:orange_shulker_box"
+		},
+		{
+			item: "minecraft:orange_stained_glass"
+		},
+		{
+			item: "minecraft:orange_stained_glass_pane"
+		},
+		{
+			item: "minecraft:orange_terracotta"
+		},
+		{
+			item: "minecraft:orange_tulip"
+		},
+		{
+			item: "minecraft:orange_wool"
+		},
+		{
+			item: "minecraft:oxeye_daisy"
+		},
+		{
+			item: "minecraft:packed_ice"
+		},
+		{
+			item: "minecraft:painting"
+		},
+		{
+			item: "minecraft:paper"
+		},
+		{
+			item: "minecraft:peony"
+		},
+		{
+			item: "minecraft:petrified_oak_slab"
+		},
+		{
+			item: "minecraft:phantom_membrane"
+		},
+		{
+			item: "minecraft:piglin_banner_pattern"
+		},
+		{
+			item: "minecraft:pink_banner"
+		},
+		{
+			item: "minecraft:pink_bed"
+		},
+		{
+			item: "minecraft:pink_carpet"
+		},
+		{
+			item: "minecraft:pink_concrete"
+		},
+		{
+			item: "minecraft:pink_concrete_powder"
+		},
+		{
+			item: "minecraft:pink_dye"
+		},
+		{
+			item: "minecraft:pink_glazed_terracotta"
+		},
+		{
+			item: "minecraft:pink_shulker_box"
+		},
+		{
+			item: "minecraft:pink_stained_glass"
+		},
+		{
+			item: "minecraft:pink_stained_glass_pane"
+		},
+		{
+			item: "minecraft:pink_terracotta"
+		},
+		{
+			item: "minecraft:pink_tulip"
+		},
+		{
+			item: "minecraft:pink_wool"
+		},
+		{
+			item: "minecraft:piston"
+		},
+		{
+			item: "minecraft:player_head"
+		},
+		{
+			item: "minecraft:podzol"
+		},
+		{
+			item: "minecraft:poisonous_potato"
+		},
+		{
+			item: "minecraft:polished_andesite"
+		},
+		{
+			item: "minecraft:polished_andesite_slab"
+		},
+		{
+			item: "minecraft:polished_andesite_stairs"
+		},
+		{
+			item: "minecraft:polished_basalt"
+		},
+		{
+			item: "minecraft:polished_blackstone"
+		},
+		{
+			item: "minecraft:polished_blackstone_brick_slab"
+		},
+		{
+			item: "minecraft:polished_blackstone_brick_stairs"
+		},
+		{
+			item: "minecraft:polished_blackstone_brick_wall"
+		},
+		{
+			item: "minecraft:polished_blackstone_bricks"
+		},
+		{
+			item: "minecraft:polished_blackstone_button"
+		},
+		{
+			item: "minecraft:polished_blackstone_pressure_plate"
+		},
+		{
+			item: "minecraft:polished_blackstone_slab"
+		},
+		{
+			item: "minecraft:polished_blackstone_stairs"
+		},
+		{
+			item: "minecraft:polished_blackstone_wall"
+		},
+		{
+			item: "minecraft:polished_diorite"
+		},
+		{
+			item: "minecraft:polished_diorite_slab"
+		},
+		{
+			item: "minecraft:polished_diorite_stairs"
+		},
+		{
+			item: "minecraft:polished_granite"
+		},
+		{
+			item: "minecraft:polished_granite_slab"
+		},
+		{
+			item: "minecraft:polished_granite_stairs"
+		},
+		{
+			item: "minecraft:popped_chorus_fruit"
+		},
+		{
+			item: "minecraft:poppy"
+		},
+		{
+			item: "minecraft:porkchop"
+		},
+		{
+			item: "minecraft:potato"
+		},
+		{
+			item: "minecraft:potion"
+		},
+		{
+			item: "minecraft:powered_rail"
+		},
+		{
+			item: "minecraft:prismarine"
+		},
+		{
+			item: "minecraft:prismarine_brick_slab"
+		},
+		{
+			item: "minecraft:prismarine_brick_stairs"
+		},
+		{
+			item: "minecraft:prismarine_bricks"
+		},
+		{
+			item: "minecraft:prismarine_crystals"
+		},
+		{
+			item: "minecraft:prismarine_shard"
+		},
+		{
+			item: "minecraft:prismarine_slab"
+		},
+		{
+			item: "minecraft:prismarine_stairs"
+		},
+		{
+			item: "minecraft:prismarine_wall"
+		},
+		{
+			item: "minecraft:pufferfish"
+		},
+		{
+			item: "minecraft:pufferfish_bucket"
+		},
+		{
+			item: "minecraft:pumpkin"
+		},
+		{
+			item: "minecraft:pumpkin_pie"
+		},
+		{
+			item: "minecraft:pumpkin_seeds"
+		},
+		{
+			item: "minecraft:purple_banner"
+		},
+		{
+			item: "minecraft:purple_bed"
+		},
+		{
+			item: "minecraft:purple_carpet"
+		},
+		{
+			item: "minecraft:purple_concrete"
+		},
+		{
+			item: "minecraft:purple_concrete_powder"
+		},
+		{
+			item: "minecraft:purple_dye"
+		},
+		{
+			item: "minecraft:purple_glazed_terracotta"
+		},
+		{
+			item: "minecraft:purple_shulker_box"
+		},
+		{
+			item: "minecraft:purple_stained_glass"
+		},
+		{
+			item: "minecraft:purple_stained_glass_pane"
+		},
+		{
+			item: "minecraft:purple_terracotta"
+		},
+		{
+			item: "minecraft:purple_wool"
+		},
+		{
+			item: "minecraft:purpur_block"
+		},
+		{
+			item: "minecraft:purpur_pillar"
+		},
+		{
+			item: "minecraft:purpur_slab"
+		},
+		{
+			item: "minecraft:purpur_stairs"
+		},
+		{
+			item: "minecraft:quartz"
+		},
+		{
+			item: "minecraft:quartz_block"
+		},
+		{
+			item: "minecraft:quartz_bricks"
+		},
+		{
+			item: "minecraft:quartz_pillar"
+		},
+		{
+			item: "minecraft:quartz_slab"
+		},
+		{
+			item: "minecraft:quartz_stairs"
+		},
+		{
+			item: "minecraft:rabbit"
+		},
+		{
+			item: "minecraft:rabbit_foot"
+		},
+		{
+			item: "minecraft:rabbit_hide"
+		},
+		{
+			item: "minecraft:rabbit_stew"
+		},
+		{
+			item: "minecraft:rail"
+		},
+		{
+			item: "minecraft:red_banner"
+		},
+		{
+			item: "minecraft:red_bed"
+		},
+		{
+			item: "minecraft:red_carpet"
+		},
+		{
+			item: "minecraft:red_concrete"
+		},
+		{
+			item: "minecraft:red_concrete_powder"
+		},
+		{
+			item: "minecraft:red_dye"
+		},
+		{
+			item: "minecraft:red_glazed_terracotta"
+		},
+		{
+			item: "minecraft:red_mushroom"
+		},
+		{
+			item: "minecraft:red_mushroom_block"
+		},
+		{
+			item: "minecraft:red_nether_brick_slab"
+		},
+		{
+			item: "minecraft:red_nether_brick_stairs"
+		},
+		{
+			item: "minecraft:red_nether_brick_wall"
+		},
+		{
+			item: "minecraft:red_nether_bricks"
+		},
+		{
+			item: "minecraft:red_sand"
+		},
+		{
+			item: "minecraft:red_sandstone"
+		},
+		{
+			item: "minecraft:red_sandstone_slab"
+		},
+		{
+			item: "minecraft:red_sandstone_stairs"
+		},
+		{
+			item: "minecraft:red_sandstone_wall"
+		},
+		{
+			item: "minecraft:red_shulker_box"
+		},
+		{
+			item: "minecraft:red_stained_glass"
+		},
+		{
+			item: "minecraft:red_stained_glass_pane"
+		},
+		{
+			item: "minecraft:red_terracotta"
+		},
+		{
+			item: "minecraft:red_tulip"
+		},
+		{
+			item: "minecraft:red_wool"
+		},
+		{
+			item: "minecraft:redstone"
+		},
+		{
+			item: "minecraft:redstone_block"
+		},
+		{
+			item: "minecraft:redstone_lamp"
+		},
+		{
+			item: "minecraft:redstone_ore"
+		},
+		{
+			item: "minecraft:redstone_torch"
+		},
+		{
+			item: "minecraft:repeater"
+		},
+		{
+			item: "minecraft:repeating_command_block"
+		},
+		{
+			item: "minecraft:respawn_anchor"
+		},
+		{
+			item: "minecraft:rose_bush"
+		},
+		{
+			item: "minecraft:rotten_flesh"
+		},
+		{
+			item: "minecraft:saddle"
+		},
+		{
+			item: "minecraft:salmon"
+		},
+		{
+			item: "minecraft:salmon_bucket"
+		},
+		{
+			item: "minecraft:sand"
+		},
+		{
+			item: "minecraft:sandstone"
+		},
+		{
+			item: "minecraft:sandstone_slab"
+		},
+		{
+			item: "minecraft:sandstone_stairs"
+		},
+		{
+			item: "minecraft:sandstone_wall"
+		},
+		{
+			item: "minecraft:scaffolding"
+		},
+		{
+			item: "minecraft:scute"
+		},
+		{
+			item: "minecraft:sea_lantern"
+		},
+		{
+			item: "minecraft:sea_pickle"
+		},
+		{
+			item: "minecraft:seagrass"
+		},
+		{
+			item: "minecraft:shears"
+		},
+		{
+			item: "minecraft:shield"
+		},
+		{
+			item: "minecraft:shroomlight"
+		},
+		{
+			item: "minecraft:shulker_box"
+		},
+		{
+			item: "minecraft:shulker_shell"
+		},
+		{
+			item: "minecraft:skeleton_skull"
+		},
+		{
+			item: "minecraft:skull_banner_pattern"
+		},
+		{
+			item: "minecraft:slime_ball"
+		},
+		{
+			item: "minecraft:slime_block"
+		},
+		{
+			item: "minecraft:smithing_table"
+		},
+		{
+			item: "minecraft:smoker"
+		},
+		{
+			item: "minecraft:smooth_quartz"
+		},
+		{
+			item: "minecraft:smooth_quartz_slab"
+		},
+		{
+			item: "minecraft:smooth_quartz_stairs"
+		},
+		{
+			item: "minecraft:smooth_red_sandstone"
+		},
+		{
+			item: "minecraft:smooth_red_sandstone_slab"
+		},
+		{
+			item: "minecraft:smooth_red_sandstone_stairs"
+		},
+		{
+			item: "minecraft:smooth_sandstone"
+		},
+		{
+			item: "minecraft:smooth_sandstone_slab"
+		},
+		{
+			item: "minecraft:smooth_sandstone_stairs"
+		},
+		{
+			item: "minecraft:smooth_stone"
+		},
+		{
+			item: "minecraft:smooth_stone_slab"
+		},
+		{
+			item: "minecraft:snow"
+		},
+		{
+			item: "minecraft:snow_block"
+		},
+		{
+			item: "minecraft:snowball"
+		},
+		{
+			item: "minecraft:soul_campfire"
+		},
+		{
+			item: "minecraft:soul_lantern"
+		},
+		{
+			item: "minecraft:soul_sand"
+		},
+		{
+			item: "minecraft:soul_soil"
+		},
+		{
+			item: "minecraft:soul_torch"
+		},
+		{
+			item: "minecraft:spawner"
+		},
+		{
+			item: "minecraft:spectral_arrow"
+		},
+		{
+			item: "minecraft:spider_eye"
+		},
+		{
+			item: "minecraft:splash_potion"
+		},
+		{
+			item: "minecraft:sponge"
+		},
+		{
+			item: "minecraft:spruce_boat"
+		},
+		{
+			item: "minecraft:spruce_button"
+		},
+		{
+			item: "minecraft:spruce_door"
+		},
+		{
+			item: "minecraft:spruce_fence"
+		},
+		{
+			item: "minecraft:spruce_fence_gate"
+		},
+		{
+			item: "minecraft:spruce_leaves"
+		},
+		{
+			item: "minecraft:spruce_log"
+		},
+		{
+			item: "minecraft:spruce_planks"
+		},
+		{
+			item: "minecraft:spruce_pressure_plate"
+		},
+		{
+			item: "minecraft:spruce_sapling"
+		},
+		{
+			item: "minecraft:spruce_sign"
+		},
+		{
+			item: "minecraft:spruce_slab"
+		},
+		{
+			item: "minecraft:spruce_stairs"
+		},
+		{
+			item: "minecraft:spruce_trapdoor"
+		},
+		{
+			item: "minecraft:spruce_wood"
+		},
+		{
+			item: "minecraft:stick"
+		},
+		{
+			item: "minecraft:sticky_piston"
+		},
+		{
+			item: "minecraft:stone"
+		},
+		{
+			item: "minecraft:stone_axe"
+		},
+		{
+			item: "minecraft:stone_brick_slab"
+		},
+		{
+			item: "minecraft:stone_brick_stairs"
+		},
+		{
+			item: "minecraft:stone_brick_wall"
+		},
+		{
+			item: "minecraft:stone_bricks"
+		},
+		{
+			item: "minecraft:stone_button"
+		},
+		{
+			item: "minecraft:stone_hoe"
+		},
+		{
+			item: "minecraft:stone_pickaxe"
+		},
+		{
+			item: "minecraft:stone_pressure_plate"
+		},
+		{
+			item: "minecraft:stone_shovel"
+		},
+		{
+			item: "minecraft:stone_slab"
+		},
+		{
+			item: "minecraft:stone_stairs"
+		},
+		{
+			item: "minecraft:stone_sword"
+		},
+		{
+			item: "minecraft:stonecutter"
+		},
+		{
+			item: "minecraft:string"
+		},
+		{
+			item: "minecraft:stripped_acacia_log"
+		},
+		{
+			item: "minecraft:stripped_acacia_wood"
+		},
+		{
+			item: "minecraft:stripped_crimson_hyphae"
+		},
+		{
+			item: "minecraft:stripped_crimson_stem"
+		},
+		{
+			item: "minecraft:stripped_dark_oak_log"
+		},
+		{
+			item: "minecraft:stripped_dark_oak_wood"
+		},
+		{
+			item: "minecraft:stripped_jungle_log"
+		},
+		{
+			item: "minecraft:stripped_jungle_wood"
+		},
+		{
+			item: "minecraft:stripped_oak_log"
+		},
+		{
+			item: "minecraft:stripped_oak_wood"
+		},
+		{
+			item: "minecraft:stripped_spruce_log"
+		},
+		{
+			item: "minecraft:stripped_spruce_wood"
+		},
+		{
+			item: "minecraft:stripped_warped_hyphae"
+		},
+		{
+			item: "minecraft:stripped_warped_stem"
+		},
+		{
+			item: "minecraft:sugar"
+		},
+		{
+			item: "minecraft:sugar_cane"
+		},
+		{
+			item: "minecraft:sunflower"
+		},
+		{
+			item: "minecraft:suspicious_stew"
+		},
+		{
+			item: "minecraft:sweet_berries"
+		},
+		{
+			item: "minecraft:tall_grass"
+		},
+		{
+			item: "minecraft:target"
+		},
+		{
+			item: "minecraft:terracotta"
+		},
+		{
+			item: "minecraft:tipped_arrow"
+		},
+		{
+			item: "minecraft:tnt"
+		},
+		{
+			item: "minecraft:tnt_minecart"
+		},
+		{
+			item: "minecraft:torch"
+		},
+		{
+			item: "minecraft:totem_of_undying"
+		},
+		{
+			item: "minecraft:trapped_chest"
+		},
+		{
+			item: "minecraft:trident"
+		},
+		{
+			item: "minecraft:tripwire_hook"
+		},
+		{
+			item: "minecraft:tropical_fish"
+		},
+		{
+			item: "minecraft:tropical_fish_bucket"
+		},
+		{
+			item: "minecraft:tube_coral"
+		},
+		{
+			item: "minecraft:tube_coral_block"
+		},
+		{
+			item: "minecraft:tube_coral_fan"
+		},
+		{
+			item: "minecraft:turtle_egg"
+		},
+		{
+			item: "minecraft:turtle_helmet"
+		},
+		{
+			item: "minecraft:twisting_vines"
+		},
+		{
+			item: "minecraft:vine"
+		},
+		{
+			item: "minecraft:warped_button"
+		},
+		{
+			item: "minecraft:warped_door"
+		},
+		{
+			item: "minecraft:warped_fence"
+		},
+		{
+			item: "minecraft:warped_fence_gate"
+		},
+		{
+			item: "minecraft:warped_fungus"
+		},
+		{
+			item: "minecraft:warped_fungus_on_a_stick"
+		},
+		{
+			item: "minecraft:warped_hyphae"
+		},
+		{
+			item: "minecraft:warped_nylium"
+		},
+		{
+			item: "minecraft:warped_planks"
+		},
+		{
+			item: "minecraft:warped_pressure_plate"
+		},
+		{
+			item: "minecraft:warped_roots"
+		},
+		{
+			item: "minecraft:warped_sign"
+		},
+		{
+			item: "minecraft:warped_slab"
+		},
+		{
+			item: "minecraft:warped_stairs"
+		},
+		{
+			item: "minecraft:warped_stem"
+		},
+		{
+			item: "minecraft:warped_trapdoor"
+		},
+		{
+			item: "minecraft:warped_wart_block"
+		},
+		{
+			item: "minecraft:water_bucket"
+		},
+		{
+			item: "minecraft:weeping_vines"
+		},
+		{
+			item: "minecraft:wet_sponge"
+		},
+		{
+			item: "minecraft:wheat"
+		},
+		{
+			item: "minecraft:wheat_seeds"
+		},
+		{
+			item: "minecraft:white_banner"
+		},
+		{
+			item: "minecraft:white_bed"
+		},
+		{
+			item: "minecraft:white_carpet"
+		},
+		{
+			item: "minecraft:white_concrete"
+		},
+		{
+			item: "minecraft:white_concrete_powder"
+		},
+		{
+			item: "minecraft:white_dye"
+		},
+		{
+			item: "minecraft:white_glazed_terracotta"
+		},
+		{
+			item: "minecraft:white_shulker_box"
+		},
+		{
+			item: "minecraft:white_stained_glass"
+		},
+		{
+			item: "minecraft:white_stained_glass_pane"
+		},
+		{
+			item: "minecraft:white_terracotta"
+		},
+		{
+			item: "minecraft:white_tulip"
+		},
+		{
+			item: "minecraft:white_wool"
+		},
+		{
+			item: "minecraft:wither_rose"
+		},
+		{
+			item: "minecraft:wither_skeleton_skull"
+		},
+		{
+			item: "minecraft:wooden_axe"
+		},
+		{
+			item: "minecraft:wooden_hoe"
+		},
+		{
+			item: "minecraft:wooden_pickaxe"
+		},
+		{
+			item: "minecraft:wooden_shovel"
+		},
+		{
+			item: "minecraft:wooden_sword"
+		},
+		{
+			item: "minecraft:writable_book"
+		},
+		{
+			item: "minecraft:written_book"
+		},
+		{
+			item: "minecraft:yellow_banner"
+		},
+		{
+			item: "minecraft:yellow_bed"
+		},
+		{
+			item: "minecraft:yellow_carpet"
+		},
+		{
+			item: "minecraft:yellow_concrete"
+		},
+		{
+			item: "minecraft:yellow_concrete_powder"
+		},
+		{
+			item: "minecraft:yellow_dye"
+		},
+		{
+			item: "minecraft:yellow_glazed_terracotta"
+		},
+		{
+			item: "minecraft:yellow_shulker_box"
+		},
+		{
+			item: "minecraft:yellow_stained_glass"
+		},
+		{
+			item: "minecraft:yellow_stained_glass_pane"
+		},
+		{
+			item: "minecraft:yellow_terracotta"
+		},
+		{
+			item: "minecraft:yellow_wool"
+		},
+		{
+			item: "minecraft:zombie_head"
+		},
+		{
+			item: "mythicbotany:alfheim_rune"
+		},
+		{
+			item: "mythicbotany:alfsteel_armor_upgrade"
+		},
+		{
+			item: "mythicbotany:alfsteel_axe"
+		},
+		{
+			item: "mythicbotany:alfsteel_block"
+		},
+		{
+			item: "mythicbotany:alfsteel_boots"
+		},
+		{
+			item: "mythicbotany:alfsteel_chestplate"
+		},
+		{
+			item: "mythicbotany:alfsteel_helmet"
+		},
+		{
+			item: "mythicbotany:alfsteel_ingot"
+		},
+		{
+			item: "mythicbotany:alfsteel_leggings"
+		},
+		{
+			item: "mythicbotany:alfsteel_nugget"
+		},
+		{
+			item: "mythicbotany:alfsteel_pick"
+		},
+		{
+			item: "mythicbotany:alfsteel_pylon"
+		},
+		{
+			item: "mythicbotany:alfsteel_sword"
+		},
+		{
+			item: "mythicbotany:aquapanthus"
+		},
+		{
+			item: "mythicbotany:aquapanthus_floating"
+		},
+		{
+			item: "mythicbotany:asgard_rune"
+		},
+		{
+			item: "mythicbotany:aura_ring_greatest"
+		},
+		{
+			item: "mythicbotany:dreamwood_twig_wand"
+		},
+		{
+			item: "mythicbotany:exoblaze"
+		},
+		{
+			item: "mythicbotany:exoblaze_floating"
+		},
+		{
+			item: "mythicbotany:faded_nether_star"
+		},
+		{
+			item: "mythicbotany:fire_ring"
+		},
+		{
+			item: "mythicbotany:helheim_rune"
+		},
+		{
+			item: "mythicbotany:hellebore"
+		},
+		{
+			item: "mythicbotany:hellebore_floating"
+		},
+		{
+			item: "mythicbotany:ice_ring"
+		},
+		{
+			item: "mythicbotany:joetunheim_rune"
+		},
+		{
+			item: "mythicbotany:mana_collector"
+		},
+		{
+			item: "mythicbotany:mana_infuser"
+		},
+		{
+			item: "mythicbotany:mana_ring_greatest"
+		},
+		{
+			item: "mythicbotany:midgard_rune"
+		},
+		{
+			item: "mythicbotany:muspelheim_rune"
+		},
+		{
+			item: "mythicbotany:nidavellir_rune"
+		},
+		{
+			item: "mythicbotany:niflheim_rune"
+		},
+		{
+			item: "mythicbotany:raindeletia"
+		},
+		{
+			item: "mythicbotany:raindeletia_floating"
+		},
+		{
+			item: "mythicbotany:vanaheim_rune"
+		},
+		{
+			item: "mythicbotany:wither_aconite"
+		},
+		{
+			item: "mythicbotany:wither_aconite_floating"
+		},
+		{
+			item: "theoneprobe:diamond_helmet_probe"
+		},
+		{
+			item: "theoneprobe:gold_helmet_probe"
+		},
+		{
+			item: "theoneprobe:iron_helmet_probe"
+		},
+		{
+			item: "theoneprobe:probe"
+		},
+		{
+			item: "theoneprobe:probenote"
+		}
+	]
+}

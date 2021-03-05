@@ -1,0 +1,19 @@
+{
+	id: 101,
+	title: "Ore Rewards",
+	loot_size: 1,
+	rewards: [
+		{
+			item: "minecraft:ender_pearl",
+			count: 5
+		},
+		{
+			item: "minecraft:pumpkin_seeds",
+			count: 5
+		},
+		{
+			item: "minecraft:melon_seeds",
+			count: 5
+		}
+	]
+}

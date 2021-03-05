@@ -1,0 +1,536 @@
+{
+	id: 20,
+	filename: "questsline1title",
+	order_index: 2,
+	title: "{quests.line1.title}",
+	icon: {
+		id: "aiotbotania:elementium_aiot",
+		Count: true,
+		tag: {
+			Damage: 0
+		}
+	},
+	subtitle: ["{quests.line1.desc}"],
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "{quests.id8.title}",
+			x: -7.0d,
+			y: -3.5d,
+			subtitle: "{quests.id8.desc}",
+			dependencies: [I;
+				47,
+				49
+			],
+			id: 115,
+			tasks: [{
+				id: 116,
+				type: "item",
+				item: {
+					id: "botania:mana_tablet",
+					Count: true,
+					tag: {}
+				},
+				consume_items: true
+			}],
+			rewards: [{
+				id: 139,
+				type: "item",
+				item: {
+					id: "botania:mana_tablet",
+					Count: true,
+					tag: {
+						mana: 500000
+					}
+				}
+			}]
+		},
+		{
+			title: "{quests.id9.title}",
+			icon: "botania:fel_pumpkin",
+			x: -1.5d,
+			y: -3.5d,
+			subtitle: "{quests.id9.desc}",
+			dependencies: [I;
+				49,
+				47
+			],
+			id: 117,
+			tasks: [
+				{
+					id: 118,
+					type: "item",
+					item: "botania:fel_pumpkin",
+					count: 10L
+				},
+				{
+					id: 140,
+					type: "item",
+					item: "minecraft:iron_bars",
+					count: 32L
+				}
+			],
+			rewards: [
+				{
+					id: 141,
+					type: "item",
+					item: "minecraft:obsidian"
+				},
+				{
+					id: 142,
+					type: "item",
+					item: "minecraft:fire_charge"
+				}
+			]
+		},
+		{
+			title: "{quests.id10.title}",
+			icon: "botania:runic_altar",
+			x: -3.5d,
+			y: -2.5d,
+			subtitle: "{quests.id10.desc}",
+			dependencies: [I;117],
+			id: 119,
+			tasks: [
+				{
+					id: 120,
+					type: "item",
+					item: "botania:runic_altar"
+				},
+				{
+					id: 145,
+					type: "item",
+					item: "botania:rune_water"
+				},
+				{
+					id: 146,
+					type: "item",
+					item: "botania:rune_fire"
+				},
+				{
+					id: 147,
+					type: "item",
+					item: "botania:rune_earth"
+				},
+				{
+					id: 148,
+					type: "item",
+					item: "botania:rune_air"
+				}
+			],
+			rewards: [{
+				id: 149,
+				type: "choice",
+				table: 1
+			}]
+		},
+		{
+			title: "{quests.id11.title}",
+			x: -5.642857142857146d,
+			y: -1.482142857142854d,
+			subtitle: "{quests.id11.desc}",
+			dependencies: [I;
+				115,
+				119
+			],
+			id: 121,
+			tasks: [{
+				id: 122,
+				type: "item",
+				item: "botania:terra_plate"
+			}],
+			rewards: [{
+				id: 152,
+				type: "choice",
+				table: 2
+			}]
+		},
+		{
+			title: "{quests.id13.title}",
+			icon: "botania:enchanter",
+			x: -7.0d,
+			y: 1.0d,
+			subtitle: "{quests.id13.desc}",
+			dependencies: [I;115],
+			id: 123,
+			tasks: [
+				{
+					id: 124,
+					type: "item",
+					item: "minecraft:obsidian",
+					count: 17L
+				},
+				{
+					id: 171,
+					type: "item",
+					item: "botania:mana_pylon",
+					count: 6L
+				},
+				{
+					id: 172,
+					type: "item",
+					item: "botania:white_mystical_flower"
+				}
+			],
+			rewards: [{
+				id: 170,
+				type: "choice",
+				table: 6
+			}]
+		},
+		{
+			title: "{quests.id14.title}",
+			x: -4.0d,
+			y: 1.0d,
+			subtitle: "{quests.id14.desc}",
+			dependencies: [I;
+				55,
+				127,
+				121
+			],
+			id: 125,
+			tasks: [{
+				id: 126,
+				type: "item",
+				item: "botania:terrasteel_ingot",
+				count: 2L
+			}],
+			rewards: [{
+				id: 166,
+				type: "choice",
+				table: 5
+			}]
+		},
+		{
+			title: "{quests.id12.title}",
+			icon: "minecraft:blaze_rod",
+			x: -1.5d,
+			y: -2.0d,
+			subtitle: "{quests.id12.desc}",
+			dependencies: [I;117],
+			id: 127,
+			tasks: [
+				{
+					id: 128,
+					type: "item",
+					item: "minecraft:blaze_rod",
+					count: 10L
+				},
+				{
+					id: 153,
+					type: "item",
+					item: "minecraft:ghast_tear",
+					count: 3L
+				}
+			],
+			rewards: [{
+				id: 156,
+				type: "choice",
+				table: 3
+			}]
+		},
+		{
+			title: "{quests.id15.title}",
+			icon: "botania:brewery",
+			x: 1.0d,
+			y: 0.8035714285714306d,
+			subtitle: "{quests.id15.desc}",
+			dependencies: [I;127],
+			id: 129,
+			tasks: [
+				{
+					id: 130,
+					type: "item",
+					item: "botania:brewery"
+				},
+				{
+					id: 157,
+					type: "item",
+					item: "botania:vial",
+					count: 10L
+				},
+				{
+					id: 158,
+					type: "item",
+					item: "botania:flask",
+					count: 10L
+				}
+			],
+			rewards: [{
+				id: 161,
+				type: "choice",
+				table: 4
+			}]
+		},
+		{
+			title: "{quests.id16.title}",
+			icon: "botanicalmachinery:alfheim_market",
+			x: -1.2142857142857153d,
+			y: 2.4464285714285765d,
+			subtitle: "{quests.id16.desc}",
+			dependencies: [I;125],
+			id: 131,
+			tasks: [
+				{
+					id: 132,
+					type: "item",
+					item: "botania:alfheim_portal"
+				},
+				{
+					id: 173,
+					type: "item",
+					item: "botania:livingwood",
+					count: 8L
+				},
+				{
+					id: 174,
+					type: "item",
+					item: "botania:glimmering_livingwood",
+					count: 3L
+				},
+				{
+					id: 175,
+					type: "item",
+					item: "botania:natura_pylon",
+					count: 2L
+				},
+				{
+					id: 176,
+					type: "item",
+					item: "botania:mana_pool",
+					count: 2L
+				}
+			],
+			rewards: [{
+				id: 177,
+				type: "xp_levels",
+				xp_levels: 10
+			}]
+		},
+		{
+			title: "{quests.id17.title}",
+			icon: "botania:pixie_dust",
+			x: -3.5d,
+			y: 3.5d,
+			subtitle: "{quests.id17.desc}",
+			dependencies: [I;
+				131,
+				125
+			],
+			id: 133,
+			tasks: [
+				{
+					id: 134,
+					type: "item",
+					item: "botania:pixie_dust",
+					count: 3L,
+					consume_items: true
+				},
+				{
+					id: 178,
+					type: "item",
+					item: "botania:dragonstone",
+					count: 5L,
+					consume_items: true
+				},
+				{
+					id: 179,
+					type: "item",
+					item: "botania:elementium_ingot",
+					count: 10L,
+					consume_items: true
+				}
+			],
+			rewards: [
+				{
+					id: 180,
+					type: "item",
+					item: {
+						id: "botania:elementium_helmet",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 181,
+					type: "item",
+					item: {
+						id: "botania:elementium_chestplate",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 182,
+					type: "item",
+					item: {
+						id: "botania:elementium_leggings",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 183,
+					type: "item",
+					item: {
+						id: "botania:elementium_boots",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 184,
+					type: "item",
+					item: {
+						id: "botania:elementium_sword",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		},
+		{
+			title: "{quests.id18.title}",
+			x: -5.5d,
+			y: 5.0d,
+			subtitle: "{quests.id18.desc}",
+			dependencies: [I;133],
+			id: 135,
+			tasks: [
+				{
+					id: 136,
+					type: "item",
+					item: {
+						id: "botania:elementium_helmet",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 186,
+					type: "item",
+					item: {
+						id: "botania:elementium_chestplate",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 187,
+					type: "item",
+					item: {
+						id: "botania:elementium_leggings",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 188,
+					type: "item",
+					item: {
+						id: "botania:elementium_boots",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 189,
+					type: "item",
+					item: {
+						id: "botania:elementium_pickaxe",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 190,
+					type: "item",
+					item: {
+						id: "botania:elementium_shovel",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 191,
+					type: "item",
+					item: {
+						id: "botania:elementium_axe",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: 192,
+					type: "item",
+					item: {
+						id: "botania:elementium_shovel",
+						Count: true,
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			],
+			rewards: [{
+				id: 193,
+				type: "item",
+				item: {
+					id: "aiotbotania:elementium_aiot",
+					Count: true,
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		},
+		{
+			title: "{quests.id19.title}",
+			x: -1.5d,
+			y: 5.0d,
+			subtitle: "{quests.id19.desc}",
+			dependencies: [I;133],
+			id: 137,
+			tasks: [{
+				id: 138,
+				type: "item",
+				item: {
+					id: "botania:flight_tiara",
+					Count: true,
+					tag: {
+						variant: 0
+					}
+				}
+			}],
+			rewards: [{
+				id: 185,
+				type: "item",
+				item: "minecraft:totem_of_undying"
+			}]
+		}
+	]
+}

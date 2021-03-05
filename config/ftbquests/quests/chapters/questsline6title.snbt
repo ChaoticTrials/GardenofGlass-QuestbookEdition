@@ -1,0 +1,163 @@
+{
+	id: 501,
+	filename: "questsline6title",
+	order_index: 7,
+	title: "{quests.line6.title}",
+	icon: "mythicbotany:alfsteel_pylon",
+	subtitle: ["{quests.line6.desc}"],
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "{quests.id50.title}",
+			x: -6.0d,
+			y: -3.0d,
+			subtitle: "{quests.id50.desc}",
+			id: 502,
+			tasks: [{
+				id: 503,
+				type: "item",
+				item: "mythicbotany:alfsteel_ingot"
+			}],
+			rewards: [{
+				id: 506,
+				type: "choice",
+				table: 10
+			}]
+		},
+		{
+			title: "{quests.id51.title}",
+			x: -7.5d,
+			y: -0.5d,
+			subtitle: "{quests.id51.desc}",
+			dependencies: [I;502],
+			id: 507,
+			tasks: [{
+				id: 508,
+				type: "item",
+				item: "mythicbotany:alfsteel_pylon"
+			}],
+			rewards: [{
+				id: 509,
+				type: "item",
+				item: {
+					id: "mythicbotany:alfsteel_pick",
+					Count: true,
+					tag: {
+						mana: 9999999,
+						Damage: 0
+					}
+				}
+			}]
+		},
+		{
+			title: "{quests.id52.title}",
+			x: -4.5d,
+			y: -0.5d,
+			subtitle: "{quests.id52.desc}",
+			dependencies: [I;502],
+			id: 510,
+			tasks: [
+				{
+					id: 511,
+					type: "item",
+					item: "mythicbotany:fire_ring"
+				},
+				{
+					id: 512,
+					type: "item",
+					item: "mythicbotany:ice_ring"
+				}
+			],
+			rewards: [{
+				id: 513,
+				type: "item",
+				item: "mythicbotany:raindeletia"
+			}]
+		},
+		{
+			title: "{quests.id49.title}",
+			x: -9.0d,
+			y: -3.0d,
+			subtitle: "{quests.id49.desc}",
+			dependencies: [I;213],
+			id: 514,
+			tasks: [{
+				id: 515,
+				type: "item",
+				item: "mythicbotany:mana_collector"
+			}],
+			rewards: [{
+				id: 516,
+				type: "item",
+				item: "botania:spark",
+				count: 3
+			}]
+		},
+		{
+			title: "{quests.id53.title}",
+			icon: "botanicalmachinery:mechanical_apothecary",
+			x: -1.0d,
+			y: -3.0d,
+			subtitle: "{quests.id53.desc}",
+			dependencies: [I;133],
+			id: 517,
+			tasks: [
+				{
+					id: 518,
+					type: "item",
+					item: "botanicalmachinery:mechanical_daisy"
+				},
+				{
+					id: 519,
+					type: "item",
+					item: "botanicalmachinery:mechanical_apothecary"
+				}
+			],
+			rewards: [{
+				id: 520,
+				type: "item",
+				item: "botanicalmachinery:mana_emerald_block"
+			}]
+		},
+		{
+			title: "{quests.id54.title}",
+			x: 2.0d,
+			y: -3.0d,
+			subtitle: "{quests.id54.desc}",
+			dependencies: [I;133],
+			id: 521,
+			tasks: [{
+				id: 522,
+				type: "item",
+				item: "botanicalmachinery:alfheim_market"
+			}],
+			rewards: [{
+				id: 523,
+				type: "item",
+				item: "minecraft:bread",
+				count: 16
+			}]
+		},
+		{
+			title: "{quests.id55.title}",
+			x: 0.5d,
+			y: -1.0d,
+			subtitle: "{quests.id55.desc}",
+			dependencies: [I;
+				133,
+				213
+			],
+			id: 524,
+			tasks: [{
+				id: 525,
+				type: "item",
+				item: "botanicalmachinery:mana_battery"
+			}],
+			rewards: [{
+				id: 529,
+				type: "item",
+				item: "mythicbotany:aura_ring_greatest"
+			}]
+		}
+	]
+}

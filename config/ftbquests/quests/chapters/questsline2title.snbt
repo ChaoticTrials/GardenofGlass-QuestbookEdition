@@ -1,0 +1,76 @@
+{
+	id: 21,
+	filename: "questsline2title",
+	order_index: 3,
+	title: "{quests.line2.title}",
+	icon: "botania:gaia_pylon",
+	subtitle: ["{quests.line2.desc}"],
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "{quests.id20.title}",
+			icon: "botania:gaia_pylon",
+			x: -1.0d,
+			y: -2.5d,
+			subtitle: "{quests.id20.desc}",
+			dependencies: [I;133],
+			id: 194,
+			tasks: [
+				{
+					id: 195,
+					type: "item",
+					item: "botania:gaia_pylon",
+					count: 4L
+				},
+				{
+					id: 196,
+					type: "item",
+					item: "minecraft:beacon"
+				}
+			],
+			rewards: [{
+				id: 203,
+				type: "choice",
+				table: 8
+			}]
+		},
+		{
+			title: "{quests.id21.title}",
+			x: -3.0d,
+			y: 0.0d,
+			subtitle: "{quests.id21.desc}",
+			dependencies: [I;194],
+			id: 197,
+			tasks: [{
+				id: 198,
+				type: "item",
+				item: "minecraft:end_portal_frame",
+				count: 12L
+			}],
+			rewards: [{
+				id: 204,
+				type: "item",
+				item: "minecraft:ender_eye",
+				count: 12
+			}]
+		},
+		{
+			title: "{quests.id22.title}",
+			x: 1.0d,
+			y: 0.0d,
+			subtitle: "{quests.id22.desc}",
+			dependencies: [I;194],
+			id: 199,
+			tasks: [{
+				id: 200,
+				type: "item",
+				item: "botania:gaia_spreader"
+			}],
+			rewards: [{
+				id: 205,
+				type: "item",
+				item: "botania:gaia_head"
+			}]
+		}
+	]
+}
