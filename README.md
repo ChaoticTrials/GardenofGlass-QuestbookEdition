@@ -38,10 +38,8 @@ needs push access to this repository.
 | script | description |
 | :---: | :---  |
 | changelog_generator.py | Creates a changelog from the current manifest and the latest release manifest |
-| create_release.py | Creates a new release and publishes it on github. **IMPORTANT: Make sure to push your current
-branch before calling this!!!** |
-| downloadmods.py | Downloads all mods from `manifest.json` into the `mods` folder. **This will delete all mods
-previously in the mods folder!** |
+| create_release.py | Creates a new release and publishes it on github. **IMPORTANT: Make sure to push your current branch before calling this!!!** |
+| downloadmods.py | Downloads all mods from `manifest.json` into the `mods` folder. **This will delete all mods previously in the mods folder!** |
 | modlist.py | Generates the manifest from the manifest without file ids at [pack.json](pack.json) and the files in the `mods` folder. Uses a cache file `modcache.json`. This file should be committed. |
 
 ## Contribution
