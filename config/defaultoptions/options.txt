@@ -1,1 +1,2 @@
+autoJump:false
 guiScale:3
