@@ -23,6 +23,7 @@
 !config/botanicalmachinery-client.toml
 !config/sidebar_buttons.json
 !config/theoneprobe-*.toml
+!config/twerk-config.toml
 !config/lootr-common.toml # still need to add
 
 # kubejs
@@ -34,7 +35,8 @@
 !kubejs/startup_scripts
 !kubejs/startup_scripts/*
 
-# readme
+# basics
+!LICENSE
 !README.md
 
 # modlist
