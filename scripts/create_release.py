@@ -72,7 +72,7 @@ def main():
     createServerZip(manifest, gitignore)
 
     print('Uploading to GitHub')
-    # uploadToGithub(token, manifest)
+    uploadToGithub(token, manifest)
 
     print('Done')
 

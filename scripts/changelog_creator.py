@@ -82,7 +82,6 @@ def githubChanges(manifest_data: dict, file_name: str):
         commits.append([message, url])
 
     with open(file_name, "a", encoding="utf-8") as f:
-        appendFile(f, "# Changelog for Garden of Glass (Questbook Edition) " + manifest_data['version'])
         appendFile(f, "## Internal changes")
         for commit in commits:
             appendFile(f, f"- [{commit[0]}]({commit[1]})")
@@ -144,6 +143,7 @@ def modsChanges(new_manifest_data: dict, file_name: str):
             removed.append(mod)
 
     with open(file_name, "a", encoding="utf-8") as f:
+        appendFile(f, "# Changelog for Garden of Glass (Questbook Edition) " + manifest_data['version'])
         if len(updated) > 0 or len(added) > 0 or len(removed) > 0 or len(updated) > 0:
             appendFile(f, "## Mod Changes")
 

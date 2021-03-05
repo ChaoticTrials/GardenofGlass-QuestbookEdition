@@ -1,4 +1,4 @@
-## Garden of Glass (Questbook Edition) - 4.2.1
+## Garden of Glass (Questbook Edition) - 4.2.2
 - [A Block of Charcoal v1.2](https://www.curseforge.com/minecraft/mc-mods/a-block-of-charcoal/3086486) (by [TurkeyDev](https://www.curseforge.com/members/turkeydev/projects))
 - [aiotbotania-1.16.4-1.7.2.jar](https://www.curseforge.com/minecraft/mc-mods/aiot-botania/3224181) (by [MelanX](https://www.curseforge.com/members/melanx/projects))
 - [AppleSkin-mc1.16.2-forge-1.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin/3035787) (by [squeek502](https://www.curseforge.com/members/squeek502/projects))
