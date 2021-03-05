@@ -185,17 +185,17 @@ def uploadToGithub(token, manifest):
     release_id = json.loads(urlopen(create_release).read())['id']
 
     print('Upload CurseForge pack')
-    uploadFileToRelease(token, release_id, manifest, 'application/zip', 'curseforge', 'zip',
+    uploadFileToRelease(token, release_id, manifest, 'application/zip', '[Client] Garden of Glass - Questbook Edition', 'zip',
                         os.path.join('build', 'curseforge.zip'))
 
     print('Upload Server zip')
-    uploadFileToRelease(token, release_id, manifest, 'application/zip', 'server', 'zip',
+    uploadFileToRelease(token, release_id, manifest, 'application/zip', '[Server] Garden of Glass - Questbook Edition', 'zip',
                         os.path.join('build', 'server.zip'))
 
 
 def uploadFileToRelease(token, release_id, manifest, mime, basename, suffix, path):
     request = Request(
-        f'https://uploads.github.com/repos/MelanX/GardenofGlass-QuestbookEdition/releases/{release_id}/assets?name={basename}-{manifest["version"]}.{suffix}',
+        f'https://uploads.github.com/repos/MelanX/GardenofGlass-QuestbookEdition/releases/{release_id}/assets?name={basename}-v{manifest["version"]}.{suffix}',
         method='POST')
     request.add_header('Authorization', f'token {token}')
     request.add_header('Content-Type', mime)
