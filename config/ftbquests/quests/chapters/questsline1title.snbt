@@ -220,8 +220,7 @@
 				{
 					id: "0000000000000099",
 					type: "item",
-					item: "minecraft:ghast_tear",
-					count: 1L
+					item: "minecraft:ghast_tear"
 				}
 			],
 			rewards: [{

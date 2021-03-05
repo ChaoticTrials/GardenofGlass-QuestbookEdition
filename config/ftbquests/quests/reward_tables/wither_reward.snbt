@@ -1,0 +1,21 @@
+{
+	id: "574F5BCCCB1458D9",
+	order_index: 13,
+	title: "Wither Reward",
+	icon: "minecraft:wither_rose",
+	loot_size: 1,
+	rewards: [
+		{
+			item: "minecraft:beacon"
+		},
+		{
+			item: {
+				id: "constructionwand:infinity_wand",
+				Count: 1b,
+				tag: {
+					wand_options: {}
+				}
+			}
+		}
+	]
+}

@@ -42,17 +42,32 @@
 			subtitle: "{quests.id24.desc}",
 			dependencies: ["00000000000000CE"],
 			id: "00000000000000D2",
-			tasks: [{
-				id: "00000000000000D3",
-				type: "kill",
-				entity: "minecraft:wither",
-				value: 1L
-			}],
-			rewards: [{
-				id: "00000000000000D4",
-				type: "item",
-				item: "minecraft:beacon"
-			}]
+			tasks: [
+				{
+					id: "00000000000000D3",
+					type: "kill",
+					entity: "minecraft:wither",
+					value: 1L
+				},
+				{
+					id: "34BA24B7A19D6509",
+					type: "item",
+					item: "minecraft:nether_star",
+					consume_items: true
+				}
+			],
+			rewards: [
+				{
+					id: "3D2861852A7A0EC7",
+					type: "choice",
+					table_id: 6291348139598436569L
+				},
+				{
+					id: "3040026DFD9E4D6B",
+					type: "item",
+					item: "minecraft:wither_rose"
+				}
+			]
 		},
 		{
 			title: "{quests.id25.title}",
