@@ -1,70 +1,197 @@
 {
-	id: 268,
+	id: "000000000000010C",
+	order_index: 9,
 	title: "Loot Chest",
 	loot_size: 1,
 	rewards: [
 		{
-			item: "aiotbotania:elementium_aiot"
+			item: {
+				id: "aiotbotania:elementium_aiot",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:elementium_hoe"
+			item: {
+				id: "aiotbotania:elementium_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_aiot"
+			item: {
+				id: "aiotbotania:livingrock_aiot",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_axe"
+			item: {
+				id: "aiotbotania:livingrock_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_hoe"
+			item: {
+				id: "aiotbotania:livingrock_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_pickaxe"
+			item: {
+				id: "aiotbotania:livingrock_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_shears"
+			item: {
+				id: "aiotbotania:livingrock_shears",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_shovel"
+			item: {
+				id: "aiotbotania:livingrock_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingrock_sword"
+			item: {
+				id: "aiotbotania:livingrock_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_aiot"
+			item: {
+				id: "aiotbotania:livingwood_aiot",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_axe"
+			item: {
+				id: "aiotbotania:livingwood_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_hoe"
+			item: {
+				id: "aiotbotania:livingwood_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_pickaxe"
+			item: {
+				id: "aiotbotania:livingwood_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_shears"
+			item: {
+				id: "aiotbotania:livingwood_shears",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_shovel"
+			item: {
+				id: "aiotbotania:livingwood_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:livingwood_sword"
+			item: {
+				id: "aiotbotania:livingwood_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:manasteel_aiot"
+			item: {
+				id: "aiotbotania:manasteel_aiot",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:manasteel_hoe"
+			item: {
+				id: "aiotbotania:manasteel_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:terra_aiot"
+			item: {
+				id: "aiotbotania:terra_aiot",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:terra_hoe"
+			item: {
+				id: "aiotbotania:terra_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "aiotbotania:terra_shovel"
+			item: {
+				id: "aiotbotania:terra_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:abstruse_platform"
@@ -562,7 +689,13 @@
 			item: "botania:creative_pool"
 		},
 		{
-			item: "botania:crystal_bow"
+			item: {
+				id: "botania:crystal_bow",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:cyan_double_flower"
@@ -682,40 +815,88 @@
 			item: "botania:dry_seeds"
 		},
 		{
-			item: "botania:elementium_axe"
+			item: {
+				id: "botania:elementium_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:elementium_block"
 		},
 		{
-			item: "botania:elementium_boots"
+			item: {
+				id: "botania:elementium_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:elementium_chestplate"
+			item: {
+				id: "botania:elementium_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:elementium_helmet"
+			item: {
+				id: "botania:elementium_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:elementium_ingot"
 		},
 		{
-			item: "botania:elementium_leggings"
+			item: {
+				id: "botania:elementium_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:elementium_nugget"
 		},
 		{
-			item: "botania:elementium_pickaxe"
+			item: {
+				id: "botania:elementium_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:elementium_shears"
 		},
 		{
-			item: "botania:elementium_shovel"
+			item: {
+				id: "botania:elementium_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:elementium_sword"
+			item: {
+				id: "botania:elementium_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:elf_glass"
@@ -748,7 +929,13 @@
 			item: "botania:ender_air_bottle"
 		},
 		{
-			item: "botania:ender_dagger"
+			item: {
+				id: "botania:ender_dagger",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:ender_eye_block"
@@ -973,7 +1160,13 @@
 			item: "botania:ghost_rail"
 		},
 		{
-			item: "botania:glass_pickaxe"
+			item: {
+				id: "botania:glass_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:glimmering_dreamwood"
@@ -1324,7 +1517,13 @@
 			item: "botania:livingwood"
 		},
 		{
-			item: "botania:livingwood_bow"
+			item: {
+				id: "botania:livingwood_bow",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:livingwood_fence"
@@ -1468,55 +1667,127 @@
 			item: "botania:manastar"
 		},
 		{
-			item: "botania:manasteel_axe"
+			item: {
+				id: "botania:manasteel_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:manasteel_block"
 		},
 		{
-			item: "botania:manasteel_boots"
+			item: {
+				id: "botania:manasteel_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:manasteel_chestplate"
+			item: {
+				id: "botania:manasteel_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:manasteel_helmet"
+			item: {
+				id: "botania:manasteel_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:manasteel_ingot"
 		},
 		{
-			item: "botania:manasteel_leggings"
+			item: {
+				id: "botania:manasteel_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:manasteel_nugget"
 		},
 		{
-			item: "botania:manasteel_pick"
+			item: {
+				id: "botania:manasteel_pick",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:manasteel_shears"
 		},
 		{
-			item: "botania:manasteel_shovel"
+			item: {
+				id: "botania:manasteel_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:manasteel_sword"
+			item: {
+				id: "botania:manasteel_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:manaweave_boots"
+			item: {
+				id: "botania:manaweave_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:manaweave_chestplate"
+			item: {
+				id: "botania:manaweave_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:manaweave_cloth"
 		},
 		{
-			item: "botania:manaweave_helmet"
+			item: {
+				id: "botania:manaweave_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:manaweave_leggings"
+			item: {
+				id: "botania:manaweave_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:marimorphosis"
@@ -2218,10 +2489,22 @@
 			item: "botania:speed_up_belt"
 		},
 		{
-			item: "botania:spell_cloth"
+			item: {
+				id: "botania:spell_cloth",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:star_sword"
+			item: {
+				id: "botania:star_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:starfield"
@@ -2257,16 +2540,34 @@
 			item: "botania:temperance_stone"
 		},
 		{
-			item: "botania:terra_axe"
+			item: {
+				id: "botania:terra_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:terra_pick"
+			item: {
+				id: "botania:terra_pick",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:terra_plate"
 		},
 		{
-			item: "botania:terra_sword"
+			item: {
+				id: "botania:terra_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:terraform_rod"
@@ -2275,19 +2576,43 @@
 			item: "botania:terrasteel_block"
 		},
 		{
-			item: "botania:terrasteel_boots"
+			item: {
+				id: "botania:terrasteel_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:terrasteel_chestplate"
+			item: {
+				id: "botania:terrasteel_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "botania:terrasteel_helmet"
+			item: {
+				id: "botania:terrasteel_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:terrasteel_ingot"
 		},
 		{
-			item: "botania:terrasteel_leggings"
+			item: {
+				id: "botania:terrasteel_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:terrasteel_nugget"
@@ -2308,7 +2633,13 @@
 			item: "botania:thorn_chakram"
 		},
 		{
-			item: "botania:thunder_sword"
+			item: {
+				id: "botania:thunder_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "botania:tigerseye"
@@ -2364,7 +2695,7 @@
 		{
 			item: {
 				id: "botania:water_bowl",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Fluid: {
 						FluidName: "minecraft:water",
@@ -2533,7 +2864,13 @@
 			item: "curios:amulet"
 		},
 		{
-			item: "curios:crown"
+			item: {
+				id: "curios:crown",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "curios:knuckles"
@@ -2876,7 +3213,13 @@
 			item: "minecraft:bookshelf"
 		},
 		{
-			item: "minecraft:bow"
+			item: {
+				id: "minecraft:bow",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:bowl"
@@ -2978,7 +3321,13 @@
 			item: "minecraft:carrot"
 		},
 		{
-			item: "minecraft:carrot_on_a_stick"
+			item: {
+				id: "minecraft:carrot_on_a_stick",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:cartography_table"
@@ -2996,16 +3345,40 @@
 			item: "minecraft:chain_command_block"
 		},
 		{
-			item: "minecraft:chainmail_boots"
+			item: {
+				id: "minecraft:chainmail_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:chainmail_chestplate"
+			item: {
+				id: "minecraft:chainmail_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:chainmail_helmet"
+			item: {
+				id: "minecraft:chainmail_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:chainmail_leggings"
+			item: {
+				id: "minecraft:chainmail_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:charcoal"
@@ -3197,7 +3570,13 @@
 			item: "minecraft:crimson_trapdoor"
 		},
 		{
-			item: "minecraft:crossbow"
+			item: {
+				id: "minecraft:crossbow",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:crying_obsidian"
@@ -3368,40 +3747,94 @@
 			item: "minecraft:diamond"
 		},
 		{
-			item: "minecraft:diamond_axe"
+			item: {
+				id: "minecraft:diamond_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:diamond_block"
 		},
 		{
-			item: "minecraft:diamond_boots"
+			item: {
+				id: "minecraft:diamond_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:diamond_chestplate"
+			item: {
+				id: "minecraft:diamond_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:diamond_helmet"
+			item: {
+				id: "minecraft:diamond_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:diamond_hoe"
+			item: {
+				id: "minecraft:diamond_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:diamond_horse_armor"
 		},
 		{
-			item: "minecraft:diamond_leggings"
+			item: {
+				id: "minecraft:diamond_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:diamond_ore"
 		},
 		{
-			item: "minecraft:diamond_pickaxe"
+			item: {
+				id: "minecraft:diamond_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:diamond_shovel"
+			item: {
+				id: "minecraft:diamond_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:diamond_sword"
+			item: {
+				id: "minecraft:diamond_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:diorite"
@@ -3443,7 +3876,13 @@
 			item: "minecraft:egg"
 		},
 		{
-			item: "minecraft:elytra"
+			item: {
+				id: "minecraft:elytra",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:emerald"
@@ -3533,7 +3972,13 @@
 			item: "minecraft:firework_star"
 		},
 		{
-			item: "minecraft:fishing_rod"
+			item: {
+				id: "minecraft:fishing_rod",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:fletching_table"
@@ -3542,7 +3987,13 @@
 			item: "minecraft:flint"
 		},
 		{
-			item: "minecraft:flint_and_steel"
+			item: {
+				id: "minecraft:flint_and_steel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:flower_banner_pattern"
@@ -3599,37 +4050,91 @@
 			item: "minecraft:golden_apple"
 		},
 		{
-			item: "minecraft:golden_axe"
+			item: {
+				id: "minecraft:golden_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:golden_boots"
+			item: {
+				id: "minecraft:golden_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:golden_carrot"
 		},
 		{
-			item: "minecraft:golden_chestplate"
+			item: {
+				id: "minecraft:golden_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:golden_helmet"
+			item: {
+				id: "minecraft:golden_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:golden_hoe"
+			item: {
+				id: "minecraft:golden_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:golden_horse_armor"
 		},
 		{
-			item: "minecraft:golden_leggings"
+			item: {
+				id: "minecraft:golden_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:golden_pickaxe"
+			item: {
+				id: "minecraft:golden_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:golden_shovel"
+			item: {
+				id: "minecraft:golden_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:golden_sword"
+			item: {
+				id: "minecraft:golden_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:granite"
@@ -3794,7 +4299,13 @@
 			item: "minecraft:ink_sac"
 		},
 		{
-			item: "minecraft:iron_axe"
+			item: {
+				id: "minecraft:iron_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:iron_bars"
@@ -3803,19 +4314,43 @@
 			item: "minecraft:iron_block"
 		},
 		{
-			item: "minecraft:iron_boots"
+			item: {
+				id: "minecraft:iron_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:iron_chestplate"
+			item: {
+				id: "minecraft:iron_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:iron_door"
 		},
 		{
-			item: "minecraft:iron_helmet"
+			item: {
+				id: "minecraft:iron_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:iron_hoe"
+			item: {
+				id: "minecraft:iron_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:iron_horse_armor"
@@ -3824,7 +4359,13 @@
 			item: "minecraft:iron_ingot"
 		},
 		{
-			item: "minecraft:iron_leggings"
+			item: {
+				id: "minecraft:iron_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:iron_nugget"
@@ -3833,13 +4374,31 @@
 			item: "minecraft:iron_ore"
 		},
 		{
-			item: "minecraft:iron_pickaxe"
+			item: {
+				id: "minecraft:iron_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:iron_shovel"
+			item: {
+				id: "minecraft:iron_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:iron_sword"
+			item: {
+				id: "minecraft:iron_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:iron_trapdoor"
@@ -3935,19 +4494,43 @@
 			item: "minecraft:leather"
 		},
 		{
-			item: "minecraft:leather_boots"
+			item: {
+				id: "minecraft:leather_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:leather_chestplate"
+			item: {
+				id: "minecraft:leather_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:leather_helmet"
+			item: {
+				id: "minecraft:leather_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:leather_horse_armor"
 		},
 		{
-			item: "minecraft:leather_leggings"
+			item: {
+				id: "minecraft:leather_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:lectern"
@@ -4265,40 +4848,94 @@
 			item: "minecraft:nether_wart_block"
 		},
 		{
-			item: "minecraft:netherite_axe"
+			item: {
+				id: "minecraft:netherite_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:netherite_block"
 		},
 		{
-			item: "minecraft:netherite_boots"
+			item: {
+				id: "minecraft:netherite_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:netherite_chestplate"
+			item: {
+				id: "minecraft:netherite_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:netherite_helmet"
+			item: {
+				id: "minecraft:netherite_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:netherite_hoe"
+			item: {
+				id: "minecraft:netherite_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:netherite_ingot"
 		},
 		{
-			item: "minecraft:netherite_leggings"
+			item: {
+				id: "minecraft:netherite_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:netherite_pickaxe"
+			item: {
+				id: "minecraft:netherite_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:netherite_scrap"
 		},
 		{
-			item: "minecraft:netherite_shovel"
+			item: {
+				id: "minecraft:netherite_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:netherite_sword"
+			item: {
+				id: "minecraft:netherite_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:netherrack"
@@ -4814,10 +5451,22 @@
 			item: "minecraft:seagrass"
 		},
 		{
-			item: "minecraft:shears"
+			item: {
+				id: "minecraft:shears",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:shield"
+			item: {
+				id: "minecraft:shield",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:shroomlight"
@@ -4973,7 +5622,13 @@
 			item: "minecraft:stone"
 		},
 		{
-			item: "minecraft:stone_axe"
+			item: {
+				id: "minecraft:stone_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:stone_brick_slab"
@@ -4991,16 +5646,34 @@
 			item: "minecraft:stone_button"
 		},
 		{
-			item: "minecraft:stone_hoe"
+			item: {
+				id: "minecraft:stone_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:stone_pickaxe"
+			item: {
+				id: "minecraft:stone_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:stone_pressure_plate"
 		},
 		{
-			item: "minecraft:stone_shovel"
+			item: {
+				id: "minecraft:stone_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:stone_slab"
@@ -5009,7 +5682,13 @@
 			item: "minecraft:stone_stairs"
 		},
 		{
-			item: "minecraft:stone_sword"
+			item: {
+				id: "minecraft:stone_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:stonecutter"
@@ -5102,7 +5781,13 @@
 			item: "minecraft:trapped_chest"
 		},
 		{
-			item: "minecraft:trident"
+			item: {
+				id: "minecraft:trident",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:tripwire_hook"
@@ -5126,7 +5811,13 @@
 			item: "minecraft:turtle_egg"
 		},
 		{
-			item: "minecraft:turtle_helmet"
+			item: {
+				id: "minecraft:turtle_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:twisting_vines"
@@ -5150,7 +5841,13 @@
 			item: "minecraft:warped_fungus"
 		},
 		{
-			item: "minecraft:warped_fungus_on_a_stick"
+			item: {
+				id: "minecraft:warped_fungus_on_a_stick",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:warped_hyphae"
@@ -5246,19 +5943,49 @@
 			item: "minecraft:wither_skeleton_skull"
 		},
 		{
-			item: "minecraft:wooden_axe"
+			item: {
+				id: "minecraft:wooden_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:wooden_hoe"
+			item: {
+				id: "minecraft:wooden_hoe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:wooden_pickaxe"
+			item: {
+				id: "minecraft:wooden_pickaxe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:wooden_shovel"
+			item: {
+				id: "minecraft:wooden_shovel",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "minecraft:wooden_sword"
+			item: {
+				id: "minecraft:wooden_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "minecraft:writable_book"
@@ -5312,37 +6039,79 @@
 			item: "mythicbotany:alfsteel_armor_upgrade"
 		},
 		{
-			item: "mythicbotany:alfsteel_axe"
+			item: {
+				id: "mythicbotany:alfsteel_axe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "mythicbotany:alfsteel_block"
 		},
 		{
-			item: "mythicbotany:alfsteel_boots"
+			item: {
+				id: "mythicbotany:alfsteel_boots",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "mythicbotany:alfsteel_chestplate"
+			item: {
+				id: "mythicbotany:alfsteel_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "mythicbotany:alfsteel_helmet"
+			item: {
+				id: "mythicbotany:alfsteel_helmet",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "mythicbotany:alfsteel_ingot"
 		},
 		{
-			item: "mythicbotany:alfsteel_leggings"
+			item: {
+				id: "mythicbotany:alfsteel_leggings",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "mythicbotany:alfsteel_nugget"
 		},
 		{
-			item: "mythicbotany:alfsteel_pick"
+			item: {
+				id: "mythicbotany:alfsteel_pick",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "mythicbotany:alfsteel_pylon"
 		},
 		{
-			item: "mythicbotany:alfsteel_sword"
+			item: {
+				id: "mythicbotany:alfsteel_sword",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "mythicbotany:aquapanthus"
@@ -5366,7 +6135,13 @@
 			item: "mythicbotany:exoblaze_floating"
 		},
 		{
-			item: "mythicbotany:faded_nether_star"
+			item: {
+				id: "mythicbotany:faded_nether_star",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "mythicbotany:fire_ring"
@@ -5423,13 +6198,31 @@
 			item: "mythicbotany:wither_aconite_floating"
 		},
 		{
-			item: "theoneprobe:diamond_helmet_probe"
+			item: {
+				id: "theoneprobe:diamond_helmet_probe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "theoneprobe:gold_helmet_probe"
+			item: {
+				id: "theoneprobe:gold_helmet_probe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
-			item: "theoneprobe:iron_helmet_probe"
+			item: {
+				id: "theoneprobe:iron_helmet_probe",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: "theoneprobe:probe"

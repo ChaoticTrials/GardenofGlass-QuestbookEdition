@@ -1,7 +1,8 @@
 {
-	id: 24,
+	id: "0000000000000018",
+	group: "",
+	order_index: 5,
 	filename: "questsline5title",
-	order_index: 6,
 	title: "{quests.line5.title}",
 	subtitle: ["{quests.line5.desc}"],
 	default_quest_shape: "",
@@ -11,21 +12,21 @@
 			x: -5.5d,
 			y: -2.5d,
 			subtitle: "{quests.id37.desc}",
-			id: 265,
+			id: "0000000000000109",
 			tasks: [{
-				id: 266,
+				id: "000000000000010A",
 				type: "item",
 				item: "botania:cocoon",
 				count: 5L
 			}],
 			rewards: [
 				{
-					id: 270,
+					id: "000000000000010E",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 271,
+					id: "000000000000010F",
 					type: "xp_levels",
 					xp_levels: 10
 				}
@@ -37,92 +38,92 @@
 			x: -3.5d,
 			y: -2.5d,
 			subtitle: "{quests.id38.desc}",
-			id: 272,
+			id: "0000000000000110",
 			tasks: [
 				{
-					id: 273,
+					id: "0000000000000111",
 					type: "item",
 					item: "botania:pure_daisy"
 				},
 				{
-					id: 274,
+					id: "0000000000000112",
 					type: "item",
 					item: "botania:manastar"
 				},
 				{
-					id: 275,
+					id: "0000000000000113",
 					type: "item",
 					item: "botania:endoflame"
 				},
 				{
-					id: 276,
+					id: "0000000000000114",
 					type: "item",
 					item: "botania:hydroangeas"
 				},
 				{
-					id: 277,
+					id: "0000000000000115",
 					type: "item",
 					item: "botania:thermalily"
 				},
 				{
-					id: 278,
+					id: "0000000000000116",
 					type: "item",
 					item: "botania:rosa_arcana"
 				},
 				{
-					id: 279,
+					id: "0000000000000117",
 					type: "item",
 					item: "botania:munchdew"
 				},
 				{
-					id: 280,
+					id: "0000000000000118",
 					type: "item",
 					item: "botania:entropinnyum"
 				},
 				{
-					id: 281,
+					id: "0000000000000119",
 					type: "item",
 					item: "botania:kekimurus"
 				},
 				{
-					id: 282,
+					id: "000000000000011A",
 					type: "item",
 					item: "botania:gourmaryllis"
 				},
 				{
-					id: 283,
+					id: "000000000000011B",
 					type: "item",
 					item: "botania:narslimmus"
 				},
 				{
-					id: 284,
+					id: "000000000000011C",
 					type: "item",
 					item: "botania:spectrolus"
 				},
 				{
-					id: 285,
+					id: "000000000000011D",
 					type: "item",
 					item: "botania:rafflowsia"
 				},
 				{
-					id: 286,
+					id: "000000000000011E",
 					type: "item",
 					item: "botania:dandelifeon"
 				},
 				{
-					id: 287,
+					id: "000000000000011F",
 					type: "item",
 					item: "botania:shulk_me_not"
 				}
 			],
 			rewards: [
 				{
-					id: 288,
+					id: "0000000000000120",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 289,
+					id: "0000000000000121",
 					type: "item",
 					item: "minecraft:enchanted_golden_apple"
 				}
@@ -132,243 +133,243 @@
 			title: "{quests.id39.title}",
 			icon: {
 				id: "botania:lens_normal",
-				Count: true,
+				Count: 1b,
 				tag: {}
 			},
 			x: -1.5d,
 			y: -2.5d,
 			subtitle: "{quests.id39.desc}",
-			id: 290,
+			id: "0000000000000122",
 			tasks: [
 				{
-					id: 291,
+					id: "0000000000000123",
 					type: "item",
 					item: {
 						id: "botania:lens_normal",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 292,
+					id: "0000000000000124",
 					type: "item",
 					item: {
 						id: "botania:lens_speed",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 293,
+					id: "0000000000000125",
 					type: "item",
 					item: {
 						id: "botania:lens_power",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 294,
+					id: "0000000000000126",
 					type: "item",
 					item: {
 						id: "botania:lens_time",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 295,
+					id: "0000000000000127",
 					type: "item",
 					item: {
 						id: "botania:lens_efficiency",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 296,
+					id: "0000000000000128",
 					type: "item",
 					item: {
 						id: "botania:lens_bounce",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 297,
+					id: "0000000000000129",
 					type: "item",
 					item: {
 						id: "botania:lens_gravity",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 298,
+					id: "000000000000012A",
 					type: "item",
 					item: {
 						id: "botania:lens_mine",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 299,
+					id: "000000000000012B",
 					type: "item",
 					item: {
 						id: "botania:lens_damage",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 300,
+					id: "000000000000012C",
 					type: "item",
 					item: {
 						id: "botania:lens_phantom",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 301,
+					id: "000000000000012D",
 					type: "item",
 					item: {
 						id: "botania:lens_magnet",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 302,
+					id: "000000000000012E",
 					type: "item",
 					item: {
 						id: "botania:lens_explosive",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 303,
+					id: "000000000000012F",
 					type: "item",
 					item: {
 						id: "botania:lens_influence",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 304,
+					id: "0000000000000130",
 					type: "item",
 					item: {
 						id: "botania:lens_weight",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 305,
+					id: "0000000000000131",
 					type: "item",
 					item: {
 						id: "botania:lens_paint",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 306,
+					id: "0000000000000132",
 					type: "item",
 					item: {
 						id: "botania:lens_fire",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 307,
+					id: "0000000000000133",
 					type: "item",
 					item: {
 						id: "botania:lens_piston",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 308,
+					id: "0000000000000134",
 					type: "item",
 					item: {
 						id: "botania:lens_light",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 309,
+					id: "0000000000000135",
 					type: "item",
 					item: {
 						id: "botania:lens_warp",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 310,
+					id: "0000000000000136",
 					type: "item",
 					item: {
 						id: "botania:lens_redirect",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 311,
+					id: "0000000000000137",
 					type: "item",
 					item: {
 						id: "botania:lens_firework",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 312,
+					id: "0000000000000138",
 					type: "item",
 					item: {
 						id: "botania:lens_flare",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 313,
+					id: "0000000000000139",
 					type: "item",
 					item: {
 						id: "botania:lens_messenger",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 314,
+					id: "000000000000013A",
 					type: "item",
 					item: {
 						id: "botania:lens_tripwire",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				}
 			],
 			rewards: [
 				{
-					id: 315,
+					id: "000000000000013B",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 316,
+					id: "000000000000013C",
 					type: "item",
 					item: {
 						id: "botania:mining_ring",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				}
@@ -379,100 +380,100 @@
 			x: 0.5d,
 			y: -2.5d,
 			subtitle: "{quests.id40.desc}",
-			id: 317,
+			id: "000000000000013D",
 			tasks: [
 				{
-					id: 318,
+					id: "000000000000013E",
 					type: "item",
 					item: "minecraft:white_wool",
 					count: 5L
 				},
 				{
-					id: 319,
+					id: "000000000000013F",
 					type: "item",
 					item: "minecraft:orange_wool",
 					count: 5L
 				},
 				{
-					id: 320,
+					id: "0000000000000140",
 					type: "item",
 					item: "minecraft:magenta_wool",
 					count: 5L
 				},
 				{
-					id: 321,
+					id: "0000000000000141",
 					type: "item",
 					item: "minecraft:light_blue_wool",
 					count: 5L
 				},
 				{
-					id: 322,
+					id: "0000000000000142",
 					type: "item",
 					item: "minecraft:yellow_wool",
 					count: 5L
 				},
 				{
-					id: 323,
+					id: "0000000000000143",
 					type: "item",
 					item: "minecraft:lime_wool",
 					count: 5L
 				},
 				{
-					id: 324,
+					id: "0000000000000144",
 					type: "item",
 					item: "minecraft:pink_wool",
 					count: 5L
 				},
 				{
-					id: 325,
+					id: "0000000000000145",
 					type: "item",
 					item: "minecraft:gray_wool",
 					count: 5L
 				},
 				{
-					id: 326,
+					id: "0000000000000146",
 					type: "item",
 					item: "minecraft:light_gray_wool",
 					count: 5L
 				},
 				{
-					id: 327,
+					id: "0000000000000147",
 					type: "item",
 					item: "minecraft:cyan_wool",
 					count: 5L
 				},
 				{
-					id: 328,
+					id: "0000000000000148",
 					type: "item",
 					item: "minecraft:purple_wool",
 					count: 5L
 				},
 				{
-					id: 329,
+					id: "0000000000000149",
 					type: "item",
 					item: "minecraft:blue_wool",
 					count: 5L
 				},
 				{
-					id: 330,
+					id: "000000000000014A",
 					type: "item",
 					item: "minecraft:brown_wool",
 					count: 5L
 				},
 				{
-					id: 331,
+					id: "000000000000014B",
 					type: "item",
 					item: "minecraft:green_wool",
 					count: 5L
 				},
 				{
-					id: 332,
+					id: "000000000000014C",
 					type: "item",
 					item: "minecraft:red_wool",
 					count: 5L
 				},
 				{
-					id: 333,
+					id: "000000000000014D",
 					type: "item",
 					item: "minecraft:black_wool",
 					count: 5L
@@ -480,12 +481,12 @@
 			],
 			rewards: [
 				{
-					id: 334,
+					id: "000000000000014E",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 335,
+					id: "000000000000014F",
 					type: "item",
 					item: "minecraft:mooshroom_spawn_egg"
 				}
@@ -497,97 +498,97 @@
 			x: -5.5d,
 			y: -0.5d,
 			subtitle: "{quests.id41.desc}",
-			id: 336,
+			id: "0000000000000150",
 			tasks: [
 				{
-					id: 337,
+					id: "0000000000000151",
 					type: "item",
 					item: "botania:rune_water"
 				},
 				{
-					id: 338,
+					id: "0000000000000152",
 					type: "item",
 					item: "botania:rune_fire"
 				},
 				{
-					id: 339,
+					id: "0000000000000153",
 					type: "item",
 					item: "botania:rune_earth"
 				},
 				{
-					id: 340,
+					id: "0000000000000154",
 					type: "item",
 					item: "botania:rune_air"
 				},
 				{
-					id: 341,
+					id: "0000000000000155",
 					type: "item",
 					item: "botania:rune_spring"
 				},
 				{
-					id: 342,
+					id: "0000000000000156",
 					type: "item",
 					item: "botania:rune_summer"
 				},
 				{
-					id: 343,
+					id: "0000000000000157",
 					type: "item",
 					item: "botania:rune_autumn"
 				},
 				{
-					id: 344,
+					id: "0000000000000158",
 					type: "item",
 					item: "botania:rune_winter"
 				},
 				{
-					id: 345,
+					id: "0000000000000159",
 					type: "item",
 					item: "botania:rune_mana"
 				},
 				{
-					id: 346,
+					id: "000000000000015A",
 					type: "item",
 					item: "botania:rune_lust"
 				},
 				{
-					id: 347,
+					id: "000000000000015B",
 					type: "item",
 					item: "botania:rune_gluttony"
 				},
 				{
-					id: 348,
+					id: "000000000000015C",
 					type: "item",
 					item: "botania:rune_greed"
 				},
 				{
-					id: 349,
+					id: "000000000000015D",
 					type: "item",
 					item: "botania:rune_sloth"
 				},
 				{
-					id: 350,
+					id: "000000000000015E",
 					type: "item",
 					item: "botania:rune_wrath"
 				},
 				{
-					id: 351,
+					id: "000000000000015F",
 					type: "item",
 					item: "botania:rune_envy"
 				},
 				{
-					id: 352,
+					id: "0000000000000160",
 					type: "item",
 					item: "botania:rune_pride"
 				}
 			],
 			rewards: [
 				{
-					id: 353,
+					id: "0000000000000161",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 354,
+					id: "0000000000000162",
 					type: "item",
 					item: "botania:mana_cookie"
 				}
@@ -599,147 +600,147 @@
 			x: -3.5d,
 			y: -0.5d,
 			subtitle: "{quests.id42.desc}",
-			id: 355,
+			id: "0000000000000163",
 			tasks: [
 				{
-					id: 356,
+					id: "0000000000000164",
 					type: "item",
 					item: "botania:bellethorn"
 				},
 				{
-					id: 357,
+					id: "0000000000000165",
 					type: "item",
 					item: "botania:dreadthorn"
 				},
 				{
-					id: 358,
+					id: "0000000000000166",
 					type: "item",
 					item: "botania:heisei_dream"
 				},
 				{
-					id: 359,
+					id: "0000000000000167",
 					type: "item",
 					item: "botania:tigerseye"
 				},
 				{
-					id: 360,
+					id: "0000000000000168",
 					type: "item",
 					item: "botania:marimorphosis"
 				},
 				{
-					id: 361,
+					id: "0000000000000169",
 					type: "item",
 					item: "botania:orechid"
 				},
 				{
-					id: 362,
+					id: "000000000000016A",
 					type: "item",
 					item: "botania:orechid_ignem"
 				},
 				{
-					id: 363,
+					id: "000000000000016B",
 					type: "item",
 					item: "botania:fallen_kanade"
 				},
 				{
-					id: 364,
+					id: "000000000000016C",
 					type: "item",
 					item: "botania:exoflame"
 				},
 				{
-					id: 365,
+					id: "000000000000016D",
 					type: "item",
 					item: "botania:agricarnation"
 				},
 				{
-					id: 366,
+					id: "000000000000016E",
 					type: "item",
 					item: "botania:hopperhock"
 				},
 				{
-					id: 367,
+					id: "000000000000016F",
 					type: "item",
 					item: "botania:rannuncarpus"
 				},
 				{
-					id: 368,
+					id: "0000000000000170",
 					type: "item",
 					item: "botania:tangleberrie"
 				},
 				{
-					id: 369,
+					id: "0000000000000171",
 					type: "item",
 					item: "botania:jiyuulia"
 				},
 				{
-					id: 370,
+					id: "0000000000000172",
 					type: "item",
 					item: "botania:hyacidus"
 				},
 				{
-					id: 371,
+					id: "0000000000000173",
 					type: "item",
 					item: "botania:medumone"
 				},
 				{
-					id: 372,
+					id: "0000000000000174",
 					type: "item",
 					item: "botania:pollidisiac"
 				},
 				{
-					id: 373,
+					id: "0000000000000175",
 					type: "item",
 					item: "botania:clayconia"
 				},
 				{
-					id: 374,
+					id: "0000000000000176",
 					type: "item",
 					item: "botania:loonium"
 				},
 				{
-					id: 375,
+					id: "0000000000000177",
 					type: "item",
 					item: "botania:daffomill"
 				},
 				{
-					id: 376,
+					id: "0000000000000178",
 					type: "item",
 					item: "botania:vinculotus"
 				},
 				{
-					id: 377,
+					id: "0000000000000179",
 					type: "item",
 					item: "botania:spectranthemum"
 				},
 				{
-					id: 378,
+					id: "000000000000017A",
 					type: "item",
 					item: "botania:bubbell"
 				},
 				{
-					id: 379,
+					id: "000000000000017B",
 					type: "item",
 					item: "botania:solegnolia"
 				},
 				{
-					id: 380,
+					id: "000000000000017C",
 					type: "item",
 					item: "botania:bergamute"
 				},
 				{
-					id: 381,
+					id: "000000000000017D",
 					type: "item",
 					item: "botania:jaded_amaranthus"
 				}
 			],
 			rewards: [
 				{
-					id: 383,
+					id: "000000000000017F",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 384,
+					id: "0000000000000180",
 					type: "item",
 					item: "botania:ender_hand"
 				}
@@ -750,13 +751,13 @@
 			x: -1.5d,
 			y: -0.5d,
 			subtitle: "{quests.id43.desc}",
-			id: 385,
+			id: "0000000000000181",
 			tasks: [{
-				id: 386,
+				id: "0000000000000182",
 				type: "item",
 				item: {
 					id: "botania:terra_pick",
-					Count: true,
+					Count: 1b,
 					tag: {
 						mana: 2147483646,
 						Damage: 0
@@ -765,12 +766,12 @@
 			}],
 			rewards: [
 				{
-					id: 387,
+					id: "0000000000000183",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 388,
+					id: "0000000000000184",
 					type: "item",
 					item: "botania:creative_pool"
 				}
@@ -781,15 +782,15 @@
 			x: 0.5d,
 			y: -0.5d,
 			subtitle: "{quests.id44.desc}",
-			id: 389,
+			id: "0000000000000185",
 			tasks: [
 				{
-					id: 423,
+					id: "00000000000001A7",
 					type: "item",
 					title: "Protection IV",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 4,
@@ -799,12 +800,12 @@
 					}
 				},
 				{
-					id: 391,
+					id: "0000000000000187",
 					type: "item",
 					title: "Fire Protection IV",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 4,
@@ -814,12 +815,12 @@
 					}
 				},
 				{
-					id: 392,
+					id: "0000000000000188",
 					type: "item",
 					title: "Feather Falling IV",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 4,
@@ -829,12 +830,12 @@
 					}
 				},
 				{
-					id: 393,
+					id: "0000000000000189",
 					type: "item",
 					title: "Blast Protection IV",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 4,
@@ -844,12 +845,12 @@
 					}
 				},
 				{
-					id: 394,
+					id: "000000000000018A",
 					type: "item",
 					title: "Projectile Protection IV",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 4,
@@ -859,12 +860,12 @@
 					}
 				},
 				{
-					id: 395,
+					id: "000000000000018B",
 					type: "item",
 					title: "Respiration III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -874,12 +875,12 @@
 					}
 				},
 				{
-					id: 396,
+					id: "000000000000018C",
 					type: "item",
 					title: "Aqua Affinity",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1,
@@ -889,12 +890,12 @@
 					}
 				},
 				{
-					id: 397,
+					id: "000000000000018D",
 					type: "item",
 					title: "Thorns III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -904,12 +905,12 @@
 					}
 				},
 				{
-					id: 398,
+					id: "000000000000018E",
 					type: "item",
 					title: "Depth Strider III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -919,12 +920,12 @@
 					}
 				},
 				{
-					id: 399,
+					id: "000000000000018F",
 					type: "item",
 					title: "Sharpness V",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 5,
@@ -934,12 +935,12 @@
 					}
 				},
 				{
-					id: 400,
+					id: "0000000000000190",
 					type: "item",
 					title: "Smite V",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 5,
@@ -949,12 +950,12 @@
 					}
 				},
 				{
-					id: 401,
+					id: "0000000000000191",
 					type: "item",
 					title: "Bane of Arthropods V",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 5,
@@ -964,12 +965,12 @@
 					}
 				},
 				{
-					id: 402,
+					id: "0000000000000192",
 					type: "item",
 					title: "Knockback II",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 2,
@@ -979,12 +980,12 @@
 					}
 				},
 				{
-					id: 403,
+					id: "0000000000000193",
 					type: "item",
 					title: "Fire Aspect II",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 2,
@@ -994,12 +995,12 @@
 					}
 				},
 				{
-					id: 404,
+					id: "0000000000000194",
 					type: "item",
 					title: "Looting III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1009,12 +1010,12 @@
 					}
 				},
 				{
-					id: 405,
+					id: "0000000000000195",
 					type: "item",
 					title: "Sweeping Edge III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1024,12 +1025,12 @@
 					}
 				},
 				{
-					id: 406,
+					id: "0000000000000196",
 					type: "item",
 					title: "Efficiency V",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 5,
@@ -1039,12 +1040,12 @@
 					}
 				},
 				{
-					id: 407,
+					id: "0000000000000197",
 					type: "item",
 					title: "Silk Touch",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1,
@@ -1054,12 +1055,12 @@
 					}
 				},
 				{
-					id: 408,
+					id: "0000000000000198",
 					type: "item",
 					title: "Unbreaking III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1069,12 +1070,12 @@
 					}
 				},
 				{
-					id: 409,
+					id: "0000000000000199",
 					type: "item",
 					title: "Fortune III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1084,12 +1085,12 @@
 					}
 				},
 				{
-					id: 410,
+					id: "000000000000019A",
 					type: "item",
 					title: "Power V",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 5,
@@ -1099,12 +1100,12 @@
 					}
 				},
 				{
-					id: 411,
+					id: "000000000000019B",
 					type: "item",
 					title: "Punch II",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 2,
@@ -1114,12 +1115,12 @@
 					}
 				},
 				{
-					id: 412,
+					id: "000000000000019C",
 					type: "item",
 					title: "Flame",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1,
@@ -1129,12 +1130,12 @@
 					}
 				},
 				{
-					id: 413,
+					id: "000000000000019D",
 					type: "item",
 					title: "Infinity",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1,
@@ -1144,12 +1145,12 @@
 					}
 				},
 				{
-					id: 414,
+					id: "000000000000019E",
 					type: "item",
 					title: "Luck of the Sea III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1159,12 +1160,12 @@
 					}
 				},
 				{
-					id: 415,
+					id: "000000000000019F",
 					type: "item",
 					title: "Lure III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1174,12 +1175,12 @@
 					}
 				},
 				{
-					id: 416,
+					id: "00000000000001A0",
 					type: "item",
 					title: "Loyalty III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1189,12 +1190,12 @@
 					}
 				},
 				{
-					id: 417,
+					id: "00000000000001A1",
 					type: "item",
 					title: "Impaling V",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 5,
@@ -1204,12 +1205,12 @@
 					}
 				},
 				{
-					id: 418,
+					id: "00000000000001A2",
 					type: "item",
 					title: "Riptide III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1219,12 +1220,12 @@
 					}
 				},
 				{
-					id: 419,
+					id: "00000000000001A3",
 					type: "item",
 					title: "Channeling",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1,
@@ -1234,12 +1235,12 @@
 					}
 				},
 				{
-					id: 420,
+					id: "00000000000001A4",
 					type: "item",
 					title: "Multishot",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1,
@@ -1249,12 +1250,12 @@
 					}
 				},
 				{
-					id: 421,
+					id: "00000000000001A5",
 					type: "item",
 					title: "Quick Charge III",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3,
@@ -1264,12 +1265,12 @@
 					}
 				},
 				{
-					id: 422,
+					id: "00000000000001A6",
 					type: "item",
 					title: "Piercing IV",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 4,
@@ -1281,16 +1282,16 @@
 			],
 			rewards: [
 				{
-					id: 424,
+					id: "00000000000001A8",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 425,
+					id: "00000000000001A9",
 					type: "item",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 2s,
@@ -1300,11 +1301,11 @@
 					}
 				},
 				{
-					id: 426,
+					id: "00000000000001AA",
 					type: "item",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1s,
@@ -1314,11 +1315,11 @@
 					}
 				},
 				{
-					id: 427,
+					id: "00000000000001AB",
 					type: "item",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 3s,
@@ -1328,11 +1329,11 @@
 					}
 				},
 				{
-					id: 428,
+					id: "00000000000001AC",
 					type: "item",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1s,
@@ -1342,11 +1343,11 @@
 					}
 				},
 				{
-					id: 429,
+					id: "00000000000001AD",
 					type: "item",
 					item: {
 						id: "minecraft:enchanted_book",
-						Count: true,
+						Count: 1b,
 						tag: {
 							StoredEnchantments: [{
 								lvl: 1s,
@@ -1356,7 +1357,7 @@
 					}
 				},
 				{
-					id: 430,
+					id: "00000000000001AE",
 					type: "xp_levels",
 					xp_levels: 100
 				}
@@ -1368,67 +1369,67 @@
 			x: -5.5d,
 			y: 1.5d,
 			subtitle: "{quests.id45.desc}",
-			id: 431,
+			id: "00000000000001AF",
 			tasks: [
 				{
-					id: 432,
+					id: "00000000000001B0",
 					type: "item",
 					item: "botania:grass_seeds"
 				},
 				{
-					id: 433,
+					id: "00000000000001B1",
 					type: "item",
 					item: "botania:podzol_seeds"
 				},
 				{
-					id: 434,
+					id: "00000000000001B2",
 					type: "item",
 					item: "botania:mycelium_seeds"
 				},
 				{
-					id: 435,
+					id: "00000000000001B3",
 					type: "item",
 					item: "botania:dry_seeds"
 				},
 				{
-					id: 436,
+					id: "00000000000001B4",
 					type: "item",
 					item: "botania:golden_seeds"
 				},
 				{
-					id: 437,
+					id: "00000000000001B5",
 					type: "item",
 					item: "botania:vivid_seeds"
 				},
 				{
-					id: 438,
+					id: "00000000000001B6",
 					type: "item",
 					item: "botania:scorched_seeds"
 				},
 				{
-					id: 439,
+					id: "00000000000001B7",
 					type: "item",
 					item: "botania:infused_seeds"
 				},
 				{
-					id: 440,
+					id: "00000000000001B8",
 					type: "item",
 					item: "botania:mutated_seeds"
 				}
 			],
 			rewards: [
 				{
-					id: 441,
+					id: "00000000000001B9",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 442,
+					id: "00000000000001BA",
 					type: "item",
 					item: "botania:virus_necrodermal"
 				},
 				{
-					id: 443,
+					id: "00000000000001BB",
 					type: "item",
 					item: "botania:virus_nullodermal"
 				}
@@ -1438,7 +1439,7 @@
 			title: "{quests.id46.title}",
 			icon: {
 				id: "botania:brew_vial",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:healing"
 				}
@@ -1446,212 +1447,212 @@
 			x: -3.5d,
 			y: 1.5d,
 			subtitle: "{quests.id46.desc}",
-			id: 444,
+			id: "00000000000001BC",
 			tasks: [
 				{
-					id: 445,
+					id: "00000000000001BD",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:speed"
 						}
 					}
 				},
 				{
-					id: 446,
+					id: "00000000000001BE",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:strength"
 						}
 					}
 				},
 				{
-					id: 447,
+					id: "00000000000001BF",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:haste"
 						}
 					}
 				},
 				{
-					id: 448,
+					id: "00000000000001C0",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:healing"
 						}
 					}
 				},
 				{
-					id: 449,
+					id: "00000000000001C1",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:jump_boost"
 						}
 					}
 				},
 				{
-					id: 450,
+					id: "00000000000001C2",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:regen"
 						}
 					}
 				},
 				{
-					id: 452,
+					id: "00000000000001C4",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:resistance"
 						}
 					}
 				},
 				{
-					id: 453,
+					id: "00000000000001C5",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:fire_resistance"
 						}
 					}
 				},
 				{
-					id: 454,
+					id: "00000000000001C6",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:water_breathing"
 						}
 					}
 				},
 				{
-					id: 455,
+					id: "00000000000001C7",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:invisibility"
 						}
 					}
 				},
 				{
-					id: 456,
+					id: "00000000000001C8",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:night_vision"
 						}
 					}
 				},
 				{
-					id: 457,
+					id: "00000000000001C9",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:absorption"
 						}
 					}
 				},
 				{
-					id: 458,
+					id: "00000000000001CA",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:overload"
 						}
 					}
 				},
 				{
-					id: 459,
+					id: "00000000000001CB",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:soul_cross"
 						}
 					}
 				},
 				{
-					id: 460,
+					id: "00000000000001CC",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:feather_feet"
 						}
 					}
 				},
 				{
-					id: 461,
+					id: "00000000000001CD",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:emptiness"
 						}
 					}
 				},
 				{
-					id: 462,
+					id: "00000000000001CE",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:bloodthirst"
 						}
 					}
 				},
 				{
-					id: 463,
+					id: "00000000000001CF",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:allure"
 						}
 					}
 				},
 				{
-					id: 464,
+					id: "00000000000001D0",
 					type: "item",
 					item: {
 						id: "botania:brew_flask",
-						Count: true,
+						Count: 1b,
 						tag: {
 							brewKey: "botania:clear"
 						}
@@ -1660,16 +1661,16 @@
 			],
 			rewards: [
 				{
-					id: 465,
+					id: "00000000000001D1",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 466,
+					id: "00000000000001D2",
 					type: "item",
 					item: {
 						id: "botania:blood_pendant",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				}
@@ -1681,90 +1682,90 @@
 			x: -1.5d,
 			y: 1.5d,
 			subtitle: "{quests.id47.desc}",
-			id: 467,
+			id: "00000000000001D3",
 			tasks: [
 				{
-					id: 468,
+					id: "00000000000001D4",
 					type: "item",
 					item: "botania:dirt_rod"
 				},
 				{
-					id: 469,
+					id: "00000000000001D5",
 					type: "item",
 					item: "botania:skydirt_rod"
 				},
 				{
-					id: 470,
+					id: "00000000000001D6",
 					type: "item",
 					item: "botania:terraform_rod"
 				},
 				{
-					id: 471,
+					id: "00000000000001D7",
 					type: "item",
 					item: "botania:cobble_rod"
 				},
 				{
-					id: 472,
+					id: "00000000000001D8",
 					type: "item",
 					item: "botania:water_rod"
 				},
 				{
-					id: 473,
+					id: "00000000000001D9",
 					type: "item",
 					item: {
 						id: "botania:tornado_rod",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 474,
+					id: "00000000000001DA",
 					type: "item",
 					item: "botania:fire_rod"
 				},
 				{
-					id: 475,
+					id: "00000000000001DB",
 					type: "item",
 					item: "botania:divining_rod"
 				},
 				{
-					id: 476,
+					id: "00000000000001DC",
 					type: "item",
 					item: "botania:smelt_rod"
 				},
 				{
-					id: 477,
+					id: "00000000000001DD",
 					type: "item",
 					item: {
 						id: "botania:exchange_rod",
-						Count: true,
+						Count: 1b,
 						tag: {}
 					}
 				},
 				{
-					id: 478,
+					id: "00000000000001DE",
 					type: "item",
 					item: "botania:rainbow_rod"
 				},
 				{
-					id: 479,
+					id: "00000000000001DF",
 					type: "item",
 					item: "botania:gravity_rod"
 				},
 				{
-					id: 480,
+					id: "00000000000001E0",
 					type: "item",
 					item: "botania:missile_rod"
 				}
 			],
 			rewards: [
 				{
-					id: 481,
+					id: "00000000000001E1",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 482,
+					id: "00000000000001E2",
 					type: "item",
 					item: "botania:phantom_ink",
 					count: 8
@@ -1777,92 +1778,92 @@
 			x: 0.5d,
 			y: 1.5d,
 			subtitle: "{quests.id48.desc}",
-			id: 483,
+			id: "00000000000001E3",
 			tasks: [
 				{
-					id: 484,
+					id: "00000000000001E4",
 					type: "item",
 					item: "minecraft:music_disc_13"
 				},
 				{
-					id: 485,
+					id: "00000000000001E5",
 					type: "item",
 					item: "minecraft:music_disc_cat"
 				},
 				{
-					id: 486,
+					id: "00000000000001E6",
 					type: "item",
 					item: "minecraft:music_disc_blocks"
 				},
 				{
-					id: 487,
+					id: "00000000000001E7",
 					type: "item",
 					item: "minecraft:music_disc_chirp"
 				},
 				{
-					id: 488,
+					id: "00000000000001E8",
 					type: "item",
 					item: "minecraft:music_disc_far"
 				},
 				{
-					id: 489,
+					id: "00000000000001E9",
 					type: "item",
 					item: "minecraft:music_disc_mall"
 				},
 				{
-					id: 490,
+					id: "00000000000001EA",
 					type: "item",
 					item: "minecraft:music_disc_mellohi"
 				},
 				{
-					id: 491,
+					id: "00000000000001EB",
 					type: "item",
 					item: "minecraft:music_disc_stal"
 				},
 				{
-					id: 492,
+					id: "00000000000001EC",
 					type: "item",
 					item: "minecraft:music_disc_strad"
 				},
 				{
-					id: 493,
+					id: "00000000000001ED",
 					type: "item",
 					item: "minecraft:music_disc_ward"
 				},
 				{
-					id: 494,
+					id: "00000000000001EE",
 					type: "item",
 					item: "minecraft:music_disc_11"
 				},
 				{
-					id: 495,
+					id: "00000000000001EF",
 					type: "item",
 					item: "minecraft:music_disc_wait"
 				},
 				{
-					id: 496,
+					id: "00000000000001F0",
 					type: "item",
 					item: "minecraft:music_disc_pigstep"
 				},
 				{
-					id: 497,
+					id: "00000000000001F1",
 					type: "item",
 					item: "botania:record_gaia_1"
 				},
 				{
-					id: 498,
+					id: "00000000000001F2",
 					type: "item",
 					item: "botania:record_gaia_2"
 				}
 			],
 			rewards: [
 				{
-					id: 499,
+					id: "00000000000001F3",
 					type: "random",
-					table: 9
+					table_id: 268L
 				},
 				{
-					id: 500,
+					id: "00000000000001F4",
 					type: "item",
 					item: "minecraft:jukebox"
 				}

@@ -1,7 +1,8 @@
 {
-	id: 501,
+	id: "00000000000001F5",
+	group: "",
+	order_index: 6,
 	filename: "questsline6title",
-	order_index: 7,
 	title: "{quests.line6.title}",
 	icon: "mythicbotany:alfsteel_pylon",
 	subtitle: ["{quests.line6.desc}"],
@@ -12,16 +13,16 @@
 			x: -6.0d,
 			y: -3.0d,
 			subtitle: "{quests.id50.desc}",
-			id: 502,
+			id: "00000000000001F6",
 			tasks: [{
-				id: 503,
+				id: "00000000000001F7",
 				type: "item",
 				item: "mythicbotany:alfsteel_ingot"
 			}],
 			rewards: [{
-				id: 506,
+				id: "00000000000001FA",
 				type: "choice",
-				table: 10
+				table_id: 505L
 			}]
 		},
 		{
@@ -29,19 +30,19 @@
 			x: -7.5d,
 			y: -0.5d,
 			subtitle: "{quests.id51.desc}",
-			dependencies: [I;502],
-			id: 507,
+			dependencies: ["00000000000001F6"],
+			id: "00000000000001FB",
 			tasks: [{
-				id: 508,
+				id: "00000000000001FC",
 				type: "item",
 				item: "mythicbotany:alfsteel_pylon"
 			}],
 			rewards: [{
-				id: 509,
+				id: "00000000000001FD",
 				type: "item",
 				item: {
 					id: "mythicbotany:alfsteel_pick",
-					Count: true,
+					Count: 1b,
 					tag: {
 						mana: 9999999,
 						Damage: 0
@@ -54,22 +55,22 @@
 			x: -4.5d,
 			y: -0.5d,
 			subtitle: "{quests.id52.desc}",
-			dependencies: [I;502],
-			id: 510,
+			dependencies: ["00000000000001F6"],
+			id: "00000000000001FE",
 			tasks: [
 				{
-					id: 511,
+					id: "00000000000001FF",
 					type: "item",
 					item: "mythicbotany:fire_ring"
 				},
 				{
-					id: 512,
+					id: "0000000000000200",
 					type: "item",
 					item: "mythicbotany:ice_ring"
 				}
 			],
 			rewards: [{
-				id: 513,
+				id: "0000000000000201",
 				type: "item",
 				item: "mythicbotany:raindeletia"
 			}]
@@ -79,15 +80,15 @@
 			x: -9.0d,
 			y: -3.0d,
 			subtitle: "{quests.id49.desc}",
-			dependencies: [I;213],
-			id: 514,
+			dependencies: ["00000000000000D5"],
+			id: "0000000000000202",
 			tasks: [{
-				id: 515,
+				id: "0000000000000203",
 				type: "item",
 				item: "mythicbotany:mana_collector"
 			}],
 			rewards: [{
-				id: 516,
+				id: "0000000000000204",
 				type: "item",
 				item: "botania:spark",
 				count: 3
@@ -99,22 +100,22 @@
 			x: -1.0d,
 			y: -3.0d,
 			subtitle: "{quests.id53.desc}",
-			dependencies: [I;133],
-			id: 517,
+			dependencies: ["0000000000000085"],
+			id: "0000000000000205",
 			tasks: [
 				{
-					id: 518,
+					id: "0000000000000206",
 					type: "item",
 					item: "botanicalmachinery:mechanical_daisy"
 				},
 				{
-					id: 519,
+					id: "0000000000000207",
 					type: "item",
 					item: "botanicalmachinery:mechanical_apothecary"
 				}
 			],
 			rewards: [{
-				id: 520,
+				id: "0000000000000208",
 				type: "item",
 				item: "botanicalmachinery:mana_emerald_block"
 			}]
@@ -124,15 +125,15 @@
 			x: 2.0d,
 			y: -3.0d,
 			subtitle: "{quests.id54.desc}",
-			dependencies: [I;133],
-			id: 521,
+			dependencies: ["0000000000000085"],
+			id: "0000000000000209",
 			tasks: [{
-				id: 522,
+				id: "000000000000020A",
 				type: "item",
 				item: "botanicalmachinery:alfheim_market"
 			}],
 			rewards: [{
-				id: 523,
+				id: "000000000000020B",
 				type: "item",
 				item: "minecraft:bread",
 				count: 16
@@ -143,18 +144,18 @@
 			x: 0.5d,
 			y: -1.0d,
 			subtitle: "{quests.id55.desc}",
-			dependencies: [I;
-				133,
-				213
+			dependencies: [
+				"0000000000000085",
+				"00000000000000D5"
 			],
-			id: 524,
+			id: "000000000000020C",
 			tasks: [{
-				id: 525,
+				id: "000000000000020D",
 				type: "item",
 				item: "botanicalmachinery:mana_battery"
 			}],
 			rewards: [{
-				id: 529,
+				id: "0000000000000211",
 				type: "item",
 				item: "mythicbotany:aura_ring_greatest"
 			}]

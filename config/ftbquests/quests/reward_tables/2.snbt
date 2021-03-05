@@ -1,5 +1,6 @@
 {
-	id: 2,
+	id: "0000000000000002",
+	order_index: 7,
 	title: "Saplings",
 	loot_size: 1,
 	rewards: [

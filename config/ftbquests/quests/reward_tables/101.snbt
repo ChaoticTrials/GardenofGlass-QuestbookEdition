@@ -1,5 +1,6 @@
 {
-	id: 101,
+	id: "0000000000000065",
+	order_index: 0,
 	title: "Ore Rewards",
 	loot_size: 1,
 	rewards: [

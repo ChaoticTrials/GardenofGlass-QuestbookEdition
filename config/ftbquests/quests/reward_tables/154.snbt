@@ -1,5 +1,6 @@
 {
-	id: 154,
+	id: "000000000000009A",
+	order_index: 3,
 	title: "Nether Table",
 	loot_size: 1,
 	rewards: [

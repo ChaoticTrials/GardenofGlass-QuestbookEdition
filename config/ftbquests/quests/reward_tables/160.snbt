@@ -1,12 +1,13 @@
 {
-	id: 160,
+	id: "00000000000000A0",
+	order_index: 4,
 	title: "Botania Potions Table",
 	loot_size: 1,
 	rewards: [
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:speed"
 				}
@@ -15,7 +16,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:strength"
 				}
@@ -24,7 +25,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:haste"
 				}
@@ -33,7 +34,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:healing"
 				}
@@ -42,7 +43,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:jump_boost"
 				}
@@ -51,7 +52,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:regen"
 				}
@@ -60,7 +61,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:regen_weak"
 				}
@@ -69,7 +70,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:resistance"
 				}
@@ -78,7 +79,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:fire_resistance"
 				}
@@ -87,7 +88,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:water_breathing"
 				}
@@ -96,7 +97,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:invisibility"
 				}
@@ -105,7 +106,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:night_vision"
 				}
@@ -114,7 +115,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:absorption"
 				}
@@ -123,7 +124,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:overload"
 				}
@@ -132,7 +133,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:soul_cross"
 				}
@@ -141,7 +142,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:feather_feet"
 				}
@@ -150,7 +151,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:emptiness"
 				}
@@ -159,7 +160,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:bloodthirst"
 				}
@@ -168,7 +169,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:allure"
 				}
@@ -177,7 +178,7 @@
 		{
 			item: {
 				id: "botania:brew_flask",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:clear"
 				}

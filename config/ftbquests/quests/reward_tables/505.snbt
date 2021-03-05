@@ -1,12 +1,13 @@
 {
-	id: 505,
+	id: "00000000000001F9",
+	order_index: 10,
 	title: "Alfsteel Armor",
 	loot_size: 1,
 	rewards: [
 		{
 			item: {
 				id: "mythicbotany:alfsteel_helmet",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -15,7 +16,7 @@
 		{
 			item: {
 				id: "mythicbotany:alfsteel_chestplate",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -24,7 +25,7 @@
 		{
 			item: {
 				id: "mythicbotany:alfsteel_leggings",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -33,7 +34,7 @@
 		{
 			item: {
 				id: "mythicbotany:alfsteel_boots",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -42,7 +43,7 @@
 		{
 			item: {
 				id: "mythicbotany:alfsteel_sword",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}

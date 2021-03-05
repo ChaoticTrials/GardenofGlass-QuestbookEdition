@@ -1,12 +1,13 @@
 {
-	id: 62,
+	id: "000000000000003E",
+	order_index: 11,
 	title: "Stone Tools",
 	loot_size: 1,
 	rewards: [
 		{
 			item: {
 				id: "minecraft:stone_sword",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -15,7 +16,7 @@
 		{
 			item: {
 				id: "minecraft:stone_shovel",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -24,7 +25,7 @@
 		{
 			item: {
 				id: "minecraft:stone_pickaxe",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -33,7 +34,7 @@
 		{
 			item: {
 				id: "minecraft:stone_axe",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}
@@ -42,7 +43,7 @@
 		{
 			item: {
 				id: "minecraft:stone_hoe",
-				Count: true,
+				Count: 1b,
 				tag: {
 					Damage: 0
 				}

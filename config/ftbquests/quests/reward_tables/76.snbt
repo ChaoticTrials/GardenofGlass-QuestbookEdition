@@ -1,5 +1,6 @@
 {
-	id: 76,
+	id: "000000000000004C",
+	order_index: 12,
 	title: "Flower Reward",
 	loot_size: 1,
 	rewards: [
@@ -14,7 +15,7 @@
 		{
 			item: {
 				id: "botania:twig_wand",
-				Count: true,
+				Count: 1b,
 				tag: {
 					color1: 6,
 					color2: 10

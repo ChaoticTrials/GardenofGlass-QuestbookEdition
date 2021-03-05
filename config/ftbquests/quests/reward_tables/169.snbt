@@ -1,12 +1,13 @@
 {
-	id: 169,
+	id: "00000000000000A9",
+	order_index: 6,
 	title: "Enchanted Books",
 	loot_size: 1,
 	rewards: [
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 5,
@@ -19,7 +20,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 5,
@@ -32,7 +33,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 5,
@@ -45,7 +46,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 5,
@@ -58,7 +59,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 5,
@@ -71,7 +72,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -84,7 +85,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 2,
@@ -97,7 +98,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -110,7 +111,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -123,7 +124,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 6,
@@ -136,7 +137,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 6,
@@ -149,7 +150,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 6,
@@ -162,7 +163,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 3,
@@ -175,7 +176,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 3,
@@ -188,7 +189,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -201,7 +202,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -214,7 +215,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 6,
@@ -227,7 +228,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 2,
@@ -240,7 +241,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -253,7 +254,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -266,7 +267,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 6,
@@ -279,7 +280,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 3,
@@ -292,7 +293,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 2,
@@ -305,7 +306,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 2,
@@ -318,7 +319,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -331,7 +332,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -344,7 +345,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -357,7 +358,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 6,
@@ -370,7 +371,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -383,7 +384,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 2,
@@ -396,7 +397,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 2,
@@ -409,7 +410,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 4,
@@ -422,7 +423,7 @@
 		{
 			item: {
 				id: "minecraft:enchanted_book",
-				Count: true,
+				Count: 1b,
 				tag: {
 					StoredEnchantments: [{
 						lvl: 5,

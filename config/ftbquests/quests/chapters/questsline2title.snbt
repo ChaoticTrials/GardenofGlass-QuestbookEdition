@@ -1,7 +1,8 @@
 {
-	id: 21,
+	id: "0000000000000015",
+	group: "",
+	order_index: 2,
 	filename: "questsline2title",
-	order_index: 3,
 	title: "{quests.line2.title}",
 	icon: "botania:gaia_pylon",
 	subtitle: ["{quests.line2.desc}"],
@@ -13,25 +14,25 @@
 			x: -1.0d,
 			y: -2.5d,
 			subtitle: "{quests.id20.desc}",
-			dependencies: [I;133],
-			id: 194,
+			dependencies: ["0000000000000085"],
+			id: "00000000000000C2",
 			tasks: [
 				{
-					id: 195,
+					id: "00000000000000C3",
 					type: "item",
 					item: "botania:gaia_pylon",
 					count: 4L
 				},
 				{
-					id: 196,
+					id: "00000000000000C4",
 					type: "item",
 					item: "minecraft:beacon"
 				}
 			],
 			rewards: [{
-				id: 203,
+				id: "00000000000000CB",
 				type: "choice",
-				table: 8
+				table_id: 202L
 			}]
 		},
 		{
@@ -39,16 +40,16 @@
 			x: -3.0d,
 			y: 0.0d,
 			subtitle: "{quests.id21.desc}",
-			dependencies: [I;194],
-			id: 197,
+			dependencies: ["00000000000000C2"],
+			id: "00000000000000C5",
 			tasks: [{
-				id: 198,
+				id: "00000000000000C6",
 				type: "item",
 				item: "minecraft:end_portal_frame",
 				count: 12L
 			}],
 			rewards: [{
-				id: 204,
+				id: "00000000000000CC",
 				type: "item",
 				item: "minecraft:ender_eye",
 				count: 12
@@ -59,15 +60,15 @@
 			x: 1.0d,
 			y: 0.0d,
 			subtitle: "{quests.id22.desc}",
-			dependencies: [I;194],
-			id: 199,
+			dependencies: ["00000000000000C2"],
+			id: "00000000000000C7",
 			tasks: [{
-				id: 200,
+				id: "00000000000000C8",
 				type: "item",
 				item: "botania:gaia_spreader"
 			}],
 			rewards: [{
-				id: 205,
+				id: "00000000000000CD",
 				type: "item",
 				item: "botania:gaia_head"
 			}]

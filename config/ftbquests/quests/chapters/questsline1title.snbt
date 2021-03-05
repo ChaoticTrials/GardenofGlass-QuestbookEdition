@@ -1,11 +1,12 @@
 {
-	id: 20,
+	id: "0000000000000014",
+	group: "",
+	order_index: 1,
 	filename: "questsline1title",
-	order_index: 2,
 	title: "{quests.line1.title}",
 	icon: {
 		id: "aiotbotania:elementium_aiot",
-		Count: true,
+		Count: 1b,
 		tag: {
 			Damage: 0
 		}
@@ -18,27 +19,27 @@
 			x: -7.0d,
 			y: -3.5d,
 			subtitle: "{quests.id8.desc}",
-			dependencies: [I;
-				47,
-				49
+			dependencies: [
+				"000000000000002F",
+				"0000000000000031"
 			],
-			id: 115,
+			id: "0000000000000073",
 			tasks: [{
-				id: 116,
+				id: "0000000000000074",
 				type: "item",
 				item: {
 					id: "botania:mana_tablet",
-					Count: true,
+					Count: 1b,
 					tag: {}
 				},
 				consume_items: true
 			}],
 			rewards: [{
-				id: 139,
+				id: "000000000000008B",
 				type: "item",
 				item: {
 					id: "botania:mana_tablet",
-					Count: true,
+					Count: 1b,
 					tag: {
 						mana: 500000
 					}
@@ -51,20 +52,20 @@
 			x: -1.5d,
 			y: -3.5d,
 			subtitle: "{quests.id9.desc}",
-			dependencies: [I;
-				49,
-				47
+			dependencies: [
+				"0000000000000031",
+				"000000000000002F"
 			],
-			id: 117,
+			id: "0000000000000075",
 			tasks: [
 				{
-					id: 118,
+					id: "0000000000000076",
 					type: "item",
 					item: "botania:fel_pumpkin",
 					count: 10L
 				},
 				{
-					id: 140,
+					id: "000000000000008C",
 					type: "item",
 					item: "minecraft:iron_bars",
 					count: 32L
@@ -72,12 +73,12 @@
 			],
 			rewards: [
 				{
-					id: 141,
+					id: "000000000000008D",
 					type: "item",
 					item: "minecraft:obsidian"
 				},
 				{
-					id: 142,
+					id: "000000000000008E",
 					type: "item",
 					item: "minecraft:fire_charge"
 				}
@@ -89,39 +90,39 @@
 			x: -3.5d,
 			y: -2.5d,
 			subtitle: "{quests.id10.desc}",
-			dependencies: [I;117],
-			id: 119,
+			dependencies: ["0000000000000075"],
+			id: "0000000000000077",
 			tasks: [
 				{
-					id: 120,
+					id: "0000000000000078",
 					type: "item",
 					item: "botania:runic_altar"
 				},
 				{
-					id: 145,
+					id: "0000000000000091",
 					type: "item",
 					item: "botania:rune_water"
 				},
 				{
-					id: 146,
+					id: "0000000000000092",
 					type: "item",
 					item: "botania:rune_fire"
 				},
 				{
-					id: 147,
+					id: "0000000000000093",
 					type: "item",
 					item: "botania:rune_earth"
 				},
 				{
-					id: 148,
+					id: "0000000000000094",
 					type: "item",
 					item: "botania:rune_air"
 				}
 			],
 			rewards: [{
-				id: 149,
+				id: "0000000000000095",
 				type: "choice",
-				table: 1
+				table_id: 143L
 			}]
 		},
 		{
@@ -129,20 +130,20 @@
 			x: -5.642857142857146d,
 			y: -1.482142857142854d,
 			subtitle: "{quests.id11.desc}",
-			dependencies: [I;
-				115,
-				119
+			dependencies: [
+				"0000000000000073",
+				"0000000000000077"
 			],
-			id: 121,
+			id: "0000000000000079",
 			tasks: [{
-				id: 122,
+				id: "000000000000007A",
 				type: "item",
 				item: "botania:terra_plate"
 			}],
 			rewards: [{
-				id: 152,
+				id: "0000000000000098",
 				type: "choice",
-				table: 2
+				table_id: 150L
 			}]
 		},
 		{
@@ -151,31 +152,31 @@
 			x: -7.0d,
 			y: 1.0d,
 			subtitle: "{quests.id13.desc}",
-			dependencies: [I;115],
-			id: 123,
+			dependencies: ["0000000000000073"],
+			id: "000000000000007B",
 			tasks: [
 				{
-					id: 124,
+					id: "000000000000007C",
 					type: "item",
 					item: "minecraft:obsidian",
 					count: 17L
 				},
 				{
-					id: 171,
+					id: "00000000000000AB",
 					type: "item",
 					item: "botania:mana_pylon",
 					count: 6L
 				},
 				{
-					id: 172,
+					id: "00000000000000AC",
 					type: "item",
 					item: "botania:white_mystical_flower"
 				}
 			],
 			rewards: [{
-				id: 170,
+				id: "00000000000000AA",
 				type: "choice",
-				table: 6
+				table_id: 169L
 			}]
 		},
 		{
@@ -183,22 +184,22 @@
 			x: -4.0d,
 			y: 1.0d,
 			subtitle: "{quests.id14.desc}",
-			dependencies: [I;
-				55,
-				127,
-				121
+			dependencies: [
+				"0000000000000037",
+				"000000000000007F",
+				"0000000000000079"
 			],
-			id: 125,
+			id: "000000000000007D",
 			tasks: [{
-				id: 126,
+				id: "000000000000007E",
 				type: "item",
 				item: "botania:terrasteel_ingot",
 				count: 2L
 			}],
 			rewards: [{
-				id: 166,
+				id: "00000000000000A6",
 				type: "choice",
-				table: 5
+				table_id: 165L
 			}]
 		},
 		{
@@ -207,26 +208,26 @@
 			x: -1.5d,
 			y: -2.0d,
 			subtitle: "{quests.id12.desc}",
-			dependencies: [I;117],
-			id: 127,
+			dependencies: ["0000000000000075"],
+			id: "000000000000007F",
 			tasks: [
 				{
-					id: 128,
+					id: "0000000000000080",
 					type: "item",
 					item: "minecraft:blaze_rod",
 					count: 10L
 				},
 				{
-					id: 153,
+					id: "0000000000000099",
 					type: "item",
 					item: "minecraft:ghast_tear",
 					count: 3L
 				}
 			],
 			rewards: [{
-				id: 156,
+				id: "000000000000009C",
 				type: "choice",
-				table: 3
+				table_id: 154L
 			}]
 		},
 		{
@@ -235,31 +236,31 @@
 			x: 1.0d,
 			y: 0.8035714285714306d,
 			subtitle: "{quests.id15.desc}",
-			dependencies: [I;127],
-			id: 129,
+			dependencies: ["000000000000007F"],
+			id: "0000000000000081",
 			tasks: [
 				{
-					id: 130,
+					id: "0000000000000082",
 					type: "item",
 					item: "botania:brewery"
 				},
 				{
-					id: 157,
+					id: "000000000000009D",
 					type: "item",
 					item: "botania:vial",
 					count: 10L
 				},
 				{
-					id: 158,
+					id: "000000000000009E",
 					type: "item",
 					item: "botania:flask",
 					count: 10L
 				}
 			],
 			rewards: [{
-				id: 161,
+				id: "00000000000000A1",
 				type: "choice",
-				table: 4
+				table_id: 160L
 			}]
 		},
 		{
@@ -268,41 +269,41 @@
 			x: -1.2142857142857153d,
 			y: 2.4464285714285765d,
 			subtitle: "{quests.id16.desc}",
-			dependencies: [I;125],
-			id: 131,
+			dependencies: ["000000000000007D"],
+			id: "0000000000000083",
 			tasks: [
 				{
-					id: 132,
+					id: "0000000000000084",
 					type: "item",
 					item: "botania:alfheim_portal"
 				},
 				{
-					id: 173,
+					id: "00000000000000AD",
 					type: "item",
 					item: "botania:livingwood",
 					count: 8L
 				},
 				{
-					id: 174,
+					id: "00000000000000AE",
 					type: "item",
 					item: "botania:glimmering_livingwood",
 					count: 3L
 				},
 				{
-					id: 175,
+					id: "00000000000000AF",
 					type: "item",
 					item: "botania:natura_pylon",
 					count: 2L
 				},
 				{
-					id: 176,
+					id: "00000000000000B0",
 					type: "item",
 					item: "botania:mana_pool",
 					count: 2L
 				}
 			],
 			rewards: [{
-				id: 177,
+				id: "00000000000000B1",
 				type: "xp_levels",
 				xp_levels: 10
 			}]
@@ -313,28 +314,28 @@
 			x: -3.5d,
 			y: 3.5d,
 			subtitle: "{quests.id17.desc}",
-			dependencies: [I;
-				131,
-				125
+			dependencies: [
+				"0000000000000083",
+				"000000000000007D"
 			],
-			id: 133,
+			id: "0000000000000085",
 			tasks: [
 				{
-					id: 134,
+					id: "0000000000000086",
 					type: "item",
 					item: "botania:pixie_dust",
 					count: 3L,
 					consume_items: true
 				},
 				{
-					id: 178,
+					id: "00000000000000B2",
 					type: "item",
 					item: "botania:dragonstone",
 					count: 5L,
 					consume_items: true
 				},
 				{
-					id: 179,
+					id: "00000000000000B3",
 					type: "item",
 					item: "botania:elementium_ingot",
 					count: 10L,
@@ -343,55 +344,55 @@
 			],
 			rewards: [
 				{
-					id: 180,
+					id: "00000000000000B4",
 					type: "item",
 					item: {
 						id: "botania:elementium_helmet",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 181,
+					id: "00000000000000B5",
 					type: "item",
 					item: {
 						id: "botania:elementium_chestplate",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 182,
+					id: "00000000000000B6",
 					type: "item",
 					item: {
 						id: "botania:elementium_leggings",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 183,
+					id: "00000000000000B7",
 					type: "item",
 					item: {
 						id: "botania:elementium_boots",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 184,
+					id: "00000000000000B8",
 					type: "item",
 					item: {
 						id: "botania:elementium_sword",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
@@ -404,92 +405,92 @@
 			x: -5.5d,
 			y: 5.0d,
 			subtitle: "{quests.id18.desc}",
-			dependencies: [I;133],
-			id: 135,
+			dependencies: ["0000000000000085"],
+			id: "0000000000000087",
 			tasks: [
 				{
-					id: 136,
+					id: "0000000000000088",
 					type: "item",
 					item: {
 						id: "botania:elementium_helmet",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 186,
+					id: "00000000000000BA",
 					type: "item",
 					item: {
 						id: "botania:elementium_chestplate",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 187,
+					id: "00000000000000BB",
 					type: "item",
 					item: {
 						id: "botania:elementium_leggings",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 188,
+					id: "00000000000000BC",
 					type: "item",
 					item: {
 						id: "botania:elementium_boots",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 189,
+					id: "00000000000000BD",
 					type: "item",
 					item: {
 						id: "botania:elementium_pickaxe",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 190,
+					id: "00000000000000BE",
 					type: "item",
 					item: {
 						id: "botania:elementium_shovel",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 191,
+					id: "00000000000000BF",
 					type: "item",
 					item: {
 						id: "botania:elementium_axe",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
 					}
 				},
 				{
-					id: 192,
+					id: "00000000000000C0",
 					type: "item",
 					item: {
 						id: "botania:elementium_shovel",
-						Count: true,
+						Count: 1b,
 						tag: {
 							Damage: 0
 						}
@@ -497,11 +498,11 @@
 				}
 			],
 			rewards: [{
-				id: 193,
+				id: "00000000000000C1",
 				type: "item",
 				item: {
 					id: "aiotbotania:elementium_aiot",
-					Count: true,
+					Count: 1b,
 					tag: {
 						Damage: 0
 					}
@@ -513,21 +514,21 @@
 			x: -1.5d,
 			y: 5.0d,
 			subtitle: "{quests.id19.desc}",
-			dependencies: [I;133],
-			id: 137,
+			dependencies: ["0000000000000085"],
+			id: "0000000000000089",
 			tasks: [{
-				id: 138,
+				id: "000000000000008A",
 				type: "item",
 				item: {
 					id: "botania:flight_tiara",
-					Count: true,
+					Count: 1b,
 					tag: {
 						variant: 0
 					}
 				}
 			}],
 			rewards: [{
-				id: 185,
+				id: "00000000000000B9",
 				type: "item",
 				item: "minecraft:totem_of_undying"
 			}]

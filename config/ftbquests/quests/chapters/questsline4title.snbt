@@ -1,7 +1,8 @@
 {
-	id: 23,
+	id: "0000000000000017",
+	group: "",
+	order_index: 4,
 	filename: "questsline4title",
-	order_index: 5,
 	title: "{quests.line4.title}",
 	icon: "botania:dandelifeon",
 	subtitle: ["{quests.line4.desc}"],
@@ -12,45 +13,45 @@
 			x: -4.0d,
 			y: -2.5d,
 			subtitle: "{quests.id28.desc}",
-			id: 222,
+			id: "00000000000000DE",
 			tasks: [{
-				id: 223,
+				id: "00000000000000DF",
 				type: "item",
 				item: "botania:munchdew"
 			}],
 			rewards: [
 				{
-					id: 240,
+					id: "00000000000000F0",
 					type: "item",
 					item: "minecraft:oak_leaves",
 					count: 64
 				},
 				{
-					id: 241,
+					id: "00000000000000F1",
 					type: "item",
 					item: "minecraft:spruce_leaves",
 					count: 64
 				},
 				{
-					id: 242,
+					id: "00000000000000F2",
 					type: "item",
 					item: "minecraft:birch_leaves",
 					count: 32
 				},
 				{
-					id: 243,
+					id: "00000000000000F3",
 					type: "item",
 					item: "minecraft:jungle_leaves",
 					count: 64
 				},
 				{
-					id: 244,
+					id: "00000000000000F4",
 					type: "item",
 					item: "minecraft:acacia_leaves",
 					count: 64
 				},
 				{
-					id: 245,
+					id: "00000000000000F5",
 					type: "item",
 					item: "minecraft:dark_oak_leaves",
 					count: 64
@@ -62,33 +63,33 @@
 			x: -2.0d,
 			y: -2.5d,
 			subtitle: "{quests.id29.desc}",
-			id: 224,
+			id: "00000000000000E0",
 			tasks: [{
-				id: 225,
+				id: "00000000000000E1",
 				type: "item",
 				item: "botania:agricarnation"
 			}],
 			rewards: [
 				{
-					id: 246,
+					id: "00000000000000F6",
 					type: "item",
 					item: "minecraft:wheat_seeds",
 					count: 4
 				},
 				{
-					id: 247,
+					id: "00000000000000F7",
 					type: "item",
 					item: "minecraft:pumpkin_seeds",
 					count: 4
 				},
 				{
-					id: 248,
+					id: "00000000000000F8",
 					type: "item",
 					item: "minecraft:melon_seeds",
 					count: 4
 				},
 				{
-					id: 249,
+					id: "00000000000000F9",
 					type: "item",
 					item: "minecraft:beetroot_seeds",
 					count: 4
@@ -100,21 +101,21 @@
 			x: 0.0d,
 			y: -2.5d,
 			subtitle: "{quests.id30.desc}",
-			id: 226,
+			id: "00000000000000E2",
 			tasks: [{
-				id: 227,
+				id: "00000000000000E3",
 				type: "item",
 				item: "botania:entropinnyum"
 			}],
 			rewards: [
 				{
-					id: 250,
+					id: "00000000000000FA",
 					type: "item",
 					item: "minecraft:gunpowder",
 					count: 20
 				},
 				{
-					id: 251,
+					id: "00000000000000FB",
 					type: "item",
 					item: "minecraft:sand",
 					count: 16
@@ -126,14 +127,14 @@
 			x: -4.0d,
 			y: -0.5d,
 			subtitle: "{quests.id35.desc}",
-			id: 228,
+			id: "00000000000000E4",
 			tasks: [{
-				id: 229,
+				id: "00000000000000E5",
 				type: "item",
 				item: "botania:tigerseye"
 			}],
 			rewards: [{
-				id: 264,
+				id: "0000000000000108",
 				type: "item",
 				item: "botania:cosmetic_cat_ears"
 			}]
@@ -143,14 +144,14 @@
 			x: -4.0d,
 			y: 1.5d,
 			subtitle: "{quests.id34.desc}",
-			id: 230,
+			id: "00000000000000E6",
 			tasks: [{
-				id: 231,
+				id: "00000000000000E7",
 				type: "item",
 				item: "botania:rosa_arcana"
 			}],
 			rewards: [{
-				id: 263,
+				id: "0000000000000107",
 				type: "xp_levels",
 				xp_levels: 20
 			}]
@@ -160,20 +161,20 @@
 			x: -2.0d,
 			y: 1.5d,
 			subtitle: "{quests.id33.desc}",
-			id: 232,
+			id: "00000000000000E8",
 			tasks: [{
-				id: 233,
+				id: "00000000000000E9",
 				type: "item",
 				item: "botania:hopperhock"
 			}],
 			rewards: [
 				{
-					id: 261,
+					id: "0000000000000105",
 					type: "item",
 					item: "minecraft:item_frame"
 				},
 				{
-					id: 262,
+					id: "0000000000000106",
 					type: "item",
 					item: "ironchest:obsidian_chest"
 				}
@@ -184,19 +185,19 @@
 			x: 0.0d,
 			y: 1.5d,
 			subtitle: "{quests.id32.desc}",
-			id: 234,
+			id: "00000000000000EA",
 			tasks: [{
-				id: 235,
+				id: "00000000000000EB",
 				type: "item",
 				item: "botania:kekimurus"
 			}],
 			rewards: [
 				{
-					id: 253,
+					id: "00000000000000FD",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -206,11 +207,11 @@
 					}
 				},
 				{
-					id: 254,
+					id: "00000000000000FE",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -220,11 +221,11 @@
 					}
 				},
 				{
-					id: 255,
+					id: "00000000000000FF",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -234,11 +235,11 @@
 					}
 				},
 				{
-					id: 256,
+					id: "0000000000000100",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -248,11 +249,11 @@
 					}
 				},
 				{
-					id: 257,
+					id: "0000000000000101",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -262,11 +263,11 @@
 					}
 				},
 				{
-					id: 258,
+					id: "0000000000000102",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -276,11 +277,11 @@
 					}
 				},
 				{
-					id: 259,
+					id: "0000000000000103",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -290,11 +291,11 @@
 					}
 				},
 				{
-					id: 260,
+					id: "0000000000000104",
 					type: "item",
 					item: {
 						id: "minecraft:cake",
-						Count: true,
+						Count: 1b,
 						tag: {
 							RepairCost: 0,
 							display: {
@@ -310,14 +311,14 @@
 			x: 0.0d,
 			y: -0.5d,
 			subtitle: "{quests.id31.desc}",
-			id: 236,
+			id: "00000000000000EC",
 			tasks: [{
-				id: 237,
+				id: "00000000000000ED",
 				type: "item",
 				item: "botania:bellethorn"
 			}],
 			rewards: [{
-				id: 252,
+				id: "00000000000000FC",
 				type: "item",
 				item: "botania:teru_teru_bozu"
 			}]
@@ -328,21 +329,21 @@
 			x: -2.0d,
 			y: -0.5d,
 			description: ["{quests.id36.desc}"],
-			dependencies: [I;
-				224,
-				236,
-				226,
-				232,
-				234,
-				222,
-				230,
-				228
+			dependencies: [
+				"00000000000000E0",
+				"00000000000000EC",
+				"00000000000000E2",
+				"00000000000000E8",
+				"00000000000000EA",
+				"00000000000000DE",
+				"00000000000000E6",
+				"00000000000000E4"
 			],
 			hide: true,
 			size: 2.5d,
-			id: 238,
+			id: "00000000000000EE",
 			tasks: [{
-				id: 239,
+				id: "00000000000000EF",
 				type: "item",
 				item: "minecraft:dandelion"
 			}]

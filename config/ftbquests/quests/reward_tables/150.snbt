@@ -1,5 +1,6 @@
 {
-	id: 150,
+	id: "0000000000000096",
+	order_index: 2,
 	title: "Plate Table",
 	loot_size: 1,
 	rewards: [

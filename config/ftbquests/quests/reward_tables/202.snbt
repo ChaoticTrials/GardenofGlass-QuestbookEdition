@@ -1,12 +1,13 @@
 {
-	id: 202,
+	id: "00000000000000CA",
+	order_index: 8,
 	title: "Pendants",
 	loot_size: 1,
 	rewards: [
 		{
 			item: {
 				id: "botania:blood_pendant",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:speed"
 				}
@@ -15,7 +16,7 @@
 		{
 			item: {
 				id: "botania:blood_pendant",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:strength"
 				}
@@ -24,7 +25,7 @@
 		{
 			item: {
 				id: "botania:blood_pendant",
-				Count: true,
+				Count: 1b,
 				tag: {
 					brewKey: "botania:regen"
 				}
