@@ -58,6 +58,13 @@ def main():
          '--detailed']
     )
 
+    print('Create empty overrides folder.')
+    target_dir = os.path.join('build', 'overrides')
+    if os.path.isdir(target_dir):
+        shutil.rmtree(target_dir)
+
+    os.makedirs(target_dir)
+
     print('Prepare CurseForge pack.')
     createModpackZip(manifest, gitignore)
 
@@ -65,7 +72,7 @@ def main():
     createServerZip(manifest, gitignore)
 
     print('Uploading to GitHub')
-    uploadToGithub(token, manifest)
+    # uploadToGithub(token, manifest)
 
     print('Done')
 
@@ -84,13 +91,12 @@ def createModpackZip(manifest, gitignore):
          '--output', targetDir]
     )
 
-    # Not needed at the moment
-    # print('Copy overrides')
-    # with open('overrides.txt') as file:
-    #     overrides = [x.strip() for x in file.read().split('\n')]
-    # shutil.copytree(os.path.join('build', 'overrides'), targetDir + os.path.sep + manifest['overrides'])
-    # for entry in overrides:
-    #     copyNotGitignoreTree('.', targetDir + os.path.sep + manifest['overrides'], entry, gitignore)
+    print('Copy overrides')
+    with open('overrides.txt') as file:
+        overrides = [x.strip() for x in file.read().split('\n')]
+    shutil.copytree(os.path.join('build', 'overrides'), targetDir + os.path.sep + manifest['overrides'])
+    for entry in overrides:
+        copyNotGitignoreTree('.', targetDir + os.path.sep + manifest['overrides'], entry, gitignore)
 
     print('Create archive')
     shutil.make_archive(os.path.join('build', 'curseforge'), 'zip', targetDir)
@@ -118,13 +124,12 @@ def createServerZip(manifest, gitignore):
     print('Copy server files')
     shutil.copytree('serverdata', targetDir, dirs_exist_ok=True)
 
-    # Not needed at the moment
-    # print('Copy overrides')
-    # with open('overrides.txt') as file:
-    #     overrides = [x.strip() for x in file.read().split('\n')]
-    # shutil.copytree(os.path.join('build', 'overrides'), targetDir, dirs_exist_ok=True)
-    # for entry in overrides:
-    #     copyNotGitignoreTree('.', targetDir, entry, gitignore)
+    print('Copy overrides')
+    with open('overrides.txt') as file:
+        overrides = [x.strip() for x in file.read().split('\n')]
+    shutil.copytree(os.path.join('build', 'overrides'), targetDir, dirs_exist_ok=True)
+    for entry in overrides:
+        copyNotGitignoreTree('.', targetDir, entry, gitignore)
 
     print('Generate server files')
     with open(targetDir + os.path.sep + 'server.properties', mode='w') as f:
