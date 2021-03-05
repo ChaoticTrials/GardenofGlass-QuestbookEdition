@@ -84,12 +84,13 @@ def createModpackZip(manifest, gitignore):
          '--output', targetDir]
     )
 
-    print('Copy overrides')
-    with open('overrides.txt') as file:
-        overrides = [x.strip() for x in file.read().split('\n')]
-    shutil.copytree(os.path.join('build', 'overrides'), targetDir + os.path.sep + manifest['overrides'])
-    for entry in overrides:
-        copyNotGitignoreTree('.', targetDir + os.path.sep + manifest['overrides'], entry, gitignore)
+    # Not needed at the moment
+    # print('Copy overrides')
+    # with open('overrides.txt') as file:
+    #     overrides = [x.strip() for x in file.read().split('\n')]
+    # shutil.copytree(os.path.join('build', 'overrides'), targetDir + os.path.sep + manifest['overrides'])
+    # for entry in overrides:
+    #     copyNotGitignoreTree('.', targetDir + os.path.sep + manifest['overrides'], entry, gitignore)
 
     print('Create archive')
     shutil.make_archive(os.path.join('build', 'curseforge'), 'zip', targetDir)
@@ -117,12 +118,13 @@ def createServerZip(manifest, gitignore):
     print('Copy server files')
     shutil.copytree('serverdata', targetDir, dirs_exist_ok=True)
 
-    print('Copy overrides')
-    with open('overrides.txt') as file:
-        overrides = [x.strip() for x in file.read().split('\n')]
-    shutil.copytree(os.path.join('build', 'overrides'), targetDir, dirs_exist_ok=True)
-    for entry in overrides:
-        copyNotGitignoreTree('.', targetDir, entry, gitignore)
+    # Not needed at the moment
+    # print('Copy overrides')
+    # with open('overrides.txt') as file:
+    #     overrides = [x.strip() for x in file.read().split('\n')]
+    # shutil.copytree(os.path.join('build', 'overrides'), targetDir, dirs_exist_ok=True)
+    # for entry in overrides:
+    #     copyNotGitignoreTree('.', targetDir, entry, gitignore)
 
     print('Generate server files')
     with open(targetDir + os.path.sep + 'server.properties', mode='w') as f:

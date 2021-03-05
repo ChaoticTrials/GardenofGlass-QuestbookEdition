@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "4.2.0",
+    "version": "4.2.1",
     "author": "MelanX",
     "projectID": 275351,
     "name": "Garden of Glass (Questbook Edition)",
@@ -215,6 +215,16 @@
             "_displayName": "LibX",
             "projectID": 412525,
             "fileID": 3159549
+        },
+        {
+            "_displayName": "Lootr",
+            "projectID": 361276,
+            "fileID": 3224494
+        },
+        {
+            "_displayName": "MelanX Tweaks",
+            "projectID": 289799,
+            "fileID": 3179878
         },
         {
             "_displayName": "More Overlays Updated",
