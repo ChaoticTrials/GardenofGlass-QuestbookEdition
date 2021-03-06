@@ -2,7 +2,7 @@
 [![Bugs label](https://img.shields.io/github/issues/MelanX/GardenofGlass-QuestbookEdition/bug)](https://github.com/MelanX/GardenofGlass-QuestbookEdition/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 [![GitHub license](https://img.shields.io/github/license/MelanX/GardenofGlass-QuestbookEdition.svg)](https://github.com/MelanX/GardenofGlass-QuestbookEdition/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/MelanX/GardenofGlass-QuestbookEdition.svg)](https://GitHub.com/MelanX/GardenofGlass-QuestbookEdition/releases/)
-[![CastCrafter Server](https://img.shields.io/discord/133198459531558912.svg?color=7289da&label=MelanX%20Server&logo=discord&style=flat-square)](https://discord.gg/u8ZE5Ts)
+[![CastCrafter Server](https://img.shields.io/discord/411271477128724482.svg?color=7289da&label=MelanX%20Server&logo=discord&style=flat-square)](https://discord.gg/u8ZE5Ts)
 
 ### This modpack puts your knowledge to the test!
 
