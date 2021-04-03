@@ -13,17 +13,20 @@
 !config
 !config/defaultoptions
 !config/defaultoptions/*
-!config/defaultworldtype
-!config/defaultworldtype/client-config.toml
 !config/fancymenu
 !config/fancymenu/*
 !config/fancymenu/customization
 !config/fancymenu/customization/*
+!config/forge-common.toml
 !config/ftbquests
 !config/ftbquests/**
 !config/ftbultimine.json5
 !config/botanicalmachinery-client.toml
 !config/sidebar_buttons.json
+!config/skyblockbuilder
+!config/skyblockbuilder/config.toml
+!config/skyblockbuilder/spawns.json
+!config/skyblockbuilder/template.nbt
 !config/theoneprobe-*.toml
 !config/twerk-config.toml
 !config/lootr-common.toml # still need to add
