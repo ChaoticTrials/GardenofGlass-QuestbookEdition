@@ -449,6 +449,17 @@
 							Damage: 0
 						}
 					}
+				},
+				{
+					id: "3D69FBD6288134E5",
+					type: "item",
+					item: {
+						id: "botania:manasteel_hoe",
+						Count: 1b,
+						tag: {
+							Damage: 0
+						}
+					}
 				}
 			],
 			rewards: [{

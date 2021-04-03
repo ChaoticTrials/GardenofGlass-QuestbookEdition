@@ -878,7 +878,13 @@
 			}
 		},
 		{
-			item: "botania:elementium_shears"
+			item: {
+				id: "botania:elementium_shears",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: {
@@ -1730,7 +1736,13 @@
 			}
 		},
 		{
-			item: "botania:manasteel_shears"
+			item: {
+				id: "botania:manasteel_shears",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			}
 		},
 		{
 			item: {

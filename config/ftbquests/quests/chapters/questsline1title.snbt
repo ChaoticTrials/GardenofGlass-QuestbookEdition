@@ -488,7 +488,18 @@
 					id: "00000000000000C0",
 					type: "item",
 					item: {
-						id: "botania:elementium_shovel",
+						id: "botania:elementium_hoe",
+						Count: 1b,
+						tag: {
+							Damage: 0
+						}
+					}
+				},
+				{
+					id: "3F40D35E01322B98",
+					type: "item",
+					item: {
+						id: "botania:elementium_sword",
 						Count: 1b,
 						tag: {
 							Damage: 0
