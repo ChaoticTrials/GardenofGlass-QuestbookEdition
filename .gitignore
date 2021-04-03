@@ -17,6 +17,8 @@
 !config/defaultworldtype/client-config.toml
 !config/fancymenu
 !config/fancymenu/*
+!config/fancymenu/customization
+!config/fancymenu/customization/*
 !config/ftbquests
 !config/ftbquests/**
 !config/ftbultimine.json5

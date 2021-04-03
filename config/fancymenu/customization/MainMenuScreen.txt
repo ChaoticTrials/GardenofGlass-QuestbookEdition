@@ -1,0 +1,96 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  path = kubejs/assets/modpack/textures/background.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = Multiplayer
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/buttons/button_hovered.png
+  backgroundnormal = kubejs/assets/modpack/textures/buttons/button.png
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/buttons/button2_hovered.png
+  backgroundnormal = kubejs/assets/modpack/textures/buttons/button2.png
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/buttons/button2_hovered.png
+  backgroundnormal = kubejs/assets/modpack/textures/buttons/button2.png
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/buttons/button_hovered.png
+  backgroundnormal = kubejs/assets/modpack/textures/buttons/button.png
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/buttons/button2_hovered.png
+  backgroundnormal = kubejs/assets/modpack/textures/buttons/button2.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/buttons/button2_hovered.png
+  backgroundnormal = kubejs/assets/modpack/textures/buttons/button2.png
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  backgroundhovered = kubejs/assets/modpack/textures/icons/bisect_hosting.png
+  description = Create Server
+  label = 
+  hoverlabel = 
+  x = 103
+  width = 20
+  action = addbutton
+  y = -18
+  backgroundnormal = kubejs/assets/modpack/textures/icons/bisect_hosting.png
+  value = https://bisecthosting.com/melanx
+  height = 20
+}
+
+customization {
+  path = kubejs/assets/modpack/textures/logo_gog.png
+  orientation = top-centered
+  x = -126
+  width = 250
+  action = addtexture
+  y = 25
+  height = 100
+}
+
