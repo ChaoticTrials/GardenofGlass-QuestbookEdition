@@ -49,7 +49,7 @@
 		{
 			title: "{quests.id9.title}",
 			icon: "botania:fel_pumpkin",
-			x: -1.5d,
+			x: -1.0d,
 			y: -3.5d,
 			subtitle: "{quests.id9.desc}",
 			dependencies: [
@@ -87,8 +87,8 @@
 		{
 			title: "{quests.id10.title}",
 			icon: "botania:runic_altar",
-			x: -3.5d,
-			y: -2.5d,
+			x: -3.0d,
+			y: -2.625d,
 			subtitle: "{quests.id10.desc}",
 			dependencies: ["0000000000000075"],
 			id: "0000000000000077",
@@ -205,7 +205,7 @@
 		{
 			title: "{quests.id12.title}",
 			icon: "minecraft:blaze_rod",
-			x: -1.5d,
+			x: 1.0d,
 			y: -2.0d,
 			subtitle: "{quests.id12.desc}",
 			dependencies: ["0000000000000075"],
@@ -541,6 +541,20 @@
 				id: "00000000000000B9",
 				type: "item",
 				item: "minecraft:totem_of_undying"
+			}]
+		},
+		{
+			title: "{quests.id56.title}",
+			x: -2.0d,
+			y: -1.5d,
+			subtitle: "{quests.id56.desc}",
+			dependencies: ["0000000000000077"],
+			dependency_requirement: "all_started",
+			id: "272A35CCC498E54B",
+			tasks: [{
+				id: "302E9109E84678CC",
+				type: "item",
+				item: "botania:water_rod"
 			}]
 		}
 	]

@@ -13,6 +13,7 @@
   "quests.line4.desc": "Botania adds a lot of new plants. Many help you to make tasks more managable. Let's have a look at the most essential ones.",
   "quests.line5.desc": "That's the collection of quests which are for time that you can be afk on the world. Then you can have fun in Minecraft and don't have to find any other activity.",
   "quests.line6.desc": "Botania is an awesome mod and many users are creating mods for Botania. A few were added here. Let's find out more about them.",
+
   "_comment": "line 0",
   "quests.id0.title": "My first Cobblestone",
   "quests.id1.title": "Old but Gold!",
@@ -30,6 +31,7 @@
   "quests.id5.desc": "It's getting dark and uncomfortable. Monsters start to spawn around you. Maybe it's a good idea to build yourself a Mob Farm, don't you think?",
   "quests.id6.desc": "Minecraft without ores? What are you thinking?! The Orechid will help you with that. Just place down some Stone near it, give it some of your Mana and let the \"mining\" begin!",
   "quests.id7.desc": "When life gives you §1Manasteel§r, use it to craft a set of armor and tools! Those use mana instead of just breaking apart! A mana storing item has to be in the inventory in order to use mana.",
+
   "_comment": "line 1",
   "quests.id8.title": "Mana Tablet",
   "quests.id9.title": "Creating Blazes",
@@ -43,6 +45,7 @@
   "quests.id17.title": "Elven Trade",
   "quests.id18.title": "Elementium Equipment",
   "quests.id19.title": "Somewhere over the rainbow",
+  "quests.id56.title": "Infinite water",
   "quests.id8.desc": "Mana in a Pool? Everyone can do that, but a Manatablet? That is something special! You'll need the Mana Tablet to craft special armour and tools, all of which can be repaired using Mana! But beware: If there's no Mana left, your tools will start to break.",
   "quests.id9.desc": "In order to get to the Nether, you need Obsidian. To get Obsidian you need Blaze Powder. And last, but not least: For Blazes you need Fel Pumpkins und Iron Bars. Pretty cumbersome if you ask me...",
   "quests.id10.desc": "Runes are the key to a whole lot of resources, flowers and more. Note that for some items you have to go to the Nether and get some stuff from there.",
@@ -55,6 +58,8 @@
   "quests.id17.desc": "Elves are really kind. They really enjoy trading and they'll always give you pink stuff in exchange for blue stuff. But that'll cost you a teeny, tiny bit of Mana.",
   "quests.id18.desc": "Well, you've already got that §1blue armor§r, but everybody knows: Only cool people wear pink! Go ahead and craft yourself a set of §5pink gear§r and recieve a pink AIOT on the house! (Only while supplies last)",
   "quests.id19.desc": "You want to be better than all those people out there. You want to go up in the air and fly away! Don't let your dreams be dreams! Just do it!",
+  "quests.id56.desc": "You want to have infinite water? Try this rod, it places water when you give it mana via a tablet, ring, or whatever.",
+
   "_comment": "line 2",
   "quests.id20.title": "The basic Gaia",
   "quests.id21.title": "The End",
@@ -62,6 +67,7 @@
   "quests.id20.desc": "For this Ritual of Gaia you'll need a few things: Those pesky Gaia Pylons and a Beacon with a base.",
   "quests.id21.desc": "You know the drill: Place twelve End Portal Frames from the inside in a circle-ish formation around yourself. But be careful: Don't place them down from the outside, as you can't rearrange them again later. Again: Place them around yourself from the INSIDE and NOT from the OUTSIDE!",
   "quests.id22.desc": "Gaia Mana Spreaders are four times as quick in, well, spreading Mana as their normal counterpart. That's it basically.",
+
   "_comment": "line 3",
   "quests.id23.title": "Wither Preparation",
   "quests.id24.title": "Wither",
@@ -73,6 +79,7 @@
   "quests.id25.desc": "You have to sacrifice your precious Terrasteel Ingot. I'm sorry for you. But I hope for you that you can kill the Gaia first try. Otherwise you'll have to sacrifice another Ingot for every new try. And never forget: That is the easy Gaia.",
   "quests.id26.desc": "You killed the first, and easy, Gaia victoriously. Now sacrifice your all of your Essence and kill the second, much harder iteration of the Gaia. Or else your Essence will be gone. Forever.\nGood Luck! You'll need it.",
   "quests.id27.desc": "After killing the Gaia, the Ender Dragon shouldn't be a problem any more. Easy peasy. Just a little smudge in the path to eternal world domination! Muahahahaha!",
+
   "_comment": "line 4",
   "quests.id28.title": "Munchdew",
   "quests.id29.title": "Agricarnation",
@@ -92,6 +99,7 @@
   "quests.id34.desc": "Rosa Arcana sucks up your experience points and gives you something in return, something that you're in dire need of: I'm talking about mana, of course. The more experience points you have, the more mana you get. You know the drill.",
   "quests.id35.desc": "Creepers get on your nerves? They blow you up in thousand pieces? Well, you're out of luck. Wait.. no, you're not! Tigerseye will help you out! Thanks to it, Creepers don't explode nearby anymore!",
   "quests.id36.desc": "The title says it all - what the heck?! Just Dandelion?! Yeah... Sorry, only Clinton will find this Hillaryous.",
+
   "_comment": "line 5",
   "quests.id37.title": "Animals",
   "quests.id38.title": "Generating Flowers",
@@ -117,6 +125,7 @@
   "quests.id46.desc": "Potions are wonderful. You can drink them for almost every possible effect. But sadly just once. What would you say if I were to tell you that you can drink those potions up to six times!? What? You already know that? Then why are you still standing there?! Those Flasks are really helpful in battle against the Gaia.",
   "quests.id47.desc": "Rods are useful. Very useful in fact. You can place down an unlimited amount of Dirt, you can make the whole world your swimming pool, heck, you can even fly with those items! There are so many different Rods for so many different tasks. Just give every single one of them a try.",
   "quests.id48.desc": "You need some music for your uber-cool party? Maybe you'll find the right tracks in this collection. You just have to get all of them. Then the party can start. But don't drink to much, Potions are expensive.",
+
   "_comment": "line 6",
   "quests.id49.title": "Fastest collection ever",
   "quests.id50.title": "Elves have new materials?",
