@@ -11,6 +11,52 @@ customization {
 }
 
 customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-centered
+  buttonaction = openlink
+  backgroundhovered = kubejs/assets/modpack/textures/icons/bisect_hosting.png
+  description = Create Server
+  label = 
+  hoverlabel = 
+  x = 104
+  width = 20
+  actionid = 45f1d98b-4f0a-4b91-9097-da53f6ff4c7c1618522544373
+  action = addbutton
+  y = 156
+  backgroundnormal = kubejs/assets/modpack/textures/icons/bisect_hosting.png
+  value = https://bisecthosting.com/melanx
+  height = 20
+}
+
+customization {
+  path = kubejs/assets/modpack/textures/logo_gog.png
+  orientation = top-centered
+  x = -125
+  width = 250
+  action = addtexture
+  actionid = 9d561fe5-54d8-4551-b525-8e9f0bcc29061618522359377
+  y = 21
+  height = 100
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 156
+}
+
+customization {
   identifier = %id=400322%
   action = setbuttonlabel
   value = Multiplayer
@@ -25,9 +71,25 @@ customization {
 
 customization {
   identifier = %id=400382%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 216
+}
+
+customization {
+  identifier = %id=400382%
   action = setbuttontexture
   backgroundhovered = kubejs/assets/modpack/textures/buttons/button2_hovered.png
   backgroundnormal = kubejs/assets/modpack/textures/buttons/button2.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = top-centered
+  x = 2
+  action = movebutton
+  y = 216
 }
 
 customization {
@@ -39,9 +101,25 @@ customization {
 
 customization {
   identifier = %id=400298%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 132
+}
+
+customization {
+  identifier = %id=400298%
   action = setbuttontexture
   backgroundhovered = kubejs/assets/modpack/textures/buttons/button_hovered.png
   backgroundnormal = kubejs/assets/modpack/textures/buttons/button.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = top-centered
+  x = -100
+  action = movebutton
+  y = 180
 }
 
 customization {
@@ -53,44 +131,16 @@ customization {
 
 customization {
   identifier = %id=502346%
+  orientation = top-centered
+  x = 2
+  action = movebutton
+  y = 180
+}
+
+customization {
+  identifier = %id=502346%
   action = setbuttontexture
   backgroundhovered = kubejs/assets/modpack/textures/buttons/button2_hovered.png
   backgroundnormal = kubejs/assets/modpack/textures/buttons/button2.png
-}
-
-customization {
-  identifier = %id=604382%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=376382%
-  action = hidebutton
-}
-
-customization {
-  orientation = mid-centered
-  buttonaction = openlink
-  backgroundhovered = kubejs/assets/modpack/textures/icons/bisect_hosting.png
-  description = Create Server
-  label = 
-  hoverlabel = 
-  x = 103
-  width = 20
-  action = addbutton
-  y = -18
-  backgroundnormal = kubejs/assets/modpack/textures/icons/bisect_hosting.png
-  value = https://bisecthosting.com/melanx
-  height = 20
-}
-
-customization {
-  path = kubejs/assets/modpack/textures/logo_gog.png
-  orientation = top-centered
-  x = -126
-  width = 250
-  action = addtexture
-  y = 25
-  height = 100
 }
 
