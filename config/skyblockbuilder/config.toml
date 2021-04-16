@@ -14,7 +14,7 @@
 
 	[dimensions.nether]
 		#Should nether generate as in default world type? [default: false]
-		default = true
+		default = false
 
 	[dimensions.end]
 		#Should end generate as in default world type? [default: false]

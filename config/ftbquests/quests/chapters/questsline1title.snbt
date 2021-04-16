@@ -555,6 +555,11 @@
 				id: "302E9109E84678CC",
 				type: "item",
 				item: "botania:water_rod"
+			}],
+			rewards: [{
+				id: "5EF1AC22A69B3C7A",
+				type: "item",
+				item: "botania:open_bucket"
 			}]
 		}
 	]
