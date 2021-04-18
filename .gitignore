@@ -38,7 +38,7 @@
 !kubejs/assets
 !kubejs/assets/**
 !kubejs/config
-!kubejs/config/client.properties
+!kubejs/config/*
 !kubejs/startup_scripts
 !kubejs/startup_scripts/*
 
