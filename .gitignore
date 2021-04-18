@@ -21,7 +21,8 @@
 !config/ftbquests
 !config/ftbquests/**
 !config/ftbultimine.json5
-!config/botanicalmachinery-client.toml
+!config/botanicalmachinery
+!config/botanicalmachinery/*
 !config/sidebar_buttons.json
 !config/skyblockbuilder
 !config/skyblockbuilder/config.toml
