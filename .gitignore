@@ -12,7 +12,8 @@
 # selected configs
 !config
 !config/defaultoptions
-!config/defaultoptions/*
+!config/defaultoptions/options.txt
+!config/defaultoptions/servers.dat
 !config/fancymenu
 !config/fancymenu/*
 !config/fancymenu/customization

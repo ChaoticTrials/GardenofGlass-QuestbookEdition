@@ -4,6 +4,7 @@ import json
 import os
 import shutil
 import subprocess
+import urllib.parse
 from urllib.request import Request, urlopen
 
 import gitignore_parser
@@ -194,6 +195,7 @@ def uploadToGithub(token, manifest):
 
 
 def uploadFileToRelease(token, release_id, manifest, mime, basename, suffix, path):
+    basename = urllib.parse.quote(basename, safe="/:@?=&")
     request = Request(
         f'https://uploads.github.com/repos/MelanX/GardenofGlass-QuestbookEdition/releases/{release_id}/assets?name={basename}-v{manifest["version"]}.{suffix}',
         method='POST')

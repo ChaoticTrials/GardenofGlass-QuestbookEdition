@@ -274,6 +274,131 @@
             "_displayName": "MelanX Tweaks",
             "projectID": 289799,
             "fileID": 3179878
+        },
+        "037c363f9e2a0502fdef16250b690d7e": {
+            "_displayName": "AIOT Botania",
+            "projectID": 294815,
+            "fileID": 3261322
+        },
+        "ce8d883c2114d4a00ac7d1067616bab1": {
+            "_displayName": "Architectury API (Forge)",
+            "projectID": 419699,
+            "fileID": 3279826
+        },
+        "dd49c70707685e4ae437dc680a6909b0": {
+            "_displayName": "Botania",
+            "projectID": 225643,
+            "fileID": 3233810
+        },
+        "ab225e3cd63979378fd334c09f5f0a37": {
+            "_displayName": "Botanical Machinery",
+            "projectID": 395617,
+            "fileID": 3279377
+        },
+        "2b86a2435d49a120e31aa4c135db529b": {
+            "_displayName": "Cloth Config API (Forge)",
+            "projectID": 348521,
+            "fileID": 3261152
+        },
+        "d537c97225e96069bfcc1dd4916f9972": {
+            "_displayName": "Construction Wand",
+            "projectID": 399558,
+            "fileID": 3257486
+        },
+        "ab9c725a289f88a2df897fb0e3fd443b": {
+            "_displayName": "Curios API (Forge)",
+            "projectID": 309927,
+            "fileID": 3275653
+        },
+        "e91c720fe7a0d5f09d4699a980f8648a": {
+            "_displayName": "FancyMenu [Forge]",
+            "projectID": 367706,
+            "fileID": 3256196
+        },
+        "1e212d41ceb23cdf505f39372b746890": {
+            "_displayName": "FastWorkbench",
+            "projectID": 288885,
+            "fileID": 3245271
+        },
+        "7a0a6c10697b950de75412db7911ac8c": {
+            "_displayName": "FTB Chunks",
+            "projectID": 314906,
+            "fileID": 3248884
+        },
+        "8829c5d5309ce8de2ba48f3c39a664e5": {
+            "_displayName": "FTB GUI Library",
+            "projectID": 404465,
+            "fileID": 3237039
+        },
+        "518d5298b75c77a81649f679bb97b3cf": {
+            "_displayName": "FTB Quests",
+            "projectID": 289412,
+            "fileID": 3249257
+        },
+        "d98be0ee3566894839c04edec20dda78": {
+            "_displayName": "FTB Teams",
+            "projectID": 404468,
+            "fileID": 3237174
+        },
+        "ff8699b07a70a4ec08678baecfcf413b": {
+            "_displayName": "FTB Ultimine",
+            "projectID": 386134,
+            "fileID": 3269868
+        },
+        "45f41ec5fd645c15d91d7f599749904e": {
+            "_displayName": "Botania: Garden of Glass",
+            "projectID": 232502,
+            "fileID": 3228528
+        },
+        "2c3387249faa23c097cec4d63d7494e2": {
+            "_displayName": "GraveStone Mod",
+            "projectID": 238551,
+            "fileID": 3280656
+        },
+        "6e20d210278890b9e69968d9ab014d84": {
+            "_displayName": "Item Filters",
+            "projectID": 309674,
+            "fileID": 3231742
+        },
+        "20a4a8831f76dcb3122635e2d3681db3": {
+            "_displayName": "Konkrete [Forge]",
+            "projectID": 410295,
+            "fileID": 3279152
+        },
+        "51bdc4e7c6d6971c018f041616d22ced": {
+            "_displayName": "KubeJS",
+            "projectID": 238086,
+            "fileID": 3269810
+        },
+        "3790757e07a1a3660a8900e96cad69d0": {
+            "_displayName": "LibX",
+            "projectID": 412525,
+            "fileID": 3275772
+        },
+        "046c0f9707c7599a3c45b1a5c0e3c2a0": {
+            "_displayName": "Lootr",
+            "projectID": 361276,
+            "fileID": 3272069
+        },
+        "cfbf6e7a7dfd23cbe54daca0c1d7de2c": {
+            "_displayName": "MineMention",
+            "projectID": 460925,
+            "fileID": 3251921
+        },
+        "43234a99dc2efd16fce96dab47483af5": {
+            "_displayName": "MelanX Tweaks",
+            "projectID": 289799,
+            "fileID": 3281061
+        },
+        "df5d356461b57bfcc5161f420bc48f8a": {
+            "_displayName": "MythicBotany",
+            "projectID": 400058,
+            "fileID": 3276052
+        },
+        "437563bc6bbf30cef38ca1c9ec880dc3": {
+            "_displayName": "Skyblock Builder",
+            "projectID": 446691,
+            "fileID": 3259739
         }
     },
     "modid_map": {
