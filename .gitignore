@@ -23,6 +23,7 @@
 !config/ftbultimine.json5
 !config/botanicalmachinery
 !config/botanicalmachinery/*
+!config/minemention.json5
 !config/sidebar_buttons.json
 !config/skyblockbuilder
 !config/skyblockbuilder/config.toml
