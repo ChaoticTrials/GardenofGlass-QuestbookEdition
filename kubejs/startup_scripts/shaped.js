@@ -90,7 +90,7 @@ function manaInfusion(result, input, mana, catalyst) {
         result: Item.of(result).toResultJson(),
         input: Ingredient.of(input).toJson(),
         mana: mana,
-        catalyst: {type: 'block', name: catalyst}
+        catalyst: {type: 'block', block: catalyst}
     };
 }
 
