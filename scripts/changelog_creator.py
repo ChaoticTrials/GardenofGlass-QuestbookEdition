@@ -143,7 +143,7 @@ def modsChanges(new_manifest_data: dict, file_name: str):
             removed.append(mod)
 
     with open(file_name, "a", encoding="utf-8") as f:
-        appendFile(f, "# Changelog for Garden of Glass (Questbook Edition) " + manifest_data['version'])
+        appendFile(f, "# Changelog for Garden of Glass (Questbook Edition) " + new_manifest_data['version'])
         if len(updated) > 0 or len(added) > 0 or len(removed) > 0 or len(updated) > 0:
             appendFile(f, "## Mod Changes")
 
