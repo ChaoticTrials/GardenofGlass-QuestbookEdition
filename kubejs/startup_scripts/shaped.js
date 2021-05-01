@@ -27,7 +27,8 @@ events.listen('recipes', function (event) {
 
     const daisy = [
         pureDaisy('minecraft:netherrack', '#forge:cobblestone'),
-        pureDaisy('minecraft:shroomlight', 'minecraft:glowstone')
+        pureDaisy('minecraft:shroomlight', 'minecraft:glowstone'),
+        pureDaisy('minecraft:lava', 'minecraft:magma_block')
     ];
 
     const terra = [
