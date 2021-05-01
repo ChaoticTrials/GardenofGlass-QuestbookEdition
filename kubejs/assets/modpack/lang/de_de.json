@@ -134,11 +134,21 @@
   "quests.id53.title": "Mechanisches WAS?!",
   "quests.id54.title": "Kleiner Markt",
   "quests.id55.title": "Hochkonzentrierter Manaspeicher",
+  "quests.id57.title": "Runen-Ritual",
+  "quests.id58.title": "Quell des Mimir",
+  "quests.id59.title": "Leckerer Met",
+  "quests.id60.title": "Was für ein starker Hammer!",
+  "quests.id61.title": "Alfheim",
   "quests.id49.desc": "Kamen dir die Manaverteiler jemals langsam vor? Versuche dieses Ding, es verteilt so schnell das Mana von Blumen wie ein funkelnder Spark.",
   "quests.id50.desc": "Elfen entwickeln sich auch weiter! Sie fanden heraus, dass wenn sie ihre Materialien so kombinieren wie wir es für Terrastahl machen, ein neuer Stahl entsteht - Alfstahl. Sie haben ihren eigenen Ritualaufbau dafür entwickelt. Denkst du, du schaffst es, auch Alfstahl zu erzeugen?",
   "quests.id51.desc": "Werkzeuge können mit Pylonen repariert werden! Du brauchst nur die Macht der Elfen kombiniert! Oh... nur Items, die Mana verbrauchen oder mit Reparatur verzaubert sind, können repariert werden. Alle anderen Werkzeuge sind keine richtigen Werkzeuge, also ist uns das egal!",
   "quests.id52.desc": "Willst du mich heiraten? ❤ Oh, falsche Person, entschuldige bitte! Diese Ringe sind nicht für dich bestimmt. Wenn du sie willst, bau sie dir! Es lohnt sich!",
   "quests.id53.desc": "Cool, ein bisschen einfachere Automatisation! Klingt gut zu haben. Lass mal bauen!",
   "quests.id54.desc": "Ein kleiner Markt für kleine Verhandlungen mit kleinen Elfen. Behalte aber bitte dein Brot bei dir!",
-  "quests.id55.desc": "Es speichert Mana mit der bis zur 10-fachen Kapazität eines normalen Manabeckens! Wenn du einen großen Speicher auf kleinem Raum willst, versuch es hiermit!"
+  "quests.id55.desc": "Es speichert Mana mit der bis zur 10-fachen Kapazität eines normalen Manabeckens! Wenn du einen großen Speicher auf kleinem Raum willst, versuch es hiermit!",
+  "quests.id57.desc": "Ein neues Ritual, um noch bessere Dinge herzustellen! Den zentralen Halter in die Mitte und alle benötigten Items außen herum. Tschüss, mittleres Item!",
+  "quests.id58.desc": "Ich habe Durst, ich könnte etwas Wasser gebrauchen. Warte, darin ist Mana?",
+  "quests.id59.desc": "Ich wusste es, Met macht mich schlauer und ich bringt mich zu einem besseren Ort zum Leben.",
+  "quests.id60.desc": "Das ist ja der Hammer! Bist du geschockt über dieses schlechte Wortspiel?",
+  "quests.id61.desc": "Wir müssen leise sein, uns war nie erlaubt, dort zu sein!"
 }

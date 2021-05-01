@@ -59,6 +59,11 @@
 	#The radius to find a valid spawn if no given spawn is valid
 	#Range: > 0
 	radius = 50
+	#The dimension the islands will be generated in. Vanilla dimensions:
+	#minecraft:overworld
+	#minecraft:the_nether
+	#minecraft:the_end
+	dimension = "minecraft:overworld"
 
 [inventory]
 	#Should all items be reset on first world join? [default: false]

@@ -134,11 +134,21 @@
   "quests.id53.title": "Mechanical WHAT?!",
   "quests.id54.title": "Little market",
   "quests.id55.title": "Concentrationed mana storage",
+  "quests.id57.title": "Runical Ritual",
+  "quests.id58.title": "Well of Mimir",
+  "quests.id59.title": "Delicious Mead",
+  "quests.id60.title": "What a powerful hammer",
+  "quests.id61.title": "Alfheim",
   "quests.id49.desc": "Ever thought that the Spreaders are really slow? Try this one, it collects mana from each flower like a spreader but spreads it with sparks in sparkling speed.",
   "quests.id50.desc": "Elves evolve, too! They found out that combining their materials like we do for terrasteel makes a new steel - Alfsteel. They invented their own ritual setup for that. Do you think you can craft Alfsteel, too?",
   "quests.id51.desc": "Tools can be repaired by Pylons! You just need the power of the elves combined. Oh... only mana-usable items or enchanted items with mending can be repaired. All other tools are no real tools, so we don't care!",
   "quests.id52.desc": "Do you wanna marry me? ❤ Oh, wrong person, sorry! These rings are not meant for you. If you want them, craft them. It's worth it!",
   "quests.id53.desc": "Right, a bit easier automation. Could be nice to have, just try it!",
   "quests.id54.desc": "Little market for small trades with tiny elves. Just keep your bread in your inventory.",
-  "quests.id55.desc": "It stores mana up to 10x a mana pools capacity! If you want a big storage on a small area, try this one!"
+  "quests.id55.desc": "It stores mana up to 10x a mana pools capacity! If you want a big storage on a small area, try this one!",
+  "quests.id57.desc": "A new ritual was found to make even better things! The master holder in the middle and all required items around. Bye bye, middle item!",
+  "quests.id58.desc": "I'm thirsty, I could need a fresh water. Wait, that's mana inside?",
+  "quests.id59.desc": "I already knew it, mead makes me smarter and find a better place to live.",
+  "quests.id60.desc": "Look at my hammer, my hammer is amazing. Give it a lick, it shocks you 'til death.",
+  "quests.id61.desc": "We need to be quiet, we were never allowed to go in there!"
 }

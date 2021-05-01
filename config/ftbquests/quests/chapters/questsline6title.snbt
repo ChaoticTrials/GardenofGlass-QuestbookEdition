@@ -27,8 +27,8 @@
 		},
 		{
 			title: "{quests.id51.title}",
-			x: -7.5d,
-			y: -0.5d,
+			x: -8.5d,
+			y: -3.0d,
 			subtitle: "{quests.id51.desc}",
 			dependencies: ["00000000000001F6"],
 			id: "00000000000001FB",
@@ -52,8 +52,8 @@
 		},
 		{
 			title: "{quests.id52.title}",
-			x: -4.5d,
-			y: -0.5d,
+			x: -3.5d,
+			y: -3.0d,
 			subtitle: "{quests.id52.desc}",
 			dependencies: ["00000000000001F6"],
 			id: "00000000000001FE",
@@ -77,8 +77,8 @@
 		},
 		{
 			title: "{quests.id49.title}",
-			x: -9.0d,
-			y: -3.0d,
+			x: -6.0d,
+			y: -5.5d,
 			subtitle: "{quests.id49.desc}",
 			dependencies: ["00000000000000D5"],
 			id: "0000000000000202",
@@ -158,6 +158,131 @@
 				id: "0000000000000211",
 				type: "item",
 				item: "mythicbotany:aura_ring_greatest"
+			}]
+		},
+		{
+			title: "{quests.id58.title}",
+			icon: "mythicbotany:gjallar_horn_full",
+			x: -4.5d,
+			y: -0.5d,
+			subtitle: "{quests.id58.desc}",
+			dependencies: ["00000000000001F6"],
+			id: "33C9D9068A792DAE",
+			tasks: [
+				{
+					id: "5BA7AF8D2A31166C",
+					type: "item",
+					item: "mythicbotany:gjallar_horn_empty"
+				},
+				{
+					id: "20F4AD1334F882C2",
+					type: "item",
+					item: "mythicbotany:yggdrasil_branch"
+				}
+			],
+			rewards: [{
+				id: "711F0A24F6A30CDD",
+				type: "item",
+				item: "botania:blacker_lotus",
+				count: 3
+			}]
+		},
+		{
+			title: "{quests.id57.title}",
+			icon: {
+				id: "mythicbotany:alfheim_rune",
+				Count: 2b
+			},
+			x: -7.5d,
+			y: -0.5d,
+			subtitle: "{quests.id57.desc}",
+			dependencies: ["00000000000001F6"],
+			id: "615B08A307B95902",
+			tasks: [
+				{
+					id: "13B014182E2A7335",
+					type: "item",
+					item: "mythicbotany:rune_holder",
+					count: 12L
+				},
+				{
+					id: "005E428A288DAD28",
+					type: "item",
+					item: "mythicbotany:master_rune_holder"
+				}
+			],
+			rewards: [{
+				id: "6791E1670A41E5EA",
+				type: "item",
+				item: "mythicbotany:rune_holder",
+				count: 32
+			}]
+		},
+		{
+			title: "{quests.id60.title}",
+			x: -9.0d,
+			y: 1.5d,
+			subtitle: "{quests.id60.desc}",
+			dependencies: ["615B08A307B95902"],
+			id: "26C0A51D52568F01",
+			tasks: [{
+				id: "0842E5BEED244829",
+				type: "item",
+				item: "mythicbotany:mjoellnir"
+			}],
+			rewards: [{
+				id: "0647063D6A46AE8C",
+				type: "item",
+				item: {
+					id: "minecraft:enchanted_book",
+					Count: 1b,
+					tag: {
+						StoredEnchantments: [{
+							lvl: 5s,
+							id: "minecraft:sharpness"
+						}]
+					}
+				}
+			}]
+		},
+		{
+			title: "{quests.id59.title}",
+			x: -6.0d,
+			y: 1.5d,
+			subtitle: "{quests.id59.desc}",
+			dependencies: [
+				"33C9D9068A792DAE",
+				"615B08A307B95902"
+			],
+			id: "752AFC982AA69315",
+			tasks: [{
+				id: "7EBF5674E6CFCBEC",
+				type: "item",
+				item: "mythicbotany:kvasir_mead"
+			}],
+			rewards: [{
+				id: "7DC40A3FD2FF5700",
+				type: "item",
+				item: "mythicbotany:dream_cherry",
+				count: 8
+			}]
+		},
+		{
+			title: "{quests.id61.title}",
+			x: -4.5d,
+			y: 3.5d,
+			subtitle: "{quests.id61.desc}",
+			dependencies: ["752AFC982AA69315"],
+			id: "7AE6908D3C931624",
+			tasks: [{
+				id: "754EFE41D9F2B9E8",
+				type: "dimension",
+				dimension: "mythicbotany:alfheim"
+			}],
+			rewards: [{
+				id: "588D606BDC9D0102",
+				type: "item",
+				item: "mythicbotany:wither_aconite"
 			}]
 		}
 	]
