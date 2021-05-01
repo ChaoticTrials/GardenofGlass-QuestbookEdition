@@ -3,7 +3,7 @@
         "version": "1.16.5",
         "modLoaders": [
             {
-                "id": "forge-36.1.4",
+                "id": "forge-36.1.16",
                 "primary": true
             }
         ]
@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "4.3.0",
+    "version": "4.3.1",
     "author": "MelanX",
     "projectID": 275351,
     "name": "Garden of Glass (Questbook Edition)",
@@ -42,6 +42,11 @@
             "fileID": 3180564
         },
         {
+            "_displayName": "Babel",
+            "projectID": 436964,
+            "fileID": 3196072
+        },
+        {
             "_displayName": "Better Advancements",
             "projectID": 272515,
             "fileID": 3166504
@@ -49,7 +54,7 @@
         {
             "_displayName": "Botania",
             "projectID": 225643,
-            "fileID": 3233810
+            "fileID": 3281106
         },
         {
             "_displayName": "Botania: Garden of Glass",
@@ -74,12 +79,12 @@
         {
             "_displayName": "Construction Wand",
             "projectID": 399558,
-            "fileID": 3257486
+            "fileID": 3285196
         },
         {
             "_displayName": "Controlling",
             "projectID": 250398,
-            "fileID": 3223560
+            "fileID": 3281360
         },
         {
             "_displayName": "Curios API (Forge)",
@@ -192,6 +197,11 @@
             "fileID": 3157864
         },
         {
+            "_displayName": "Just Enough Piglin Bartering",
+            "projectID": 437558,
+            "fileID": 3172880
+        },
+        {
             "_displayName": "Just Enough Resources (JER)",
             "projectID": 240630,
             "fileID": 3166519
@@ -202,14 +212,14 @@
             "fileID": 3279152
         },
         {
-            "_displayName": "KubeJS",
+            "_displayName": "KubeJS (Forge)",
             "projectID": 238086,
-            "fileID": 3269810
+            "fileID": 3286650
         },
         {
             "_displayName": "LibX",
             "projectID": 412525,
-            "fileID": 3275772
+            "fileID": 3293133
         },
         {
             "_displayName": "Lootr",
@@ -219,7 +229,7 @@
         {
             "_displayName": "MelanX Tweaks",
             "projectID": 289799,
-            "fileID": 3281061
+            "fileID": 3294735
         },
         {
             "_displayName": "MineMention",
@@ -244,7 +254,7 @@
         {
             "_displayName": "MythicBotany",
             "projectID": 400058,
-            "fileID": 3276052
+            "fileID": 3294133
         },
         {
             "_displayName": "No Default Auto-Jump",
@@ -259,7 +269,7 @@
         {
             "_displayName": "Placebo",
             "projectID": 283644,
-            "fileID": 3172794
+            "fileID": 3281276
         },
         {
             "_displayName": "RandomPatches (Forge)",
@@ -274,12 +284,12 @@
         {
             "_displayName": "Rhino",
             "projectID": 416294,
-            "fileID": 3187177
+            "fileID": 3279704
         },
         {
             "_displayName": "Skyblock Builder",
             "projectID": 446691,
-            "fileID": 3259739
+            "fileID": 3294160
         },
         {
             "_displayName": "The One Probe",

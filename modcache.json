@@ -399,6 +399,66 @@
             "_displayName": "Skyblock Builder",
             "projectID": 446691,
             "fileID": 3259739
+        },
+        "71ac3d91656f6646ea8929c0dbb08d1b": {
+            "_displayName": "Babel",
+            "projectID": 436964,
+            "fileID": 3196072
+        },
+        "1d4e075e6efa34779021ca3332333433": {
+            "_displayName": "Botania",
+            "projectID": 225643,
+            "fileID": 3281106
+        },
+        "69944b124fb65ab7956adc159c1a28da": {
+            "_displayName": "Construction Wand",
+            "projectID": 399558,
+            "fileID": 3285196
+        },
+        "bfdbe5898b497b3be0c6e7a9ba7b9aa4": {
+            "_displayName": "Controlling",
+            "projectID": 250398,
+            "fileID": 3281360
+        },
+        "61a92ca3bdff9434dc86b322f28f04d2": {
+            "_displayName": "Just Enough Piglin Bartering",
+            "projectID": 437558,
+            "fileID": 3172880
+        },
+        "cfb2fc095b107756f8235d3c130f8ed3": {
+            "_displayName": "KubeJS (Forge)",
+            "projectID": 238086,
+            "fileID": 3286650
+        },
+        "00e7ab3efc9aa934aac35e48847f6c4c": {
+            "_displayName": "LibX",
+            "projectID": 412525,
+            "fileID": 3293133
+        },
+        "2ba191cabcca9f5cad82c3f02bd895aa": {
+            "_displayName": "MelanX Tweaks",
+            "projectID": 289799,
+            "fileID": 3294735
+        },
+        "7637e2dab27d3278fbad0e04b4998edb": {
+            "_displayName": "MythicBotany",
+            "projectID": 400058,
+            "fileID": 3294133
+        },
+        "11fba0438fffd4bd1bfde1dedfd66981": {
+            "_displayName": "Placebo",
+            "projectID": 283644,
+            "fileID": 3281276
+        },
+        "2726b890dd6ad236139ca778224f6566": {
+            "_displayName": "Rhino",
+            "projectID": 416294,
+            "fileID": 3279704
+        },
+        "7af6018f61b4f21f106eb416dc8a5623": {
+            "_displayName": "Skyblock Builder",
+            "projectID": 446691,
+            "fileID": 3294160
         }
     },
     "modid_map": {
