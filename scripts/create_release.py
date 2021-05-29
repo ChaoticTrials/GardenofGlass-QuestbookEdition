@@ -138,7 +138,7 @@ def createServerZip(manifest, gitignore):
             'allow-flight=true\n',
             'enable-command-block=true\n',
             'max-players=32\n',
-            f'motd=§4Garden of Glass (Questbook Edition)\\nv{manifest["version"]}§r',
+            f'motd=§4Garden of Glass (Questbook Edition)\\nv{manifest["version"]}§r\n',
             'online-mode=true\n',
             'spawn-protection=0\n',
             'view-distance=8\n'
