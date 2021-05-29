@@ -46,6 +46,7 @@
   "quests.id18.title": "Elementiumausrüstung",
   "quests.id19.title": "Mama, ich kann fliegen!",
   "quests.id56.title": "Unendlich Wasser",
+  "quests.id62.title": "Managenerierung",
   "quests.id8.desc": "Mana in einem Pool? Das kann jeder. Aber ein Manatablett? Das hat nicht jeder! Jedoch kann man sich Rüstung und Werkzeuge bauen, die sich durch Mana reparieren lassen! Dafür brauchst du dieses Tablett! Aber Achtung: Wenn kein Mana mehr im Tablett ist, gehen deine Sachen kaputt.",
   "quests.id9.desc": "Um in den Nether zu kommen, brauchst du Obsidian. Für Obsidian brauchst du Lohenstaub. Für Lohen brauchst du Fel Pumpkins und Eisengitter.",
   "quests.id10.desc": "Runen sind der Schlüssel zu vielen Ressourcen, Blumen und mehr. Beachte, dass du für manche Sachen in den Nether musst und Sachen von dort brauchst.",
@@ -59,6 +60,7 @@
   "quests.id18.desc": "Du hast zwar schon §1blaue Rüstung§r, aber jeder weiß: pink ist geiler! Mach dir deine §5pinke Ausrüstung§r jetzt und bekomme ein pinkes AIOT geschenkt! (Nur solange der Vorrat reicht)",
   "quests.id19.desc": "Du möchtest besser sein als all die Leute da draußen. Du möchtest in die Lüfte steigen und davon fliegen! Lass deine Träume keine Träume bleiben! Tu es einfach!",
   "quests.id56.desc": "Du möchtest unendlich viel Wasser? Versuche es mit diesem Stab. Mit ihm kannst du Wasser platzieren. Du musst ihm nur über ein Mana Tablett oder einen Ring genug Mana spendieren.",
+  "quests.id62.desc": "In Botania geht es immer um Mana. Du brauchst es, um Pflanzen für dich arbeiten zu lassen. Du brauchst einen Manaverteiler, um das Mana von beispielsweise der Endoflamme in einem Manabecken zu speichern. Andere Blumen können dieses Mana dann nutzen, um zu arbeiten.",
 
   "_comment": "line 2",
   "quests.id20.title": "Der einfache Gaia",

@@ -138,8 +138,8 @@
 		{
 			title: "{quests.id4.title}",
 			icon: "botania:white_mystical_flower",
-			x: 0.7142857142857082d,
-			y: -1.482142857142854d,
+			x: 1.1785714285714235d,
+			y: -2.1785714285714235d,
 			subtitle: "{quests.id4.desc}",
 			dependencies: ["000000000000002B"],
 			id: "0000000000000031",
@@ -280,10 +280,11 @@
 		{
 			title: "{quests.id6.title}",
 			icon: "botania:orechid",
-			x: -1.0d,
-			y: 1.0d,
+			x: -1.2142857142857082d,
+			y: 1.2857142857142847d,
 			subtitle: "{quests.id6.desc}",
-			dependencies: ["0000000000000031"],
+			dependencies: ["2261EFA1CE25B59B"],
+			dependency_requirement: "one_completed",
 			id: "0000000000000037",
 			tasks: [
 				{
@@ -472,6 +473,46 @@
 						Damage: 0
 					}
 				}
+			}]
+		},
+		{
+			title: "{quests.id62.title}",
+			icon: "botania:endoflame",
+			x: 0.0d,
+			y: -0.5d,
+			subtitle: "{quests.id62.desc}",
+			dependencies: ["0000000000000031"],
+			id: "2261EFA1CE25B59B",
+			tasks: [
+				{
+					id: "69DDFE2110AACBDA",
+					type: "item",
+					title: "Any #botania:generating_special_flowers",
+					item: {
+						id: "itemfilters:tag",
+						Count: 1b,
+						tag: {
+							value: "botania:generating_special_flowers"
+						}
+					},
+					count: 2L
+				},
+				{
+					id: "38F7D61352B84B08",
+					type: "item",
+					item: "botania:mana_pool"
+				},
+				{
+					id: "2F333E852C6EBF97",
+					type: "item",
+					item: "botania:mana_spreader"
+				}
+			],
+			rewards: [{
+				id: "43859BE1680DD51E",
+				type: "item",
+				item: "botania:endoflame",
+				count: 2
 			}]
 		}
 	]
