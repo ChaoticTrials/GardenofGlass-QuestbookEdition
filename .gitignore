@@ -27,7 +27,7 @@
 !config/minemention.json5
 !config/sidebar_buttons.json
 !config/skyblockbuilder
-!config/skyblockbuilder/config.toml
+!config/skyblockbuilder/common-config.json5
 !config/skyblockbuilder/spawns.json
 !config/skyblockbuilder/template.nbt
 !config/theoneprobe-*.toml

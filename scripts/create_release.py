@@ -12,7 +12,7 @@ import gitignore_parser
 import changelog_creator
 import modlist
 
-MOD_LIST_CREATOR_VERSION = '1.1.4'
+MOD_LIST_CREATOR_VERSION = '1.2.1'
 
 
 def main():
