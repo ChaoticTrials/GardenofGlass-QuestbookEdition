@@ -3,7 +3,7 @@
         "version": "1.16.5",
         "modLoaders": [
             {
-                "id": "forge-36.1.16",
+                "id": "forge-36.1.24",
                 "primary": true
             }
         ]
@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "4.3.2",
+    "version": "4.3.3",
     "author": "MelanX",
     "projectID": 275351,
     "name": "Garden of Glass (Questbook Edition)",
@@ -24,7 +24,7 @@
         {
             "_displayName": "AIOT Botania",
             "projectID": 294815,
-            "fileID": 3261322
+            "fileID": 3310699
         },
         {
             "_displayName": "AppleSkin",
@@ -34,7 +34,7 @@
         {
             "_displayName": "Architectury API (Forge)",
             "projectID": 419699,
-            "fileID": 3279826
+            "fileID": 3327174
         },
         {
             "_displayName": "Automatic Tool Swap",
@@ -54,7 +54,7 @@
         {
             "_displayName": "Botania",
             "projectID": 225643,
-            "fileID": 3281106
+            "fileID": 3300995
         },
         {
             "_displayName": "Botania: Garden of Glass",
@@ -74,7 +74,7 @@
         {
             "_displayName": "Cloth Config API (Forge)",
             "projectID": 348521,
-            "fileID": 3261152
+            "fileID": 3311352
         },
         {
             "_displayName": "Construction Wand",
@@ -84,7 +84,7 @@
         {
             "_displayName": "Controlling",
             "projectID": 250398,
-            "fileID": 3281360
+            "fileID": 3328039
         },
         {
             "_displayName": "Curios API (Forge)",
@@ -134,7 +134,7 @@
         {
             "_displayName": "FancyMenu [Forge]",
             "projectID": 367706,
-            "fileID": 3256196
+            "fileID": 3314406
         },
         {
             "_displayName": "Fast Leaf Decay",
@@ -192,9 +192,19 @@
             "fileID": 3231742
         },
         {
+            "_displayName": "Just Enough Advancements (JEA)",
+            "projectID": 444941,
+            "fileID": 3300267
+        },
+        {
             "_displayName": "Just Enough Items (JEI)",
             "projectID": 238222,
             "fileID": 3157864
+        },
+        {
+            "_displayName": "Just Enough Items (JEI)",
+            "projectID": 238222,
+            "fileID": 3327383
         },
         {
             "_displayName": "Just Enough Piglin Bartering",
@@ -214,12 +224,17 @@
         {
             "_displayName": "KubeJS (Forge)",
             "projectID": 238086,
-            "fileID": 3286650
+            "fileID": 3320816
         },
         {
             "_displayName": "LibX",
             "projectID": 412525,
-            "fileID": 3293133
+            "fileID": 3296083
+        },
+        {
+            "_displayName": "LibX",
+            "projectID": 412525,
+            "fileID": 3328255
         },
         {
             "_displayName": "Lootr",
@@ -239,7 +254,7 @@
         {
             "_displayName": "More Overlays Updated",
             "projectID": 391382,
-            "fileID": 3102376
+            "fileID": 3172013
         },
         {
             "_displayName": "Morpheus",
@@ -254,7 +269,7 @@
         {
             "_displayName": "MythicBotany",
             "projectID": 400058,
-            "fileID": 3294133
+            "fileID": 3324159
         },
         {
             "_displayName": "No Default Auto-Jump",
@@ -264,12 +279,12 @@
         {
             "_displayName": "Patchouli",
             "projectID": 306770,
-            "fileID": 3204037
+            "fileID": 3300030
         },
         {
             "_displayName": "Placebo",
             "projectID": 283644,
-            "fileID": 3281276
+            "fileID": 3314315
         },
         {
             "_displayName": "RandomPatches (Forge)",
@@ -284,17 +299,17 @@
         {
             "_displayName": "Rhino",
             "projectID": 416294,
-            "fileID": 3279704
+            "fileID": 3319221
         },
         {
             "_displayName": "Skyblock Builder",
             "projectID": 446691,
-            "fileID": 3294160
+            "fileID": 3302879
         },
         {
             "_displayName": "The One Probe",
             "projectID": 245211,
-            "fileID": 3157997
+            "fileID": 3319255
         },
         {
             "_displayName": "Toast Control",
