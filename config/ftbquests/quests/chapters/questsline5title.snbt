@@ -753,14 +753,41 @@
 			subtitle: "{quests.id43.desc}",
 			id: "0000000000000181",
 			tasks: [{
-				id: "0000000000000182",
+				id: "58BED89D2BEF2176",
 				type: "item",
-				item: {
+				title: "Terra Shatterer SS Rank",
+				icon: {
 					id: "botania:terra_pick",
 					Count: 1b,
 					tag: {
 						mana: 2147483646,
 						Damage: 0
+					}
+				},
+				item: {
+					id: "itemfilters:and",
+					Count: 1b,
+					tag: {
+						items: [
+							{
+								id: "botania:terra_pick",
+								Count: 1b,
+								tag: {
+									mana: 0,
+									Damage: 0
+								}
+							},
+							{
+								id: "itemfilters:weak_nbt",
+								Count: 1b,
+								tag: {
+									value: {
+										mana: 2147483646,
+										Damage: 0
+									}
+								}
+							}
+						]
 					}
 				}
 			}],
