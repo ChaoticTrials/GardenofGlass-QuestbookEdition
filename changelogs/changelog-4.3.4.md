@@ -1,0 +1,106 @@
+# Changelog for Garden of Glass (Questbook Edition) 4.3.4
+## Mod Changes
+### Forge updated
+forge-36.1.24 --> forge-36.2.0
+### Updated
+- [aiotbotania-1.16.4-1.7.6.jar](https://www.curseforge.com/minecraft/mc-mods/aiot-botania/files/3310699) --> [aiotbotania-1.16.5-1.8.0.jar](https://www.curseforge.com/minecraft/mc-mods/aiot-botania/files/3377560)
+	- allow sword enchantments on aiots  MelanX
+	- fix crash with Botania 1.16.5415 when using elementium aiot  MelanX
+- [AppleSkin-mc1.16.2-forge-1.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3035787) --> [appleskin-forge-mc1.16.x-2.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3395800)
+	- Fix display issues for food with no hunger/saturation (#122, thanks @sagessecn)
+	- Make flashing food values not show up when the player can't eat the food they're holding (#124, thanks @sagessecn)
+	- Draw hunger/saturation text in tooltip as grey to match normal tooltip text
+	- Fix some config settings controlling more than they should (like SHOW_FOOD_VALUES_OVERLAY controlling health overlay rendering)
+	- Fix crash when health/absorption is infinite
+- [[Forge 1.16.4/5] v1.17.16](https://www.curseforge.com/minecraft/mc-mods/architectury-forge/files/3327174) --> [[Forge 1.16.4/5] v1.20.28](https://www.curseforge.com/minecraft/mc-mods/architectury-forge/files/3385660)
+	- Architectury v1.20.28 for 1.16.4/5Updated at 20210712 04:04.
+	- Click here for changelog
+	- Added SimpleNetworkManager (#120)
+- [ToolSwap-1.16.2-1.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap/files/3180564) --> [ToolSwap-1.16.2-1.3.2.jar](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap/files/3370986)
+	- fix jenkinsfile to work with Java 8  MelanX
+	- add github issue templates  MelanX
+	- switch to nondamagable item if no matching tool is available  MelanX
+	- swords now used for cobwebs  MelanX
+	- remove cooldown, add config for min durability and swap to equal tool when saving  MelanX
+- [Botania-1.16.5-416.jar](https://www.curseforge.com/minecraft/mc-mods/botania/files/3300995) --> [Botania-1.16.5-419.jar](https://www.curseforge.com/minecraft/mc-mods/botania/files/3386883)
+	- https://botaniamod.net/changelog.php#1165419fake
+- [botanicalmachinery-1.16.4-0.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/botanical-machinery/files/3279377) --> [botanicalmachinery-1.16.4-0.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/botanical-machinery/files/3342952)
+	- Little fixes to the mana battery and some mythicbotany compat (#44)  noeppi_noeppi
+- [carryon-1.16.5-1.15.3.13](https://www.curseforge.com/minecraft/mc-mods/carry-on/files/3206755) --> [carryon-1.16.5-1.15.5.15.jar](https://www.curseforge.com/minecraft/mc-mods/carry-on/files/3339353)
+	- Fixed crash on startup
+	- Fixed issue that could affect people who are sensitive to flashing lights.
+	- added waystones to default blacklist
+- [Controlling-7.0.0.20.jar](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3328039) --> [Controlling-7.0.0.23.jar](https://www.curseforge.com/minecraft/mc-mods/controlling/files/3348514)
+	- Current version: 7.0.0.23
+	- Future proof Jenkinsfile  Jared  Sat Jun 12 03:55:09 2021
+	- Change showConflicts and showNone  zeedif  Tue Jun 8 18:08:17 2021
+	- Added language eses  zeedif  Tue Jun 8 16:24:32 2021
+	- Add Ukrainian thanks to ProSplash1 on CurseForge  Jared  Fri May 28 13:37:52 2021
+- [curios-forge-1.16.5-4.0.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/curios/files/3275653) --> [curios-forge-1.16.5-4.0.5.2.jar](https://www.curseforge.com/minecraft/mc-mods/curios/files/3343065)
+	- Changelog
+	- All notable changes to this project will be documented in this file.
+	- The format is based on Keep a Changelog and this project adheres to Forge Recommended Versioning.
+	- [1.16.54.0.5.2]  2021.06.07
+	- Added
+- [DefaultOptions_1.16.3-12.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/default-options/files/3066044) --> [DefaultOptions_1.16.5-12.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/default-options/files/3330403)
+	- Fixes
+	- Fixed resource packs and language option not being applied from default options
+	- Fixed default difficulty option overriding the selection made in world creation screen
+- [FancyMenu v2.0.7 MC 1.16.2-1.16.5](https://www.curseforge.com/minecraft/mc-mods/fancymenu/files/3314406) --> [FancyMenu v2.2.0 MC 1.16.2-1.16.5](https://www.curseforge.com/minecraft/mc-mods/fancymenu/files/3391015)
+	- CHANGELOG | FANCYMENU v2.2.0
+	- Fabric: Lifted minimum required Konkrete version to v1.2.2
+	- Fabric: Official support for MC 1.17.1
+	- Added: New animation system
+	- The old system still works, but it's DEPRECATED now and will be REMOVED IN ~3 MONTHS
+	- And a bit more...
+- [ForgivingVoid_1.16.3-5.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/forgiving-void/files/3066090) --> [ForgivingVoid_1.16.5-5.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/forgiving-void/files/3330716)
+	- Fixes
+	- Fixed mod showing as missing on client even though it only needs to be on server
+- [item-filters-1605.2.4-build.30-forge.jar](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge/files/3231742) --> [item-filters-forge-1605.2.5-build.9.jar](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge/files/3376819)
+	- More fixes  LatvianModder
+	- Deleted AW file as its unused  LatvianModder
+- [jei-1.16.4-7.6.1.65.jar](https://www.curseforge.com/minecraft/mc-mods/jei/files/3157864) --> [jei-1.16.5-7.7.0.101.jar](https://www.curseforge.com/minecraft/mc-mods/jei/files/3327383)
+	- Current release 7.7.0.101
+	- Note the legacy padding behavior for IGuiItemStackGroup#init in the API docs  mezz
+	- Update Russian locale (#2368)  Sergey Brovko
+	- Update tr_tr.json (#2357)  omerfarukcakmak
+	- For #2354, tint recipe transfer button for COSMETICtype errors  mezz
+- [kubejs-1605.3.10-build.8-forge.jar](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge/files/3320816) --> [kubejs-forge-1605.3.13-build.43.jar](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge/files/3397256)
+	- Merge branch 'dev' into main  LatvianModder
+	- Added more methods in plugins  addRecipes, attachServerData, attachWorldData, attachPlayerData  LatvianModder
+	- Merge remotetracking branch 'origin/dev' into dev  LatvianModder
+	- Merge pull request #156 from lythowastaken/fix/jeisuffering  Max
+	- Updated Arch, switched to SimpleNetworkManager  LatvianModder
+- [LibX-1.16.3-1.0.63.jar](https://www.curseforge.com/minecraft/mc-mods/libx/files/3296083) --> [LibX-1.16.3-1.0.76.jar](https://www.curseforge.com/minecraft/mc-mods/libx/files/3329216)
+	- Fixed enum data serializers  noeppi_noeppi
+- [lootr-1.16.4-0.0.5.17.jar](https://www.curseforge.com/minecraft/mc-mods/lootr/files/3272069) --> [lootr-1.16.5-0.0.6.18.jar](https://www.curseforge.com/minecraft/mc-mods/lootr/files/3392297)
+	- Fix barrel particles, bump version for release. (eb1fea6)
+	- Fix more issues with custom loot inventories (8cefb12)
+	- Add missing particle textures for barrels. (6897920)
+	- Update example loot table for #35. (1b9e626)
+	- Revert 100 loot chest advancement to use Netherite Block for consistency. (b1d5460)
+- [[1.16.5] MoreOverlays 1.18.13](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated/files/3172013) --> [[1.16.5] MoreOverlays 1.18.15](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated/files/3395133)
+	- Before this version it was not possible to check for mob spawns on blocks above the player in third person mode. This has been fixed in this version.
+	- Previous versions:
+	- This version:
+- [MythicBotany-1.16.4-1.3.12.jar](https://www.curseforge.com/minecraft/mc-mods/mythicbotany/files/3324159) --> [MythicBotany-1.16.4-1.3.19.jar](https://www.curseforge.com/minecraft/mc-mods/mythicbotany/files/3395875)
+	- Bugfixes and made it possible to hold mj&ouml;llnir indefinitely when a ring of thor is equipped. Also changed a rune ritual recipe a little bit.
+- [Patchouli-1.16.4-51.jar](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/3300030) --> [Patchouli-1.16.4-53.1.jar](https://www.curseforge.com/minecraft/mc-mods/patchouli/files/3374063)
+	- https://github.com/Vazkii/Patchouli/releases/tag/release1.16.453.1forge
+- [Placebo-1.16.4-4.4.5.jar](https://www.curseforge.com/minecraft/mc-mods/placebo/files/3314315) --> [Placebo-1.16.4-4.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/placebo/files/3331459)
+	- Made it so the StackLootEntry can be serialized and deserialized properly.
+	- Added Patreon Wings for $10 patrons.
+	- Added buttons to individually disable Trails and Wings.
+- [rhino-1605.1.0-build.4.jar](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3319221) --> [rhino-1605.1.1-build.21.jar](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3354586)
+	- Changed JDK version to 11  LatvianModder
+	- Removed source compiling  LatvianModder
+	- Removed language levels. It's only ES6 now  LatvianModder
+	- Removed toSource() from most places  LatvianModder
+	- More cleanup, added let test  LatvianModder
+- [skyblockbuilder-1.16.4-1.5.4.jar](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder/files/3302879) --> [SkyblockBuilder-1.16.4-1.6.2.jar](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder/files/3353123)
+	- fix spawn is a valid team  MelanX
+
+
+## Internal changes
+- [fix reward table to use Elementium Hoe by Botania instead of AIOT Botania](https://github.com/MelanX/GardenofGlass-QuestbookEdition/commit/65ec0622c38d4868086ba926fe6f53f599e7eadb)
+- [fix terra shatter ss rank quest](https://github.com/MelanX/GardenofGlass-QuestbookEdition/commit/4aa8db9dfa0d7bdc5f2172343c6f95f57b735971)

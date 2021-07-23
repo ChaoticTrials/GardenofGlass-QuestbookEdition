@@ -3,7 +3,7 @@
         "version": "1.16.5",
         "modLoaders": [
             {
-                "id": "forge-36.1.24",
+                "id": "forge-36.2.0",
                 "primary": true
             }
         ]
@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "overrides": "overrides",
     "manifestVersion": 1,
-    "version": "4.3.3",
+    "version": "4.3.4",
     "author": "MelanX",
     "projectID": 275351,
     "name": "Garden of Glass (Questbook Edition)",
@@ -24,22 +24,22 @@
         {
             "_displayName": "AIOT Botania",
             "projectID": 294815,
-            "fileID": 3310699
+            "fileID": 3377560
         },
         {
             "_displayName": "AppleSkin",
             "projectID": 248787,
-            "fileID": 3035787
+            "fileID": 3395800
         },
         {
             "_displayName": "Architectury API (Forge)",
             "projectID": 419699,
-            "fileID": 3327174
+            "fileID": 3385660
         },
         {
             "_displayName": "Automatic Tool Swap",
             "projectID": 361977,
-            "fileID": 3180564
+            "fileID": 3370986
         },
         {
             "_displayName": "Babel",
@@ -54,7 +54,7 @@
         {
             "_displayName": "Botania",
             "projectID": 225643,
-            "fileID": 3300995
+            "fileID": 3386883
         },
         {
             "_displayName": "Botania: Garden of Glass",
@@ -64,12 +64,12 @@
         {
             "_displayName": "Botanical Machinery",
             "projectID": 395617,
-            "fileID": 3279377
+            "fileID": 3342952
         },
         {
             "_displayName": "Carry On",
             "projectID": 274259,
-            "fileID": 3206755
+            "fileID": 3339353
         },
         {
             "_displayName": "Cloth Config API (Forge)",
@@ -84,17 +84,17 @@
         {
             "_displayName": "Controlling",
             "projectID": 250398,
-            "fileID": 3328039
+            "fileID": 3348514
         },
         {
             "_displayName": "Curios API (Forge)",
             "projectID": 309927,
-            "fileID": 3275653
+            "fileID": 3343065
         },
         {
             "_displayName": "Default Options",
             "projectID": 232131,
-            "fileID": 3066044
+            "fileID": 3330403
         },
         {
             "_displayName": "Ding",
@@ -134,7 +134,7 @@
         {
             "_displayName": "FancyMenu [Forge]",
             "projectID": 367706,
-            "fileID": 3314406
+            "fileID": 3391015
         },
         {
             "_displayName": "Fast Leaf Decay",
@@ -154,7 +154,7 @@
         {
             "_displayName": "Forgiving Void",
             "projectID": 271009,
-            "fileID": 3066090
+            "fileID": 3330716
         },
         {
             "_displayName": "GraveStone Mod",
@@ -187,9 +187,9 @@
             "fileID": 3164598
         },
         {
-            "_displayName": "Item Filters",
+            "_displayName": "Item Filters (Forge)",
             "projectID": 309674,
-            "fileID": 3231742
+            "fileID": 3376819
         },
         {
             "_displayName": "Just Enough Advancements (JEA)",
@@ -224,22 +224,17 @@
         {
             "_displayName": "KubeJS (Forge)",
             "projectID": 238086,
-            "fileID": 3320816
+            "fileID": 3397256
         },
         {
             "_displayName": "LibX",
             "projectID": 412525,
-            "fileID": 3296083
-        },
-        {
-            "_displayName": "LibX",
-            "projectID": 412525,
-            "fileID": 3328255
+            "fileID": 3329216
         },
         {
             "_displayName": "Lootr",
             "projectID": 361276,
-            "fileID": 3272069
+            "fileID": 3392297
         },
         {
             "_displayName": "MelanX Tweaks",
@@ -254,7 +249,7 @@
         {
             "_displayName": "More Overlays Updated",
             "projectID": 391382,
-            "fileID": 3172013
+            "fileID": 3395133
         },
         {
             "_displayName": "Morpheus",
@@ -269,7 +264,7 @@
         {
             "_displayName": "MythicBotany",
             "projectID": 400058,
-            "fileID": 3324159
+            "fileID": 3395875
         },
         {
             "_displayName": "No Default Auto-Jump",
@@ -279,12 +274,12 @@
         {
             "_displayName": "Patchouli",
             "projectID": 306770,
-            "fileID": 3300030
+            "fileID": 3374063
         },
         {
             "_displayName": "Placebo",
             "projectID": 283644,
-            "fileID": 3314315
+            "fileID": 3331459
         },
         {
             "_displayName": "RandomPatches (Forge)",
@@ -299,12 +294,12 @@
         {
             "_displayName": "Rhino",
             "projectID": 416294,
-            "fileID": 3319221
+            "fileID": 3354586
         },
         {
             "_displayName": "Skyblock Builder",
             "projectID": 446691,
-            "fileID": 3302879
+            "fileID": 3353123
         },
         {
             "_displayName": "The One Probe",
