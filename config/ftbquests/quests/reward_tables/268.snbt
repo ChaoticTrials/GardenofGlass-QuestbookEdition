@@ -15,7 +15,7 @@
 		},
 		{
 			item: {
-				id: "aiotbotania:elementium_hoe",
+				id: "botania:elementium_hoe",
 				Count: 1b,
 				tag: {
 					Damage: 0
